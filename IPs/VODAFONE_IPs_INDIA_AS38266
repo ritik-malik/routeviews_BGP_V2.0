@@ -1,0 +1,1476 @@
+{'ip': '104.94.19.0', 'hostname': 'a104-94-19-0.deploy.static.akamaitechnologies.com', 'city': 'Cambridge', 'region': 'Massachusetts', 'country': 'US', 'loc': '42.3620,-71.0830', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '02142', 'timezone': 'America/New_York', 'country_name': 'United States', 'latitude': '42.3620', 'longitude': '-71.0830'}
+
+
+{'ip': '106.66.3.0', 'city': 'Alīgarh', 'region': 'Uttar Pradesh', 'country': 'IN', 'loc': '27.8815,78.0746', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '328021', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '27.8815', 'longitude': '78.0746'}
+
+
+{'ip': '112.79.100.0', 'hostname': '112-79-100-0.live.vodafone.in', 'city': 'Roorkee', 'region': 'Uttarakhand', 'country': 'IN', 'loc': '29.8663,77.8912', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '247667', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '29.8663', 'longitude': '77.8912'}
+
+
+{'ip': '112.79.102.0', 'hostname': '112-79-102-0.live.vodafone.in', 'city': 'Roorkee', 'region': 'Uttarakhand', 'country': 'IN', 'loc': '29.8663,77.8912', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '247667', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '29.8663', 'longitude': '77.8912'}
+
+
+{'ip': '112.79.104.0', 'hostname': '112-79-104-0.live.vodafone.in', 'city': 'Kanpur', 'region': 'Uttar Pradesh', 'country': 'IN', 'loc': '26.4652,80.3498', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '208002', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '26.4652', 'longitude': '80.3498'}
+
+
+{'ip': '112.79.105.0', 'hostname': '112-79-105-0.live.vodafone.in', 'city': 'Kanpur', 'region': 'Uttar Pradesh', 'country': 'IN', 'loc': '26.4652,80.3498', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '208002', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '26.4652', 'longitude': '80.3498'}
+
+
+{'ip': '112.79.106.0', 'hostname': '112-79-106-0.live.vodafone.in', 'city': 'Kanpur', 'region': 'Uttar Pradesh', 'country': 'IN', 'loc': '26.4652,80.3498', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '208002', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '26.4652', 'longitude': '80.3498'}
+
+
+{'ip': '112.79.107.0', 'hostname': '112-79-107-0.live.vodafone.in', 'city': 'Kanpur', 'region': 'Uttar Pradesh', 'country': 'IN', 'loc': '26.4652,80.3498', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '208002', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '26.4652', 'longitude': '80.3498'}
+
+
+{'ip': '112.79.108.0', 'hostname': '112-79-108-0.live.vodafone.in', 'city': 'Kanpur', 'region': 'Uttar Pradesh', 'country': 'IN', 'loc': '26.4652,80.3498', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '208002', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '26.4652', 'longitude': '80.3498'}
+
+
+{'ip': '112.79.109.0', 'hostname': '112-79-109-0.live.vodafone.in', 'city': 'Kanpur', 'region': 'Uttar Pradesh', 'country': 'IN', 'loc': '26.4652,80.3498', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '208002', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '26.4652', 'longitude': '80.3498'}
+
+
+{'ip': '112.79.110.0', 'hostname': '112-79-110-0.live.vodafone.in', 'city': 'Kanpur', 'region': 'Uttar Pradesh', 'country': 'IN', 'loc': '26.4652,80.3498', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '208002', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '26.4652', 'longitude': '80.3498'}
+
+
+{'ip': '112.79.111.0', 'hostname': '112-79-111-0.live.vodafone.in', 'city': 'Kanpur', 'region': 'Uttar Pradesh', 'country': 'IN', 'loc': '26.4652,80.3498', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '208002', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '26.4652', 'longitude': '80.3498'}
+
+
+{'ip': '112.79.112.0', 'hostname': '112-79-112-0.live.vodafone.in', 'city': 'Siliguri', 'region': 'West Bengal', 'country': 'IN', 'loc': '26.7100,88.4285', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '734011', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '26.7100', 'longitude': '88.4285'}
+
+
+{'ip': '112.79.112.0', 'hostname': '112-79-112-0.live.vodafone.in', 'city': 'Siliguri', 'region': 'West Bengal', 'country': 'IN', 'loc': '26.7100,88.4285', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '734011', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '26.7100', 'longitude': '88.4285'}
+
+
+{'ip': '112.79.113.0', 'hostname': '112-79-113-0.live.vodafone.in', 'city': 'Siliguri', 'region': 'West Bengal', 'country': 'IN', 'loc': '26.7100,88.4285', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '734011', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '26.7100', 'longitude': '88.4285'}
+
+
+{'ip': '112.79.114.0', 'hostname': '112-79-114-0.live.vodafone.in', 'city': 'Siliguri', 'region': 'West Bengal', 'country': 'IN', 'loc': '26.7100,88.4285', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '734011', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '26.7100', 'longitude': '88.4285'}
+
+
+{'ip': '112.79.115.0', 'hostname': '112-79-115-0.live.vodafone.in', 'city': 'Siliguri', 'region': 'West Bengal', 'country': 'IN', 'loc': '26.7100,88.4285', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '734011', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '26.7100', 'longitude': '88.4285'}
+
+
+{'ip': '112.79.116.0', 'hostname': '112-79-116-0.live.vodafone.in', 'city': 'Siliguri', 'region': 'West Bengal', 'country': 'IN', 'loc': '26.7100,88.4285', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '734011', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '26.7100', 'longitude': '88.4285'}
+
+
+{'ip': '112.79.117.0', 'hostname': '112-79-117-0.live.vodafone.in', 'city': 'Siliguri', 'region': 'West Bengal', 'country': 'IN', 'loc': '26.7100,88.4285', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '734011', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '26.7100', 'longitude': '88.4285'}
+
+
+{'ip': '112.79.118.0', 'hostname': '112-79-118-0.live.vodafone.in', 'city': 'Siliguri', 'region': 'West Bengal', 'country': 'IN', 'loc': '26.7100,88.4285', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '734011', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '26.7100', 'longitude': '88.4285'}
+
+
+{'ip': '112.79.119.0', 'hostname': '112-79-119-0.live.vodafone.in', 'city': 'Siliguri', 'region': 'West Bengal', 'country': 'IN', 'loc': '26.7100,88.4285', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '734011', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '26.7100', 'longitude': '88.4285'}
+
+
+{'ip': '112.79.120.0', 'hostname': '112-79-120-0.live.vodafone.in', 'city': 'Lucknow', 'region': 'Uttar Pradesh', 'country': 'IN', 'loc': '26.8393,80.9231', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '226004', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '26.8393', 'longitude': '80.9231'}
+
+
+{'ip': '112.79.120.0', 'hostname': '112-79-120-0.live.vodafone.in', 'city': 'Lucknow', 'region': 'Uttar Pradesh', 'country': 'IN', 'loc': '26.8393,80.9231', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '226004', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '26.8393', 'longitude': '80.9231'}
+
+
+{'ip': '112.79.121.0', 'hostname': '112-79-121-0.live.vodafone.in', 'city': 'Lucknow', 'region': 'Uttar Pradesh', 'country': 'IN', 'loc': '26.8393,80.9231', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '226004', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '26.8393', 'longitude': '80.9231'}
+
+
+{'ip': '112.79.122.0', 'hostname': '112-79-122-0.live.vodafone.in', 'city': 'Lucknow', 'region': 'Uttar Pradesh', 'country': 'IN', 'loc': '26.8393,80.9231', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '226004', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '26.8393', 'longitude': '80.9231'}
+
+
+{'ip': '112.79.123.0', 'hostname': '112-79-123-0.live.vodafone.in', 'city': 'Lucknow', 'region': 'Uttar Pradesh', 'country': 'IN', 'loc': '26.8393,80.9231', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '226004', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '26.8393', 'longitude': '80.9231'}
+
+
+{'ip': '112.79.124.0', 'hostname': '112-79-124-0.live.vodafone.in', 'city': 'Lucknow', 'region': 'Uttar Pradesh', 'country': 'IN', 'loc': '26.8393,80.9231', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '226004', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '26.8393', 'longitude': '80.9231'}
+
+
+{'ip': '112.79.125.0', 'hostname': '112-79-125-0.live.vodafone.in', 'city': 'Lucknow', 'region': 'Uttar Pradesh', 'country': 'IN', 'loc': '26.8393,80.9231', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '226004', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '26.8393', 'longitude': '80.9231'}
+
+
+{'ip': '112.79.126.0', 'hostname': '112-79-126-0.live.vodafone.in', 'city': 'Lucknow', 'region': 'Uttar Pradesh', 'country': 'IN', 'loc': '26.8393,80.9231', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '226004', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '26.8393', 'longitude': '80.9231'}
+
+
+{'ip': '112.79.127.0', 'hostname': '112-79-127-0.live.vodafone.in', 'city': 'Lucknow', 'region': 'Uttar Pradesh', 'country': 'IN', 'loc': '26.8393,80.9231', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '226004', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '26.8393', 'longitude': '80.9231'}
+
+
+{'ip': '112.79.128.0', 'hostname': '112-79-128-0.live.vodafone.in', 'city': 'Lucknow', 'region': 'Uttar Pradesh', 'country': 'IN', 'loc': '26.8393,80.9231', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '226004', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '26.8393', 'longitude': '80.9231'}
+
+
+{'ip': '112.79.128.0', 'hostname': '112-79-128-0.live.vodafone.in', 'city': 'Lucknow', 'region': 'Uttar Pradesh', 'country': 'IN', 'loc': '26.8393,80.9231', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '226004', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '26.8393', 'longitude': '80.9231'}
+
+
+{'ip': '112.79.132.0', 'hostname': '112-79-132-0.live.vodafone.in', 'city': 'Lucknow', 'region': 'Uttar Pradesh', 'country': 'IN', 'loc': '26.8393,80.9231', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '226004', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '26.8393', 'longitude': '80.9231'}
+
+
+{'ip': '112.79.136.0', 'hostname': '112-79-136-0.live.vodafone.in', 'city': 'Lucknow', 'region': 'Uttar Pradesh', 'country': 'IN', 'loc': '26.8393,80.9231', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '226004', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '26.8393', 'longitude': '80.9231'}
+
+
+{'ip': '112.79.140.0', 'hostname': '112-79-140-0.live.vodafone.in', 'city': 'Lucknow', 'region': 'Uttar Pradesh', 'country': 'IN', 'loc': '26.8393,80.9231', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '226004', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '26.8393', 'longitude': '80.9231'}
+
+
+{'ip': '112.79.144.0', 'hostname': '112-79-144-0.live.vodafone.in', 'city': 'Lucknow', 'region': 'Uttar Pradesh', 'country': 'IN', 'loc': '26.8393,80.9231', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '226004', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '26.8393', 'longitude': '80.9231'}
+
+
+{'ip': '112.79.152.0', 'hostname': '112-79-152-0.live.vodafone.in', 'city': 'Lucknow', 'region': 'Uttar Pradesh', 'country': 'IN', 'loc': '26.8393,80.9231', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '226004', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '26.8393', 'longitude': '80.9231'}
+
+
+{'ip': '112.79.156.0', 'hostname': '112-79-156-0.live.vodafone.in', 'city': 'Lucknow', 'region': 'Uttar Pradesh', 'country': 'IN', 'loc': '26.8393,80.9231', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '226004', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '26.8393', 'longitude': '80.9231'}
+
+
+{'ip': '112.79.160.0', 'hostname': '112-79-160-0.live.vodafone.in', 'city': 'Lucknow', 'region': 'Uttar Pradesh', 'country': 'IN', 'loc': '26.8393,80.9231', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '226004', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '26.8393', 'longitude': '80.9231'}
+
+
+{'ip': '112.79.164.0', 'hostname': '112-79-164-0.live.vodafone.in', 'city': 'Lucknow', 'region': 'Uttar Pradesh', 'country': 'IN', 'loc': '26.8393,80.9231', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '226004', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '26.8393', 'longitude': '80.9231'}
+
+
+{'ip': '112.79.192.0', 'hostname': '112-79-192-0.live.vodafone.in', 'city': 'Lucknow', 'region': 'Uttar Pradesh', 'country': 'IN', 'loc': '26.8393,80.9231', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '226004', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '26.8393', 'longitude': '80.9231'}
+
+
+{'ip': '112.79.224.0', 'hostname': '112-79-224-0.live.vodafone.in', 'city': 'Varanasi', 'region': 'Uttar Pradesh', 'country': 'IN', 'loc': '25.3167,83.0104', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '221001', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '25.3167', 'longitude': '83.0104'}
+
+
+{'ip': '112.79.32.0', 'hostname': '112-79-32-0.live.vodafone.in', 'city': 'Mumbai', 'region': 'Maharashtra', 'country': 'IN', 'loc': '18.9860,72.8259', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '400028', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '18.9860', 'longitude': '72.8259'}
+
+
+{'ip': '112.79.33.0', 'hostname': '112-79-33-0.live.vodafone.in', 'city': 'Mumbai', 'region': 'Maharashtra', 'country': 'IN', 'loc': '18.9860,72.8259', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '400028', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '18.9860', 'longitude': '72.8259'}
+
+
+{'ip': '112.79.34.0', 'hostname': '112-79-34-0.live.vodafone.in', 'city': 'Mumbai', 'region': 'Maharashtra', 'country': 'IN', 'loc': '18.9860,72.8259', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '400028', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '18.9860', 'longitude': '72.8259'}
+
+
+{'ip': '112.79.35.0', 'hostname': '112-79-35-0.live.vodafone.in', 'city': 'Pune', 'region': 'Maharashtra', 'country': 'IN', 'loc': '18.5196,73.8554', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '411005', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '18.5196', 'longitude': '73.8554'}
+
+
+{'ip': '112.79.36.0', 'hostname': '112-79-36-0.live.vodafone.in', 'city': 'Pune', 'region': 'Maharashtra', 'country': 'IN', 'loc': '18.5196,73.8554', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '411005', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '18.5196', 'longitude': '73.8554'}
+
+
+{'ip': '112.79.37.0', 'hostname': '112-79-37-0.live.vodafone.in', 'city': 'Pune', 'region': 'Maharashtra', 'country': 'IN', 'loc': '18.5196,73.8554', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '411005', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '18.5196', 'longitude': '73.8554'}
+
+
+{'ip': '112.79.38.0', 'hostname': '112-79-38-0.live.vodafone.in', 'city': 'Mumbai', 'region': 'Maharashtra', 'country': 'IN', 'loc': '18.9860,72.8259', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '400028', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '18.9860', 'longitude': '72.8259'}
+
+
+{'ip': '112.79.39.0', 'hostname': '112-79-39-0.live.vodafone.in', 'city': 'Pune', 'region': 'Maharashtra', 'country': 'IN', 'loc': '18.5196,73.8554', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '411005', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '18.5196', 'longitude': '73.8554'}
+
+
+{'ip': '112.79.40.0', 'hostname': '112-79-40-0.live.vodafone.in', 'city': 'Mumbai', 'region': 'Maharashtra', 'country': 'IN', 'loc': '18.9860,72.8259', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '400028', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '18.9860', 'longitude': '72.8259'}
+
+
+{'ip': '112.79.41.0', 'hostname': '112-79-41-0.live.vodafone.in', 'city': 'Mumbai', 'region': 'Maharashtra', 'country': 'IN', 'loc': '18.9860,72.8259', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '400028', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '18.9860', 'longitude': '72.8259'}
+
+
+{'ip': '112.79.42.0', 'hostname': '112-79-42-0.live.vodafone.in', 'city': 'Mumbai', 'region': 'Maharashtra', 'country': 'IN', 'loc': '18.9860,72.8259', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '400028', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '18.9860', 'longitude': '72.8259'}
+
+
+{'ip': '112.79.43.0', 'hostname': '112-79-43-0.live.vodafone.in', 'city': 'Mumbai', 'region': 'Maharashtra', 'country': 'IN', 'loc': '18.9860,72.8259', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '400028', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '18.9860', 'longitude': '72.8259'}
+
+
+{'ip': '112.79.44.0', 'hostname': '112-79-44-0.live.vodafone.in', 'city': 'Ahmedabad', 'region': 'Gujarat', 'country': 'IN', 'loc': '23.0258,72.5873', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '380001', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '23.0258', 'longitude': '72.5873'}
+
+
+{'ip': '112.79.45.0', 'hostname': '112-79-45-0.live.vodafone.in', 'city': 'Mumbai', 'region': 'Maharashtra', 'country': 'IN', 'loc': '18.9860,72.8259', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '400028', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '18.9860', 'longitude': '72.8259'}
+
+
+{'ip': '112.79.47.0', 'hostname': '112-79-47-0.live.vodafone.in', 'city': 'Mumbai', 'region': 'Maharashtra', 'country': 'IN', 'loc': '18.9860,72.8259', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '400028', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '18.9860', 'longitude': '72.8259'}
+
+
+{'ip': '112.79.48.0', 'city': 'Hubli', 'region': 'Karnataka', 'country': 'IN', 'loc': '15.3478,75.1338', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '580001', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '15.3478', 'longitude': '75.1338'}
+
+
+{'ip': '112.79.56.0', 'hostname': '112-79-56-0.live.vodafone.in', 'city': 'Baharampur', 'region': 'West Bengal', 'country': 'IN', 'loc': '24.1047,88.2515', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '742121', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '24.1047', 'longitude': '88.2515'}
+
+
+{'ip': '112.79.64.0', 'hostname': '112-79-64-0.live.vodafone.in', 'city': 'Mumbai', 'region': 'Maharashtra', 'country': 'IN', 'loc': '19.0728,72.8826', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '400070', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '19.0728', 'longitude': '72.8826'}
+
+
+{'ip': '112.79.68.0', 'hostname': '112-79-68-0.live.vodafone.in', 'city': 'Mumbai', 'region': 'Maharashtra', 'country': 'IN', 'loc': '19.0728,72.8826', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '400070', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '19.0728', 'longitude': '72.8826'}
+
+
+{'ip': '112.79.72.0', 'hostname': '112-79-72-0.live.vodafone.in', 'city': 'Mumbai', 'region': 'Maharashtra', 'country': 'IN', 'loc': '19.0728,72.8826', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '400070', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '19.0728', 'longitude': '72.8826'}
+
+
+{'ip': '112.79.76.0', 'hostname': '112-79-76-0.live.vodafone.in', 'city': 'Mumbai', 'region': 'Maharashtra', 'country': 'IN', 'loc': '19.0728,72.8826', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '400070', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '19.0728', 'longitude': '72.8826'}
+
+
+{'ip': '112.79.79.0', 'hostname': '112-79-79-0.live.vodafone.in', 'city': 'Mumbai', 'region': 'Maharashtra', 'country': 'IN', 'loc': '19.0728,72.8826', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '400070', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '19.0728', 'longitude': '72.8826'}
+
+
+{'ip': '112.79.80.0', 'hostname': '112-79-80-0.live.vodafone.in', 'city': 'Bengaluru', 'region': 'Karnataka', 'country': 'IN', 'loc': '12.9719,77.5937', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '560002', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '12.9719', 'longitude': '77.5937'}
+
+
+{'ip': '112.79.82.0', 'hostname': '112-79-82-0.live.vodafone.in', 'city': 'Bengaluru', 'region': 'Karnataka', 'country': 'IN', 'loc': '12.9719,77.5937', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '560002', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '12.9719', 'longitude': '77.5937'}
+
+
+{'ip': '112.79.84.0', 'hostname': '112-79-84-0.live.vodafone.in', 'city': 'Bengaluru', 'region': 'Karnataka', 'country': 'IN', 'loc': '12.9719,77.5937', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '560002', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '12.9719', 'longitude': '77.5937'}
+
+
+{'ip': '112.79.86.0', 'hostname': '112-79-86-0.live.vodafone.in', 'city': 'Bengaluru', 'region': 'Karnataka', 'country': 'IN', 'loc': '12.9719,77.5937', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '560002', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '12.9719', 'longitude': '77.5937'}
+
+
+{'ip': '112.79.88.0', 'hostname': '112-79-88-0.live.vodafone.in', 'city': 'Bengaluru', 'region': 'Karnataka', 'country': 'IN', 'loc': '12.9719,77.5937', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '560002', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '12.9719', 'longitude': '77.5937'}
+
+
+{'ip': '112.79.89.0', 'hostname': '112-79-89-0.live.vodafone.in', 'city': 'Bengaluru', 'region': 'Karnataka', 'country': 'IN', 'loc': '12.9719,77.5937', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '560002', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '12.9719', 'longitude': '77.5937'}
+
+
+{'ip': '112.79.90.0', 'hostname': '112-79-90-0.live.vodafone.in', 'city': 'Bengaluru', 'region': 'Karnataka', 'country': 'IN', 'loc': '12.9719,77.5937', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '560002', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '12.9719', 'longitude': '77.5937'}
+
+
+{'ip': '112.79.91.0', 'hostname': '112-79-91-0.live.vodafone.in', 'city': 'Bengaluru', 'region': 'Karnataka', 'country': 'IN', 'loc': '12.9719,77.5937', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '560002', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '12.9719', 'longitude': '77.5937'}
+
+
+{'ip': '112.79.92.0', 'hostname': '112-79-92-0.live.vodafone.in', 'city': 'Bengaluru', 'region': 'Karnataka', 'country': 'IN', 'loc': '12.9719,77.5937', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '560002', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '12.9719', 'longitude': '77.5937'}
+
+
+{'ip': '112.79.93.0', 'hostname': '112-79-93-0.live.vodafone.in', 'city': 'Bengaluru', 'region': 'Karnataka', 'country': 'IN', 'loc': '12.9719,77.5937', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '560002', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '12.9719', 'longitude': '77.5937'}
+
+
+{'ip': '112.79.94.0', 'hostname': '112-79-94-0.live.vodafone.in', 'city': 'Bengaluru', 'region': 'Karnataka', 'country': 'IN', 'loc': '12.9719,77.5937', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '560002', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '12.9719', 'longitude': '77.5937'}
+
+
+{'ip': '112.79.95.0', 'hostname': '112-79-95-0.live.vodafone.in', 'city': 'Bengaluru', 'region': 'Karnataka', 'country': 'IN', 'loc': '12.9719,77.5937', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '560002', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '12.9719', 'longitude': '77.5937'}
+
+
+{'ip': '112.79.96.0', 'hostname': '112-79-96-0.live.vodafone.in', 'city': 'Roorkee', 'region': 'Uttarakhand', 'country': 'IN', 'loc': '29.8663,77.8912', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '247667', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '29.8663', 'longitude': '77.8912'}
+
+
+{'ip': '112.79.96.0', 'hostname': '112-79-96-0.live.vodafone.in', 'city': 'Roorkee', 'region': 'Uttarakhand', 'country': 'IN', 'loc': '29.8663,77.8912', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '247667', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '29.8663', 'longitude': '77.8912'}
+
+
+{'ip': '112.79.98.0', 'hostname': '112-79-98-0.live.vodafone.in', 'city': 'Roorkee', 'region': 'Uttarakhand', 'country': 'IN', 'loc': '29.8663,77.8912', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '247667', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '29.8663', 'longitude': '77.8912'}
+
+
+{'ip': '114.31.128.0', 'city': 'Gorakhpur', 'region': 'Uttar Pradesh', 'country': 'IN', 'loc': '26.7663,83.3689', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '273001', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '26.7663', 'longitude': '83.3689'}
+
+
+{'ip': '114.31.129.0', 'hostname': '114-31-129-0.live.vodafone.in', 'city': 'Gorakhpur', 'region': 'Uttar Pradesh', 'country': 'IN', 'loc': '26.7663,83.3689', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '273001', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '26.7663', 'longitude': '83.3689'}
+
+
+{'ip': '114.31.130.0', 'hostname': '114-31-130-0.live.vodafone.in', 'city': 'Gorakhpur', 'region': 'Uttar Pradesh', 'country': 'IN', 'loc': '26.7663,83.3689', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '273001', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '26.7663', 'longitude': '83.3689'}
+
+
+{'ip': '114.31.131.0', 'hostname': '114-31-131-0.live.vodafone.in', 'city': 'Gorakhpur', 'region': 'Uttar Pradesh', 'country': 'IN', 'loc': '26.7663,83.3689', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '273001', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '26.7663', 'longitude': '83.3689'}
+
+
+{'ip': '114.31.132.0', 'hostname': '114-31-132-0.live.vodafone.in', 'city': 'Gorakhpur', 'region': 'Uttar Pradesh', 'country': 'IN', 'loc': '26.7663,83.3689', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '273001', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '26.7663', 'longitude': '83.3689'}
+
+
+{'ip': '114.31.133.0', 'hostname': '114-31-133-0.live.vodafone.in', 'city': 'Gorakhpur', 'region': 'Uttar Pradesh', 'country': 'IN', 'loc': '26.7663,83.3689', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '273001', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '26.7663', 'longitude': '83.3689'}
+
+
+{'ip': '114.31.134.0', 'hostname': '114-31-134-0.live.vodafone.in', 'city': 'Gorakhpur', 'region': 'Uttar Pradesh', 'country': 'IN', 'loc': '26.7663,83.3689', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '273001', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '26.7663', 'longitude': '83.3689'}
+
+
+{'ip': '114.31.135.0', 'hostname': '114-31-135-0.live.vodafone.in', 'city': 'Gorakhpur', 'region': 'Uttar Pradesh', 'country': 'IN', 'loc': '26.7663,83.3689', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '273001', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '26.7663', 'longitude': '83.3689'}
+
+
+{'ip': '114.31.136.0', 'hostname': '114-31-136-0.live.vodafone.in', 'city': 'Jalandhar', 'region': 'Punjab', 'country': 'IN', 'loc': '31.3256,75.5792', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '144301', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '31.3256', 'longitude': '75.5792'}
+
+
+{'ip': '114.31.144.0', 'hostname': '114-31-144-0.live.vodafone.in', 'city': 'Valsād', 'region': 'Gujarat', 'country': 'IN', 'loc': '20.6101,72.9343', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '396002', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '20.6101', 'longitude': '72.9343'}
+
+
+{'ip': '114.31.148.0', 'hostname': '114-31-148-0.live.vodafone.in', 'city': 'Valsād', 'region': 'Gujarat', 'country': 'IN', 'loc': '20.6101,72.9343', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '396002', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '20.6101', 'longitude': '72.9343'}
+
+
+{'ip': '114.31.152.0', 'hostname': '114-31-152-0.live.vodafone.in', 'city': 'Godhra', 'region': 'Gujarat', 'country': 'IN', 'loc': '22.7755,73.6149', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '370450', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '22.7755', 'longitude': '73.6149'}
+
+
+{'ip': '114.31.156.0', 'hostname': '114-31-156-0.live.vodafone.in', 'city': 'Vadodara', 'region': 'Gujarat', 'country': 'IN', 'loc': '22.2994,73.2081', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '382355', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '22.2994', 'longitude': '73.2081'}
+
+
+{'ip': '114.31.160.0', 'hostname': '114-31-160-0.live.vodafone.in', 'city': 'Bhavnagar', 'region': 'Gujarat', 'country': 'IN', 'loc': '21.7629,72.1533', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '364001', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '21.7629', 'longitude': '72.1533'}
+
+
+{'ip': '114.31.164.0', 'hostname': '114-31-164-0.live.vodafone.in', 'city': 'Jūnāgadh', 'region': 'Gujarat', 'country': 'IN', 'loc': '21.5197,70.4598', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '362110', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '21.5197', 'longitude': '70.4598'}
+
+
+{'ip': '114.31.168.0', 'hostname': '114-31-168-0.live.vodafone.in', 'city': 'Pālanpur', 'region': 'Gujarat', 'country': 'IN', 'loc': '24.1713,72.4383', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '385001', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '24.1713', 'longitude': '72.4383'}
+
+
+{'ip': '114.31.172.0', 'hostname': '114-31-172-0.live.vodafone.in', 'city': 'Pālanpur', 'region': 'Gujarat', 'country': 'IN', 'loc': '24.1713,72.4383', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '385001', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '24.1713', 'longitude': '72.4383'}
+
+
+{'ip': '114.31.176.0', 'hostname': '114-31-176-0.live.vodafone.in', 'city': 'Bhuj', 'region': 'Gujarat', 'country': 'IN', 'loc': '23.2540,69.6693', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '370020', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '23.2540', 'longitude': '69.6693'}
+
+
+{'ip': '114.31.180.0', 'hostname': '114-31-180-0.live.vodafone.in', 'city': 'Gāndhīdhām', 'region': 'Gujarat', 'country': 'IN', 'loc': '23.0833,70.1333', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '370201', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '23.0833', 'longitude': '70.1333'}
+
+
+{'ip': '114.31.184.0', 'hostname': '114-31-184-0.live.vodafone.in', 'city': 'Morbi', 'region': 'Gujarat', 'country': 'IN', 'loc': '22.8173,70.8377', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '363331', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '22.8173', 'longitude': '70.8377'}
+
+
+{'ip': '114.31.188.0', 'hostname': '114-31-188-0.live.vodafone.in', 'city': 'Morbi', 'region': 'Gujarat', 'country': 'IN', 'loc': '22.8173,70.8377', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '363331', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '22.8173', 'longitude': '70.8377'}
+
+
+{'ip': '1.38.0.0', 'city': 'Delhi', 'region': 'Delhi', 'country': 'IN', 'loc': '28.6519,77.2315', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '110001', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '28.6519', 'longitude': '77.2315'}
+
+
+{'ip': '1.38.11.0', 'hostname': '1-38-11-0.live.vodafone.in', 'city': 'Mumbai', 'region': 'Maharashtra', 'country': 'IN', 'loc': '18.9750,72.8258', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '400002', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '18.9750', 'longitude': '72.8258'}
+
+
+{'ip': '1.38.128.0', 'hostname': '1-38-128-0.live.vodafone.in', 'city': 'Agartala', 'region': 'Tripura', 'country': 'IN', 'loc': '23.8361,91.2794', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '799102', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '23.8361', 'longitude': '91.2794'}
+
+
+{'ip': '1.38.132.0', 'hostname': '1-38-132-0.live.vodafone.in', 'city': 'Agartala', 'region': 'Tripura', 'country': 'IN', 'loc': '23.8361,91.2794', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '799102', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '23.8361', 'longitude': '91.2794'}
+
+
+{'ip': '1.38.136.0', 'hostname': '1-38-136-0.live.vodafone.in', 'city': 'Mumbai', 'region': 'Maharashtra', 'country': 'IN', 'loc': '19.0728,72.8826', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '400070', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '19.0728', 'longitude': '72.8826'}
+
+
+{'ip': '1.38.140.0', 'hostname': '1-38-140-0.live.vodafone.in', 'city': 'Mumbai', 'region': 'Maharashtra', 'country': 'IN', 'loc': '19.0728,72.8826', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '400070', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '19.0728', 'longitude': '72.8826'}
+
+
+{'ip': '1.38.144.0', 'hostname': '1-38-144-0.live.vodafone.in', 'city': 'Mumbai', 'region': 'Maharashtra', 'country': 'IN', 'loc': '19.0728,72.8826', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '400070', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '19.0728', 'longitude': '72.8826'}
+
+
+{'ip': '1.38.148.0', 'hostname': '1-38-148-0.live.vodafone.in', 'city': 'Mumbai', 'region': 'Maharashtra', 'country': 'IN', 'loc': '19.0728,72.8826', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '400070', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '19.0728', 'longitude': '72.8826'}
+
+
+{'ip': '1.38.152.0', 'hostname': '1-38-152-0.live.vodafone.in', 'city': 'Mumbai', 'region': 'Maharashtra', 'country': 'IN', 'loc': '19.0728,72.8826', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '400070', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '19.0728', 'longitude': '72.8826'}
+
+
+{'ip': '1.38.160.0', 'hostname': '1-38-160-0.live.vodafone.in', 'city': 'Surat', 'region': 'Gujarat', 'country': 'IN', 'loc': '21.1959,72.8302', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '395005', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '21.1959', 'longitude': '72.8302'}
+
+
+{'ip': '1.38.16.0', 'hostname': '1-38-16-0.live.vodafone.in', 'city': 'Pune', 'region': 'Maharashtra', 'country': 'IN', 'loc': '18.5196,73.8554', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '411005', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '18.5196', 'longitude': '73.8554'}
+
+
+{'ip': '1.38.164.0', 'hostname': '1-38-164-0.live.vodafone.in', 'city': 'Surat', 'region': 'Gujarat', 'country': 'IN', 'loc': '21.1959,72.8302', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '395005', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '21.1959', 'longitude': '72.8302'}
+
+
+{'ip': '1.38.17.0', 'hostname': '1-38-17-0.live.vodafone.in', 'city': 'Pune', 'region': 'Maharashtra', 'country': 'IN', 'loc': '18.5196,73.8554', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '411005', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '18.5196', 'longitude': '73.8554'}
+
+
+{'ip': '1.38.176.0', 'hostname': '1-38-176-0.live.vodafone.in', 'city': 'Ahmedabad', 'region': 'Gujarat', 'country': 'IN', 'loc': '23.0258,72.5873', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '380001', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '23.0258', 'longitude': '72.5873'}
+
+
+{'ip': '1.38.180.0', 'hostname': '1-38-180-0.live.vodafone.in', 'city': 'Bhavnagar', 'region': 'Gujarat', 'country': 'IN', 'loc': '21.7629,72.1533', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '364001', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '21.7629', 'longitude': '72.1533'}
+
+
+{'ip': '1.38.184.0', 'hostname': '1-38-184-0.live.vodafone.in', 'city': 'Delhi', 'region': 'Delhi', 'country': 'IN', 'loc': '28.6519,77.2315', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '110001', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '28.6519', 'longitude': '77.2315'}
+
+
+{'ip': '1.38.188.0', 'hostname': '1-38-188-0.live.vodafone.in', 'city': 'Delhi', 'region': 'Delhi', 'country': 'IN', 'loc': '28.6519,77.2315', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '110001', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '28.6519', 'longitude': '77.2315'}
+
+
+{'ip': '1.38.192.0', 'hostname': '1-38-192-0.live.vodafone.in', 'city': 'Tiruppur', 'region': 'Tamil Nadu', 'country': 'IN', 'loc': '11.1154,77.3546', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '622502', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '11.1154', 'longitude': '77.3546'}
+
+
+{'ip': '1.38.196.0', 'hostname': '1-38-196-0.live.vodafone.in', 'city': 'Tiruppur', 'region': 'Tamil Nadu', 'country': 'IN', 'loc': '11.1154,77.3546', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '622502', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '11.1154', 'longitude': '77.3546'}
+
+
+{'ip': '1.38.200.0', 'hostname': '1-38-200-0.live.vodafone.in', 'city': 'Gurgaon', 'region': 'Haryana', 'country': 'IN', 'loc': '28.4601,77.0263', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '122004', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '28.4601', 'longitude': '77.0263'}
+
+
+{'ip': '1.38.208.0', 'hostname': '1-38-208-0.live.vodafone.in', 'city': 'Ahmedabad', 'region': 'Gujarat', 'country': 'IN', 'loc': '23.0258,72.5873', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '380001', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '23.0258', 'longitude': '72.5873'}
+
+
+{'ip': '1.38.213.0', 'hostname': '1-38-213-0.live.vodafone.in', 'city': 'Delhi', 'region': 'Delhi', 'country': 'IN', 'loc': '28.6519,77.2315', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '110001', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '28.6519', 'longitude': '77.2315'}
+
+
+{'ip': '1.38.216.0', 'hostname': '1-38-216-0.live.vodafone.in', 'city': 'Mumbai', 'region': 'Maharashtra', 'country': 'IN', 'loc': '19.0728,72.8826', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '400070', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '19.0728', 'longitude': '72.8826'}
+
+
+{'ip': '1.38.220.0', 'hostname': '1-38-220-0.live.vodafone.in', 'city': 'Mumbai', 'region': 'Maharashtra', 'country': 'IN', 'loc': '19.0728,72.8826', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '400070', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '19.0728', 'longitude': '72.8826'}
+
+
+{'ip': '1.38.232.0', 'hostname': '1-38-232-0.live.vodafone.in', 'city': 'Kalyān', 'region': 'Maharashtra', 'country': 'IN', 'loc': '19.2437,73.1355', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '412205', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '19.2437', 'longitude': '73.1355'}
+
+
+{'ip': '1.38.236.0', 'hostname': '1-38-236-0.live.vodafone.in', 'city': 'Kalyān', 'region': 'Maharashtra', 'country': 'IN', 'loc': '19.2437,73.1355', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '412205', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '19.2437', 'longitude': '73.1355'}
+
+
+{'ip': '1.38.240.0', 'hostname': '1-38-240-0.live.vodafone.in', 'city': 'Noida', 'region': 'Uttar Pradesh', 'country': 'IN', 'loc': '28.5800,77.3300', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '201005', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '28.5800', 'longitude': '77.3300'}
+
+
+{'ip': '1.38.244.0', 'city': 'Faridabad', 'region': 'Haryana', 'country': 'IN', 'loc': '28.4112,77.3132', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '121003', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '28.4112', 'longitude': '77.3132'}
+
+
+{'ip': '1.38.25.0', 'hostname': '1-38-25-0.live.vodafone.in', 'city': 'Delhi', 'region': 'Delhi', 'country': 'IN', 'loc': '28.6519,77.2315', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '110001', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '28.6519', 'longitude': '77.2315'}
+
+
+{'ip': '1.38.26.0', 'hostname': '1-38-26-0.live.vodafone.in', 'city': 'Delhi', 'region': 'Delhi', 'country': 'IN', 'loc': '28.6519,77.2315', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '110001', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '28.6519', 'longitude': '77.2315'}
+
+
+{'ip': '1.38.27.0', 'hostname': '1-38-27-0.live.vodafone.in', 'city': 'Delhi', 'region': 'Delhi', 'country': 'IN', 'loc': '28.6519,77.2315', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '110001', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '28.6519', 'longitude': '77.2315'}
+
+
+{'ip': '1.38.28.0', 'hostname': '1-38-28-0.live.vodafone.in', 'city': 'Delhi', 'region': 'Delhi', 'country': 'IN', 'loc': '28.6519,77.2315', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '110001', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '28.6519', 'longitude': '77.2315'}
+
+
+{'ip': '1.38.29.0', 'hostname': '1-38-29-0.live.vodafone.in', 'city': 'Delhi', 'region': 'Delhi', 'country': 'IN', 'loc': '28.6519,77.2315', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '110001', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '28.6519', 'longitude': '77.2315'}
+
+
+{'ip': '1.38.30.0', 'hostname': '1-38-30-0.live.vodafone.in', 'city': 'Delhi', 'region': 'Delhi', 'country': 'IN', 'loc': '28.6519,77.2315', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '110001', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '28.6519', 'longitude': '77.2315'}
+
+
+{'ip': '1.38.31.0', 'hostname': '1-38-31-0.live.vodafone.in', 'city': 'Delhi', 'region': 'Delhi', 'country': 'IN', 'loc': '28.6519,77.2315', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '110001', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '28.6519', 'longitude': '77.2315'}
+
+
+{'ip': '1.38.4.0', 'hostname': '1-38-4-0.live.vodafone.in', 'city': 'Delhi', 'region': 'Delhi', 'country': 'IN', 'loc': '28.6519,77.2315', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '110001', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '28.6519', 'longitude': '77.2315'}
+
+
+{'ip': '1.38.44.0', 'hostname': '1-38-44-0.live.vodafone.in', 'city': 'Noida', 'region': 'Uttar Pradesh', 'country': 'IN', 'loc': '28.5800,77.3300', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '201005', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '28.5800', 'longitude': '77.3300'}
+
+
+{'ip': '1.38.48.0', 'hostname': '1-38-48-0.live.vodafone.in', 'city': 'New Delhi', 'region': 'Delhi', 'country': 'IN', 'loc': '28.6358,77.2245', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '110001', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '28.6358', 'longitude': '77.2245'}
+
+
+{'ip': '1.38.52.0', 'hostname': '1-38-52-0.live.vodafone.in', 'city': 'New Delhi', 'region': 'Delhi', 'country': 'IN', 'loc': '28.6358,77.2245', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '110001', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '28.6358', 'longitude': '77.2245'}
+
+
+{'ip': '1.38.56.0', 'hostname': '1-38-56-0.live.vodafone.in', 'city': 'Tiruvannāmalai', 'region': 'Tamil Nadu', 'country': 'IN', 'loc': '12.2266,79.0746', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '606604', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '12.2266', 'longitude': '79.0746'}
+
+
+{'ip': '1.38.60.0', 'hostname': '1-38-60-0.live.vodafone.in', 'city': 'Hosūr', 'region': 'Tamil Nadu', 'country': 'IN', 'loc': '12.7365,77.8326', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '562109', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '12.7365', 'longitude': '77.8326'}
+
+
+{'ip': '1.38.64.0', 'hostname': '1-38-64-0.live.vodafone.in', 'city': 'Rājkot', 'region': 'Gujarat', 'country': 'IN', 'loc': '22.2916,70.7932', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '360004', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '22.2916', 'longitude': '70.7932'}
+
+
+{'ip': '1.38.68.0', 'hostname': '1-38-68-0.live.vodafone.in', 'city': 'Rājkot', 'region': 'Gujarat', 'country': 'IN', 'loc': '22.2916,70.7932', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '360004', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '22.2916', 'longitude': '70.7932'}
+
+
+{'ip': '1.38.72.0', 'hostname': '1-38-72-0.live.vodafone.in', 'city': 'Rājkot', 'region': 'Gujarat', 'country': 'IN', 'loc': '22.2916,70.7932', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '360004', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '22.2916', 'longitude': '70.7932'}
+
+
+{'ip': '1.38.76.0', 'hostname': '1-38-76-0.live.vodafone.in', 'city': 'Rājkot', 'region': 'Gujarat', 'country': 'IN', 'loc': '22.2916,70.7932', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '360004', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '22.2916', 'longitude': '70.7932'}
+
+
+{'ip': '1.38.80.0', 'hostname': '1-38-80-0.live.vodafone.in', 'city': 'Rājkot', 'region': 'Gujarat', 'country': 'IN', 'loc': '22.2916,70.7932', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '360004', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '22.2916', 'longitude': '70.7932'}
+
+
+{'ip': '1.38.84.0', 'hostname': '1-38-84-0.live.vodafone.in', 'city': 'Rājkot', 'region': 'Gujarat', 'country': 'IN', 'loc': '22.2916,70.7932', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '360004', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '22.2916', 'longitude': '70.7932'}
+
+
+{'ip': '1.38.88.0', 'hostname': '1-38-88-0.live.vodafone.in', 'city': 'Bhavnagar', 'region': 'Gujarat', 'country': 'IN', 'loc': '21.7629,72.1533', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '364001', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '21.7629', 'longitude': '72.1533'}
+
+
+{'ip': '1.38.92.0', 'hostname': '1-38-92-0.live.vodafone.in', 'city': 'Bhavnagar', 'region': 'Gujarat', 'country': 'IN', 'loc': '21.7629,72.1533', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '364001', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '21.7629', 'longitude': '72.1533'}
+
+
+{'ip': '1.39.100.0', 'hostname': '1-39-100-0.live.vodafone.in', 'city': 'Pune', 'region': 'Maharashtra', 'country': 'IN', 'loc': '18.5196,73.8554', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '411005', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '18.5196', 'longitude': '73.8554'}
+
+
+{'ip': '1.39.112.0', 'hostname': '1-39-112-0.live.vodafone.in', 'city': 'Mumbai', 'region': 'Maharashtra', 'country': 'IN', 'loc': '18.9750,72.8258', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '400002', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '18.9750', 'longitude': '72.8258'}
+
+
+{'ip': '1.39.12.0', 'hostname': '1-39-12-0.live.vodafone.in', 'city': 'Pune', 'region': 'Maharashtra', 'country': 'IN', 'loc': '18.5196,73.8554', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '411005', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '18.5196', 'longitude': '73.8554'}
+
+
+{'ip': '1.39.12.0', 'hostname': '1-39-12-0.live.vodafone.in', 'city': 'Pune', 'region': 'Maharashtra', 'country': 'IN', 'loc': '18.5196,73.8554', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '411005', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '18.5196', 'longitude': '73.8554'}
+
+
+{'ip': '1.39.128.0', 'hostname': '1-39-128-0.live.vodafone.in', 'city': 'Bengaluru', 'region': 'Karnataka', 'country': 'IN', 'loc': '12.9719,77.5937', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '560002', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '12.9719', 'longitude': '77.5937'}
+
+
+{'ip': '1.39.16.0', 'hostname': '1-39-16-0.live.vodafone.in', 'city': 'Bhubaneshwar', 'region': 'Odisha', 'country': 'IN', 'loc': '20.2724,85.8338', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '752115', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '20.2724', 'longitude': '85.8338'}
+
+
+{'ip': '1.39.16.0', 'hostname': '1-39-16-0.live.vodafone.in', 'city': 'Bhubaneshwar', 'region': 'Odisha', 'country': 'IN', 'loc': '20.2724,85.8338', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '752115', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '20.2724', 'longitude': '85.8338'}
+
+
+{'ip': '1.39.17.0', 'hostname': '1-39-17-0.live.vodafone.in', 'city': 'Bhubaneshwar', 'region': 'Odisha', 'country': 'IN', 'loc': '20.2724,85.8338', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '752115', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '20.2724', 'longitude': '85.8338'}
+
+
+{'ip': '1.39.18.0', 'hostname': '1-39-18-0.live.vodafone.in', 'city': 'Bhubaneshwar', 'region': 'Odisha', 'country': 'IN', 'loc': '20.2724,85.8338', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '752115', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '20.2724', 'longitude': '85.8338'}
+
+
+{'ip': '1.39.19.0', 'hostname': '1-39-19-0.live.vodafone.in', 'city': 'Bhubaneshwar', 'region': 'Odisha', 'country': 'IN', 'loc': '20.2724,85.8338', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '752115', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '20.2724', 'longitude': '85.8338'}
+
+
+{'ip': '1.39.192.0', 'hostname': '1-39-192-0.live.vodafone.in', 'city': 'Jaipur', 'region': 'Rajasthan', 'country': 'IN', 'loc': '26.9196,75.7878', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '302001', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '26.9196', 'longitude': '75.7878'}
+
+
+{'ip': '1.39.196.0', 'hostname': '1-39-196-0.live.vodafone.in', 'city': 'Jaipur', 'region': 'Rajasthan', 'country': 'IN', 'loc': '26.9196,75.7878', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '302001', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '26.9196', 'longitude': '75.7878'}
+
+
+{'ip': '1.39.200.0', 'hostname': '1-39-200-0.live.vodafone.in', 'city': 'Jaipur', 'region': 'Rajasthan', 'country': 'IN', 'loc': '26.9196,75.7878', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '302001', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '26.9196', 'longitude': '75.7878'}
+
+
+{'ip': '1.39.20.0', 'hostname': '1-39-20-0.live.vodafone.in', 'city': 'Bhubaneshwar', 'region': 'Odisha', 'country': 'IN', 'loc': '20.2724,85.8338', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '752115', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '20.2724', 'longitude': '85.8338'}
+
+
+{'ip': '1.39.20.0', 'hostname': '1-39-20-0.live.vodafone.in', 'city': 'Bhubaneshwar', 'region': 'Odisha', 'country': 'IN', 'loc': '20.2724,85.8338', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '752115', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '20.2724', 'longitude': '85.8338'}
+
+
+{'ip': '1.39.204.0', 'hostname': '1-39-204-0.live.vodafone.in', 'city': 'Jaipur', 'region': 'Rajasthan', 'country': 'IN', 'loc': '26.9196,75.7878', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '302001', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '26.9196', 'longitude': '75.7878'}
+
+
+{'ip': '1.39.208.0', 'hostname': '1-39-208-0.live.vodafone.in', 'city': 'Jaipur', 'region': 'Rajasthan', 'country': 'IN', 'loc': '26.9196,75.7878', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '302001', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '26.9196', 'longitude': '75.7878'}
+
+
+{'ip': '1.39.21.0', 'hostname': '1-39-21-0.live.vodafone.in', 'city': 'Bhubaneshwar', 'region': 'Odisha', 'country': 'IN', 'loc': '20.2724,85.8338', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '752115', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '20.2724', 'longitude': '85.8338'}
+
+
+{'ip': '1.39.212.0', 'hostname': '1-39-212-0.live.vodafone.in', 'city': 'Jaipur', 'region': 'Rajasthan', 'country': 'IN', 'loc': '26.9196,75.7878', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '302001', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '26.9196', 'longitude': '75.7878'}
+
+
+{'ip': '1.39.216.0', 'hostname': '1-39-216-0.live.vodafone.in', 'city': 'Jaipur', 'region': 'Rajasthan', 'country': 'IN', 'loc': '26.9196,75.7878', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '302001', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '26.9196', 'longitude': '75.7878'}
+
+
+{'ip': '1.39.218.0', 'hostname': '1-39-218-0.live.vodafone.in', 'city': 'Jaipur', 'region': 'Rajasthan', 'country': 'IN', 'loc': '26.9196,75.7878', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '302001', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '26.9196', 'longitude': '75.7878'}
+
+
+{'ip': '1.39.220.0', 'hostname': '1-39-220-0.live.vodafone.in', 'city': 'Jaipur', 'region': 'Rajasthan', 'country': 'IN', 'loc': '26.9196,75.7878', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '302001', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '26.9196', 'longitude': '75.7878'}
+
+
+{'ip': '1.39.22.0', 'hostname': '1-39-22-0.live.vodafone.in', 'city': 'Bhubaneshwar', 'region': 'Odisha', 'country': 'IN', 'loc': '20.2724,85.8338', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '752115', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '20.2724', 'longitude': '85.8338'}
+
+
+{'ip': '1.39.222.0', 'hostname': '1-39-222-0.live.vodafone.in', 'city': 'Jaipur', 'region': 'Rajasthan', 'country': 'IN', 'loc': '26.9196,75.7878', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '302001', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '26.9196', 'longitude': '75.7878'}
+
+
+{'ip': '1.39.224.0', 'hostname': '1-39-224-0.live.vodafone.in', 'city': 'Udaipur', 'region': 'Rajasthan', 'country': 'IN', 'loc': '24.5858,73.7135', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '313001', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '24.5858', 'longitude': '73.7135'}
+
+
+{'ip': '1.39.224.0', 'hostname': '1-39-224-0.live.vodafone.in', 'city': 'Udaipur', 'region': 'Rajasthan', 'country': 'IN', 'loc': '24.5858,73.7135', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '313001', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '24.5858', 'longitude': '73.7135'}
+
+
+{'ip': '1.39.228.0', 'hostname': '1-39-228-0.live.vodafone.in', 'city': 'Bīkaner', 'region': 'Rajasthan', 'country': 'IN', 'loc': '28.0176,73.3149', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '334001', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '28.0176', 'longitude': '73.3149'}
+
+
+{'ip': '1.39.23.0', 'hostname': '1-39-23-0.live.vodafone.in', 'city': 'Bhubaneshwar', 'region': 'Odisha', 'country': 'IN', 'loc': '20.2724,85.8338', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '752115', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '20.2724', 'longitude': '85.8338'}
+
+
+{'ip': '1.39.232.0', 'hostname': '1-39-232-0.live.vodafone.in', 'city': 'Udaipur', 'region': 'Rajasthan', 'country': 'IN', 'loc': '24.5858,73.7135', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '313001', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '24.5858', 'longitude': '73.7135'}
+
+
+{'ip': '1.39.236.0', 'hostname': '1-39-236-0.live.vodafone.in', 'city': 'Jodhpur', 'region': 'Rajasthan', 'country': 'IN', 'loc': '26.2684,73.0059', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '342001', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '26.2684', 'longitude': '73.0059'}
+
+
+{'ip': '1.39.238.0', 'hostname': '1-39-238-0.live.vodafone.in', 'city': 'Udaipur', 'region': 'Rajasthan', 'country': 'IN', 'loc': '24.5858,73.7135', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '313001', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '24.5858', 'longitude': '73.7135'}
+
+
+{'ip': '1.39.240.0', 'hostname': '1-39-240-0.live.vodafone.in', 'city': 'Udaipur', 'region': 'Rajasthan', 'country': 'IN', 'loc': '24.5858,73.7135', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '313001', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '24.5858', 'longitude': '73.7135'}
+
+
+{'ip': '1.39.24.0', 'hostname': '1-39-24-0.live.vodafone.in', 'city': 'Aurangabad', 'region': 'Maharashtra', 'country': 'IN', 'loc': '19.8776,75.3423', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '431007', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '19.8776', 'longitude': '75.3423'}
+
+
+{'ip': '1.39.24.0', 'hostname': '1-39-24-0.live.vodafone.in', 'city': 'Aurangabad', 'region': 'Maharashtra', 'country': 'IN', 'loc': '19.8776,75.3423', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '431007', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '19.8776', 'longitude': '75.3423'}
+
+
+{'ip': '1.39.244.0', 'hostname': '1-39-244-0.live.vodafone.in', 'city': 'Udaipur', 'region': 'Rajasthan', 'country': 'IN', 'loc': '24.5858,73.7135', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '313001', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '24.5858', 'longitude': '73.7135'}
+
+
+{'ip': '1.39.248.0', 'hostname': '1-39-248-0.live.vodafone.in', 'city': 'Udaipur', 'region': 'Rajasthan', 'country': 'IN', 'loc': '24.5858,73.7135', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '313001', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '24.5858', 'longitude': '73.7135'}
+
+
+{'ip': '1.39.250.0', 'hostname': '1-39-250-0.live.vodafone.in', 'city': 'Udaipur', 'region': 'Rajasthan', 'country': 'IN', 'loc': '24.5858,73.7135', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '313001', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '24.5858', 'longitude': '73.7135'}
+
+
+{'ip': '1.39.25.0', 'hostname': '1-39-25-0.live.vodafone.in', 'city': 'Aurangabad', 'region': 'Maharashtra', 'country': 'IN', 'loc': '19.8776,75.3423', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '431007', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '19.8776', 'longitude': '75.3423'}
+
+
+{'ip': '1.39.252.0', 'hostname': '1-39-252-0.live.vodafone.in', 'city': 'Udaipur', 'region': 'Rajasthan', 'country': 'IN', 'loc': '24.5858,73.7135', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '313001', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '24.5858', 'longitude': '73.7135'}
+
+
+{'ip': '1.39.26.0', 'hostname': '1-39-26-0.live.vodafone.in', 'city': 'Aurangabad', 'region': 'Maharashtra', 'country': 'IN', 'loc': '19.8776,75.3423', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '431007', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '19.8776', 'longitude': '75.3423'}
+
+
+{'ip': '1.39.27.0', 'hostname': '1-39-27-0.live.vodafone.in', 'city': 'Bārsi', 'region': 'Maharashtra', 'country': 'IN', 'loc': '18.2345,75.6928', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '413401', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '18.2345', 'longitude': '75.6928'}
+
+
+{'ip': '1.39.28.0', 'hostname': '1-39-28-0.live.vodafone.in', 'city': 'Bārsi', 'region': 'Maharashtra', 'country': 'IN', 'loc': '18.2345,75.6928', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '413401', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '18.2345', 'longitude': '75.6928'}
+
+
+{'ip': '1.39.29.0', 'hostname': '1-39-29-0.live.vodafone.in', 'city': 'Aurangabad', 'region': 'Maharashtra', 'country': 'IN', 'loc': '19.8776,75.3423', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '431007', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '19.8776', 'longitude': '75.3423'}
+
+
+{'ip': '1.39.30.0', 'hostname': '1-39-30-0.live.vodafone.in', 'city': 'Aurangabad', 'region': 'Maharashtra', 'country': 'IN', 'loc': '19.8776,75.3423', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '431007', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '19.8776', 'longitude': '75.3423'}
+
+
+{'ip': '1.39.31.0', 'hostname': '1-39-31-0.live.vodafone.in', 'city': 'Aurangabad', 'region': 'Maharashtra', 'country': 'IN', 'loc': '19.8776,75.3423', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '431007', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '19.8776', 'longitude': '75.3423'}
+
+
+{'ip': '1.39.32.0', 'hostname': '1-39-32-0.live.vodafone.in', 'city': 'Pune', 'region': 'Maharashtra', 'country': 'IN', 'loc': '18.5196,73.8554', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '411005', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '18.5196', 'longitude': '73.8554'}
+
+
+{'ip': '1.39.40.0', 'hostname': '1-39-40-0.live.vodafone.in', 'city': 'Pune', 'region': 'Maharashtra', 'country': 'IN', 'loc': '18.5196,73.8554', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '411005', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '18.5196', 'longitude': '73.8554'}
+
+
+{'ip': '1.39.4.0', 'hostname': '1-39-4-0.live.vodafone.in', 'city': 'Pune', 'region': 'Maharashtra', 'country': 'IN', 'loc': '18.5196,73.8554', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '411005', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '18.5196', 'longitude': '73.8554'}
+
+
+{'ip': '1.39.48.0', 'hostname': '1-39-48-0.live.vodafone.in', 'city': 'Pune', 'region': 'Maharashtra', 'country': 'IN', 'loc': '18.5196,73.8554', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '411005', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '18.5196', 'longitude': '73.8554'}
+
+
+{'ip': '1.39.52.0', 'hostname': '1-39-52-0.live.vodafone.in', 'city': 'Pune', 'region': 'Maharashtra', 'country': 'IN', 'loc': '18.5196,73.8554', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '411005', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '18.5196', 'longitude': '73.8554'}
+
+
+{'ip': '1.39.60.0', 'hostname': '1-39-60-0.live.vodafone.in', 'city': 'Pune', 'region': 'Maharashtra', 'country': 'IN', 'loc': '18.5196,73.8554', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '411005', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '18.5196', 'longitude': '73.8554'}
+
+
+{'ip': '1.39.75.0', 'hostname': '1-39-75-0.live.vodafone.in', 'city': 'Alappuzha', 'region': 'Kerala', 'country': 'IN', 'loc': '9.4900,76.3264', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '688011', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '9.4900', 'longitude': '76.3264'}
+
+
+{'ip': '1.39.76.0', 'hostname': '1-39-76-0.live.vodafone.in', 'city': 'Kottayam', 'region': 'Kerala', 'country': 'IN', 'loc': '9.5869,76.5213', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '686020', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '9.5869', 'longitude': '76.5213'}
+
+
+{'ip': '1.39.77.0', 'hostname': '1-39-77-0.live.vodafone.in', 'city': 'Alappuzha', 'region': 'Kerala', 'country': 'IN', 'loc': '9.4900,76.3264', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '688011', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '9.4900', 'longitude': '76.3264'}
+
+
+{'ip': '1.39.78.0', 'hostname': '1-39-78-0.live.vodafone.in', 'city': 'Kottayam', 'region': 'Kerala', 'country': 'IN', 'loc': '9.5869,76.5213', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '686020', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '9.5869', 'longitude': '76.5213'}
+
+
+{'ip': '1.39.79.0', 'hostname': '1-39-79-0.live.vodafone.in', 'city': 'Tiruvalla', 'region': 'Kerala', 'country': 'IN', 'loc': '9.3816,76.5749', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '689581', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '9.3816', 'longitude': '76.5749'}
+
+
+{'ip': '1.39.80.0', 'hostname': '1-39-80-0.live.vodafone.in', 'city': 'Pune', 'region': 'Maharashtra', 'country': 'IN', 'loc': '18.5196,73.8554', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '411005', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '18.5196', 'longitude': '73.8554'}
+
+
+{'ip': '1.39.8.0', 'hostname': '1-39-8-0.live.vodafone.in', 'city': 'Pune', 'region': 'Maharashtra', 'country': 'IN', 'loc': '18.5196,73.8554', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '411005', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '18.5196', 'longitude': '73.8554'}
+
+
+{'ip': '1.39.82.0', 'hostname': '1-39-82-0.live.vodafone.in', 'city': 'Pune', 'region': 'Maharashtra', 'country': 'IN', 'loc': '18.5196,73.8554', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '411005', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '18.5196', 'longitude': '73.8554'}
+
+
+{'ip': '1.39.83.0', 'hostname': '1-39-83-0.live.vodafone.in', 'city': 'Pune', 'region': 'Maharashtra', 'country': 'IN', 'loc': '18.5196,73.8554', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '411005', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '18.5196', 'longitude': '73.8554'}
+
+
+{'ip': '1.39.84.0', 'hostname': '1-39-84-0.live.vodafone.in', 'city': 'Pune', 'region': 'Maharashtra', 'country': 'IN', 'loc': '18.5196,73.8554', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '411005', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '18.5196', 'longitude': '73.8554'}
+
+
+{'ip': '1.39.87.0', 'hostname': '1-39-87-0.live.vodafone.in', 'city': 'Pune', 'region': 'Maharashtra', 'country': 'IN', 'loc': '18.5196,73.8554', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '411005', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '18.5196', 'longitude': '73.8554'}
+
+
+{'ip': '1.39.88.0', 'hostname': '1-39-88-0.live.vodafone.in', 'city': 'Pune', 'region': 'Maharashtra', 'country': 'IN', 'loc': '18.5196,73.8554', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '411005', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '18.5196', 'longitude': '73.8554'}
+
+
+{'ip': '184.29.24.0', 'hostname': 'a184-29-24-0.deploy.static.akamaitechnologies.com', 'city': 'Cambridge', 'region': 'Massachusetts', 'country': 'US', 'loc': '42.3620,-71.0830', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '02142', 'timezone': 'America/New_York', 'country_name': 'United States', 'latitude': '42.3620', 'longitude': '-71.0830'}
+
+
+{'ip': '203.88.0.0', 'city': 'Mathura', 'region': 'Uttar Pradesh', 'country': 'IN', 'loc': '27.5035,77.6722', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '222143', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '27.5035', 'longitude': '77.6722'}
+
+
+{'ip': '203.88.22.0', 'hostname': '203-88-22-0.live.vodafone.in', 'city': 'Gwalior', 'region': 'Madhya Pradesh', 'country': 'IN', 'loc': '26.2298,78.1734', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '474005', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '26.2298', 'longitude': '78.1734'}
+
+
+{'ip': '203.88.23.0', 'hostname': '203-88-23-0.live.vodafone.in', 'city': 'Gwalior', 'region': 'Madhya Pradesh', 'country': 'IN', 'loc': '26.2298,78.1734', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '474005', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '26.2298', 'longitude': '78.1734'}
+
+
+{'ip': '203.88.6.0', 'hostname': '203-88-6-0.live.vodafone.in', 'city': 'Lucknow', 'region': 'Uttar Pradesh', 'country': 'IN', 'loc': '26.8393,80.9231', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '226004', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '26.8393', 'longitude': '80.9231'}
+
+
+{'ip': '23.11.214.0', 'hostname': 'a23-11-214-0.deploy.static.akamaitechnologies.com', 'city': 'Cambridge', 'region': 'Massachusetts', 'country': 'US', 'loc': '42.3620,-71.0830', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '02142', 'timezone': 'America/New_York', 'country_name': 'United States', 'latitude': '42.3620', 'longitude': '-71.0830'}
+
+
+{'ip': '23.195.74.0', 'hostname': 'a23-195-74-0.deploy.static.akamaitechnologies.com', 'city': 'Cambridge', 'region': 'Massachusetts', 'country': 'US', 'loc': '42.3620,-71.0830', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '02142', 'timezone': 'America/New_York', 'country_name': 'United States', 'latitude': '42.3620', 'longitude': '-71.0830'}
+
+
+{'ip': '23.203.36.0', 'hostname': 'a23-203-36-0.deploy.static.akamaitechnologies.com', 'city': 'Cambridge', 'region': 'Massachusetts', 'country': 'US', 'loc': '42.3620,-71.0830', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '02142', 'timezone': 'America/New_York', 'country_name': 'United States', 'latitude': '42.3620', 'longitude': '-71.0830'}
+
+
+{'ip': '23.54.172.0', 'hostname': 'a23-54-172-0.deploy.static.akamaitechnologies.com', 'city': 'Cambridge', 'region': 'Massachusetts', 'country': 'US', 'loc': '42.3620,-71.0830', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '02142', 'timezone': 'America/New_York', 'country_name': 'United States', 'latitude': '42.3620', 'longitude': '-71.0830'}
+
+
+{'ip': '42.104.0.0', 'city': 'Pune', 'region': 'Maharashtra', 'country': 'IN', 'loc': '18.5196,73.8554', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '411005', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '18.5196', 'longitude': '73.8554'}
+
+
+{'ip': '42.106.0.0', 'hostname': '42-106-0-0.live.vodafone.in', 'city': 'Ahmedabad', 'region': 'Gujarat', 'country': 'IN', 'loc': '23.0258,72.5873', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '380001', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '23.0258', 'longitude': '72.5873'}
+
+
+{'ip': '42.106.0.0', 'hostname': '42-106-0-0.live.vodafone.in', 'city': 'Ahmedabad', 'region': 'Gujarat', 'country': 'IN', 'loc': '23.0258,72.5873', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '380001', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '23.0258', 'longitude': '72.5873'}
+
+
+{'ip': '42.106.100.0', 'hostname': '42-106-100-0.live.vodafone.in', 'city': 'Nagpur', 'region': 'Maharashtra', 'country': 'IN', 'loc': '21.1463,79.0849', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '440003', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '21.1463', 'longitude': '79.0849'}
+
+
+{'ip': '42.106.104.0', 'hostname': '42-106-104-0.live.vodafone.in', 'city': 'Nagpur', 'region': 'Maharashtra', 'country': 'IN', 'loc': '21.1463,79.0849', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '440003', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '21.1463', 'longitude': '79.0849'}
+
+
+{'ip': '42.106.108.0', 'hostname': '42-106-108-0.live.vodafone.in', 'city': 'Nagpur', 'region': 'Maharashtra', 'country': 'IN', 'loc': '21.1463,79.0849', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '440003', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '21.1463', 'longitude': '79.0849'}
+
+
+{'ip': '42.106.112.0', 'hostname': '42-106-112-0.live.vodafone.in', 'city': 'Nagpur', 'region': 'Maharashtra', 'country': 'IN', 'loc': '21.1463,79.0849', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '440003', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '21.1463', 'longitude': '79.0849'}
+
+
+{'ip': '42.106.116.0', 'hostname': '42-106-116-0.live.vodafone.in', 'city': 'Nagpur', 'region': 'Maharashtra', 'country': 'IN', 'loc': '21.1463,79.0849', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '440003', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '21.1463', 'longitude': '79.0849'}
+
+
+{'ip': '42.106.120.0', 'hostname': '42-106-120-0.live.vodafone.in', 'city': 'Nagpur', 'region': 'Maharashtra', 'country': 'IN', 'loc': '21.1463,79.0849', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '440003', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '21.1463', 'longitude': '79.0849'}
+
+
+{'ip': '42.106.12.0', 'hostname': '42-106-12-0.live.vodafone.in', 'city': 'Ahmedabad', 'region': 'Gujarat', 'country': 'IN', 'loc': '23.0258,72.5873', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '380001', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '23.0258', 'longitude': '72.5873'}
+
+
+{'ip': '42.106.122.0', 'hostname': '42-106-122-0.live.vodafone.in', 'city': 'Nagpur', 'region': 'Maharashtra', 'country': 'IN', 'loc': '21.1463,79.0849', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '440003', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '21.1463', 'longitude': '79.0849'}
+
+
+{'ip': '42.106.124.0', 'hostname': '42-106-124-0.live.vodafone.in', 'city': 'Nagpur', 'region': 'Maharashtra', 'country': 'IN', 'loc': '21.1463,79.0849', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '440003', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '21.1463', 'longitude': '79.0849'}
+
+
+{'ip': '42.106.126.0', 'hostname': '42-106-126-0.live.vodafone.in', 'city': 'Nagpur', 'region': 'Maharashtra', 'country': 'IN', 'loc': '21.1463,79.0849', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '440003', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '21.1463', 'longitude': '79.0849'}
+
+
+{'ip': '42.106.16.0', 'hostname': '42-106-16-0.live.vodafone.in', 'city': 'Ahmedabad', 'region': 'Gujarat', 'country': 'IN', 'loc': '23.0258,72.5873', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '380001', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '23.0258', 'longitude': '72.5873'}
+
+
+{'ip': '42.106.162.0', 'hostname': '42-106-162-0.live.vodafone.in', 'city': 'Kolkata', 'region': 'West Bengal', 'country': 'IN', 'loc': '22.5626,88.3630', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '700006', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '22.5626', 'longitude': '88.3630'}
+
+
+{'ip': '42.106.164.0', 'hostname': '42-106-164-0.live.vodafone.in', 'city': 'Kolkata', 'region': 'West Bengal', 'country': 'IN', 'loc': '22.5626,88.3630', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '700006', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '22.5626', 'longitude': '88.3630'}
+
+
+{'ip': '42.106.166.0', 'hostname': '42-106-166-0.live.vodafone.in', 'city': 'Kolkata', 'region': 'West Bengal', 'country': 'IN', 'loc': '22.5626,88.3630', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '700006', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '22.5626', 'longitude': '88.3630'}
+
+
+{'ip': '42.106.175.0', 'hostname': '42-106-175-0.live.vodafone.in', 'city': 'Kolkata', 'region': 'West Bengal', 'country': 'IN', 'loc': '22.5626,88.3630', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '700006', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '22.5626', 'longitude': '88.3630'}
+
+
+{'ip': '42.106.180.0', 'hostname': '42-106-180-0.live.vodafone.in', 'city': 'Cochin', 'region': 'Kerala', 'country': 'IN', 'loc': '9.9399,76.2602', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '682507', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '9.9399', 'longitude': '76.2602'}
+
+
+{'ip': '42.106.181.0', 'hostname': '42-106-181-0.live.vodafone.in', 'city': 'Cochin', 'region': 'Kerala', 'country': 'IN', 'loc': '9.9399,76.2602', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '682507', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '9.9399', 'longitude': '76.2602'}
+
+
+{'ip': '42.106.182.0', 'hostname': '42-106-182-0.live.vodafone.in', 'city': 'Cochin', 'region': 'Kerala', 'country': 'IN', 'loc': '9.9399,76.2602', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '682507', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '9.9399', 'longitude': '76.2602'}
+
+
+{'ip': '42.106.183.0', 'hostname': '42-106-183-0.live.vodafone.in', 'city': 'Cochin', 'region': 'Kerala', 'country': 'IN', 'loc': '9.9399,76.2602', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '682507', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '9.9399', 'longitude': '76.2602'}
+
+
+{'ip': '42.106.184.0', 'hostname': '42-106-184-0.live.vodafone.in', 'city': 'Salem', 'region': 'Tamil Nadu', 'country': 'IN', 'loc': '11.6538,78.1554', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '636006', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '11.6538', 'longitude': '78.1554'}
+
+
+{'ip': '42.106.188.0', 'hostname': '42-106-188-0.live.vodafone.in', 'city': 'Salem', 'region': 'Tamil Nadu', 'country': 'IN', 'loc': '11.6538,78.1554', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '636006', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '11.6538', 'longitude': '78.1554'}
+
+
+{'ip': '42.106.189.0', 'hostname': '42-106-189-0.live.vodafone.in', 'city': 'Salem', 'region': 'Tamil Nadu', 'country': 'IN', 'loc': '11.6538,78.1554', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '636006', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '11.6538', 'longitude': '78.1554'}
+
+
+{'ip': '42.106.190.0', 'hostname': '42-106-190-0.live.vodafone.in', 'city': 'Salem', 'region': 'Tamil Nadu', 'country': 'IN', 'loc': '11.6538,78.1554', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '636006', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '11.6538', 'longitude': '78.1554'}
+
+
+{'ip': '42.106.191.0', 'hostname': '42-106-191-0.live.vodafone.in', 'city': 'Salem', 'region': 'Tamil Nadu', 'country': 'IN', 'loc': '11.6538,78.1554', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '636006', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '11.6538', 'longitude': '78.1554'}
+
+
+{'ip': '42.106.192.0', 'hostname': '42-106-192-0.live.vodafone.in', 'city': 'Mumbai', 'region': 'Maharashtra', 'country': 'IN', 'loc': '19.0728,72.8826', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '400070', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '19.0728', 'longitude': '72.8826'}
+
+
+{'ip': '42.106.196.0', 'hostname': '42-106-196-0.live.vodafone.in', 'city': 'Pune', 'region': 'Maharashtra', 'country': 'IN', 'loc': '18.5196,73.8554', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '411005', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '18.5196', 'longitude': '73.8554'}
+
+
+{'ip': '42.106.200.0', 'hostname': '42-106-200-0.live.vodafone.in', 'city': 'Mumbai', 'region': 'Maharashtra', 'country': 'IN', 'loc': '19.0728,72.8826', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '400070', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '19.0728', 'longitude': '72.8826'}
+
+
+{'ip': '42.106.20.0', 'hostname': '42-106-20-0.live.vodafone.in', 'city': 'Ahmedabad', 'region': 'Gujarat', 'country': 'IN', 'loc': '23.0258,72.5873', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '380001', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '23.0258', 'longitude': '72.5873'}
+
+
+{'ip': '42.106.204.0', 'hostname': '42-106-204-0.live.vodafone.in', 'city': 'New Delhi', 'region': 'Delhi', 'country': 'IN', 'loc': '28.6358,77.2245', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '110001', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '28.6358', 'longitude': '77.2245'}
+
+
+{'ip': '42.106.208.0', 'hostname': '42-106-208-0.live.vodafone.in', 'city': 'Mumbai', 'region': 'Maharashtra', 'country': 'IN', 'loc': '19.0728,72.8826', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '400070', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '19.0728', 'longitude': '72.8826'}
+
+
+{'ip': '42.106.212.0', 'hostname': '42-106-212-0.live.vodafone.in', 'city': 'Mumbai', 'region': 'Maharashtra', 'country': 'IN', 'loc': '19.0728,72.8826', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '400070', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '19.0728', 'longitude': '72.8826'}
+
+
+{'ip': '42.106.216.0', 'hostname': '42-106-216-0.live.vodafone.in', 'city': 'Mumbai', 'region': 'Maharashtra', 'country': 'IN', 'loc': '19.0728,72.8826', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '400070', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '19.0728', 'longitude': '72.8826'}
+
+
+{'ip': '42.106.220.0', 'hostname': '42-106-220-0.live.vodafone.in', 'city': 'Mumbai', 'region': 'Maharashtra', 'country': 'IN', 'loc': '19.0728,72.8826', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '400070', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '19.0728', 'longitude': '72.8826'}
+
+
+{'ip': '42.106.224.0', 'hostname': '42-106-224-0.live.vodafone.in', 'city': 'Mumbai', 'region': 'Maharashtra', 'country': 'IN', 'loc': '19.0728,72.8826', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '400070', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '19.0728', 'longitude': '72.8826'}
+
+
+{'ip': '42.106.228.0', 'hostname': '42-106-228-0.live.vodafone.in', 'city': 'Mumbai', 'region': 'Maharashtra', 'country': 'IN', 'loc': '19.0728,72.8826', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '400070', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '19.0728', 'longitude': '72.8826'}
+
+
+{'ip': '42.106.232.0', 'hostname': '42-106-232-0.live.vodafone.in', 'city': 'Mumbai', 'region': 'Maharashtra', 'country': 'IN', 'loc': '19.0728,72.8826', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '400070', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '19.0728', 'longitude': '72.8826'}
+
+
+{'ip': '42.106.236.0', 'hostname': '42-106-236-0.live.vodafone.in', 'city': 'Mumbai', 'region': 'Maharashtra', 'country': 'IN', 'loc': '19.0728,72.8826', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '400070', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '19.0728', 'longitude': '72.8826'}
+
+
+{'ip': '42.106.240.0', 'hostname': '42-106-240-0.live.vodafone.in', 'city': 'Mumbai', 'region': 'Maharashtra', 'country': 'IN', 'loc': '19.0728,72.8826', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '400070', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '19.0728', 'longitude': '72.8826'}
+
+
+{'ip': '42.106.24.0', 'hostname': '42-106-24-0.live.vodafone.in', 'city': 'Ahmedabad', 'region': 'Gujarat', 'country': 'IN', 'loc': '23.0258,72.5873', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '380001', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '23.0258', 'longitude': '72.5873'}
+
+
+{'ip': '42.106.244.0', 'hostname': '42-106-244-0.live.vodafone.in', 'city': 'Mumbai', 'region': 'Maharashtra', 'country': 'IN', 'loc': '19.0728,72.8826', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '400070', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '19.0728', 'longitude': '72.8826'}
+
+
+{'ip': '42.106.248.0', 'hostname': '42-106-248-0.live.vodafone.in', 'city': 'Mumbai', 'region': 'Maharashtra', 'country': 'IN', 'loc': '19.0728,72.8826', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '400070', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '19.0728', 'longitude': '72.8826'}
+
+
+{'ip': '42.106.252.0', 'hostname': '42-106-252-0.live.vodafone.in', 'city': 'Mumbai', 'region': 'Maharashtra', 'country': 'IN', 'loc': '19.0728,72.8826', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '400070', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '19.0728', 'longitude': '72.8826'}
+
+
+{'ip': '42.106.28.0', 'hostname': '42-106-28-0.live.vodafone.in', 'city': 'Ahmedabad', 'region': 'Gujarat', 'country': 'IN', 'loc': '23.0258,72.5873', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '380001', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '23.0258', 'longitude': '72.5873'}
+
+
+{'ip': '42.106.32.0', 'hostname': '42-106-32-0.live.vodafone.in', 'city': 'Ahmedabad', 'region': 'Gujarat', 'country': 'IN', 'loc': '23.0258,72.5873', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '380001', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '23.0258', 'longitude': '72.5873'}
+
+
+{'ip': '42.106.36.0', 'hostname': '42-106-36-0.live.vodafone.in', 'city': 'Ahmedabad', 'region': 'Gujarat', 'country': 'IN', 'loc': '23.0258,72.5873', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '380001', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '23.0258', 'longitude': '72.5873'}
+
+
+{'ip': '42.106.40.0', 'hostname': '42-106-40-0.live.vodafone.in', 'city': 'Ahmedabad', 'region': 'Gujarat', 'country': 'IN', 'loc': '23.0258,72.5873', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '380001', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '23.0258', 'longitude': '72.5873'}
+
+
+{'ip': '42.106.40.0', 'hostname': '42-106-40-0.live.vodafone.in', 'city': 'Ahmedabad', 'region': 'Gujarat', 'country': 'IN', 'loc': '23.0258,72.5873', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '380001', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '23.0258', 'longitude': '72.5873'}
+
+
+{'ip': '42.106.4.0', 'hostname': '42-106-4-0.live.vodafone.in', 'city': 'Ahmedabad', 'region': 'Gujarat', 'country': 'IN', 'loc': '23.0258,72.5873', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '380001', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '23.0258', 'longitude': '72.5873'}
+
+
+{'ip': '42.106.44.0', 'hostname': '42-106-44-0.live.vodafone.in', 'city': 'Ahmedabad', 'region': 'Gujarat', 'country': 'IN', 'loc': '23.0258,72.5873', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '380001', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '23.0258', 'longitude': '72.5873'}
+
+
+{'ip': '42.106.64.0', 'hostname': '42-106-64-0.live.vodafone.in', 'city': 'Coimbatore', 'region': 'Tamil Nadu', 'country': 'IN', 'loc': '11.0055,76.9661', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '641011', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '11.0055', 'longitude': '76.9661'}
+
+
+{'ip': '42.106.68.0', 'hostname': '42-106-68-0.live.vodafone.in', 'city': 'Coimbatore', 'region': 'Tamil Nadu', 'country': 'IN', 'loc': '11.0055,76.9661', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '641011', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '11.0055', 'longitude': '76.9661'}
+
+
+{'ip': '42.106.72.0', 'hostname': '42-106-72-0.live.vodafone.in', 'city': 'Coimbatore', 'region': 'Tamil Nadu', 'country': 'IN', 'loc': '11.0055,76.9661', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '641011', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '11.0055', 'longitude': '76.9661'}
+
+
+{'ip': '42.106.76.0', 'hostname': '42-106-76-0.live.vodafone.in', 'city': 'Coimbatore', 'region': 'Tamil Nadu', 'country': 'IN', 'loc': '11.0055,76.9661', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '641011', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '11.0055', 'longitude': '76.9661'}
+
+
+{'ip': '42.106.80.0', 'hostname': '42-106-80-0.live.vodafone.in', 'city': 'Coimbatore', 'region': 'Tamil Nadu', 'country': 'IN', 'loc': '11.0055,76.9661', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '641011', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '11.0055', 'longitude': '76.9661'}
+
+
+{'ip': '42.106.8.0', 'hostname': '42-106-8-0.live.vodafone.in', 'city': 'Ahmedabad', 'region': 'Gujarat', 'country': 'IN', 'loc': '23.0258,72.5873', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '380001', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '23.0258', 'longitude': '72.5873'}
+
+
+{'ip': '42.106.84.0', 'hostname': '42-106-84-0.live.vodafone.in', 'city': 'Coimbatore', 'region': 'Tamil Nadu', 'country': 'IN', 'loc': '11.0055,76.9661', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '641011', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '11.0055', 'longitude': '76.9661'}
+
+
+{'ip': '42.106.88.0', 'hostname': '42-106-88-0.live.vodafone.in', 'city': 'Coimbatore', 'region': 'Tamil Nadu', 'country': 'IN', 'loc': '11.0055,76.9661', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '641011', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '11.0055', 'longitude': '76.9661'}
+
+
+{'ip': '42.106.92.0', 'hostname': '42-106-92-0.live.vodafone.in', 'city': 'Coimbatore', 'region': 'Tamil Nadu', 'country': 'IN', 'loc': '11.0055,76.9661', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '641011', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '11.0055', 'longitude': '76.9661'}
+
+
+{'ip': '42.106.96.0', 'hostname': '42-106-96-0.live.vodafone.in', 'city': 'Nagpur', 'region': 'Maharashtra', 'country': 'IN', 'loc': '21.1463,79.0849', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '440003', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '21.1463', 'longitude': '79.0849'}
+
+
+{'ip': '42.107.128.0', 'hostname': '42-107-128-0.live.vodafone.in', 'city': 'Mumbai', 'region': 'Maharashtra', 'country': 'IN', 'loc': '19.0728,72.8826', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '400070', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '19.0728', 'longitude': '72.8826'}
+
+
+{'ip': '42.107.132.0', 'hostname': '42-107-132-0.live.vodafone.in', 'city': 'Mumbai', 'region': 'Maharashtra', 'country': 'IN', 'loc': '19.0728,72.8826', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '400070', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '19.0728', 'longitude': '72.8826'}
+
+
+{'ip': '42.107.136.0', 'hostname': '42-107-136-0.live.vodafone.in', 'city': 'Mumbai', 'region': 'Maharashtra', 'country': 'IN', 'loc': '19.0728,72.8826', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '400070', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '19.0728', 'longitude': '72.8826'}
+
+
+{'ip': '42.107.140.0', 'hostname': '42-107-140-0.live.vodafone.in', 'city': 'Mumbai', 'region': 'Maharashtra', 'country': 'IN', 'loc': '19.0728,72.8826', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '400070', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '19.0728', 'longitude': '72.8826'}
+
+
+{'ip': '42.107.144.0', 'hostname': '42-107-144-0.live.vodafone.in', 'city': 'Mumbai', 'region': 'Maharashtra', 'country': 'IN', 'loc': '19.0728,72.8826', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '400070', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '19.0728', 'longitude': '72.8826'}
+
+
+{'ip': '42.107.148.0', 'hostname': '42-107-148-0.live.vodafone.in', 'city': 'Mumbai', 'region': 'Maharashtra', 'country': 'IN', 'loc': '19.0728,72.8826', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '400070', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '19.0728', 'longitude': '72.8826'}
+
+
+{'ip': '42.107.152.0', 'hostname': '42-107-152-0.live.vodafone.in', 'city': 'Mumbai', 'region': 'Maharashtra', 'country': 'IN', 'loc': '19.0728,72.8826', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '400070', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '19.0728', 'longitude': '72.8826'}
+
+
+{'ip': '42.107.156.0', 'hostname': '42-107-156-0.live.vodafone.in', 'city': 'Mumbai', 'region': 'Maharashtra', 'country': 'IN', 'loc': '19.0728,72.8826', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '400070', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '19.0728', 'longitude': '72.8826'}
+
+
+{'ip': '42.107.175.0', 'hostname': '42-107-175-0.live.vodafone.in', 'city': 'Dharmapuri', 'region': 'Tamil Nadu', 'country': 'IN', 'loc': '12.1277,78.1579', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '625520', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '12.1277', 'longitude': '78.1579'}
+
+
+{'ip': '42.107.176.0', 'hostname': '42-107-176-0.live.vodafone.in', 'city': 'Coimbatore', 'region': 'Tamil Nadu', 'country': 'IN', 'loc': '11.0055,76.9661', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '641011', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '11.0055', 'longitude': '76.9661'}
+
+
+{'ip': '42.107.177.0', 'hostname': '42-107-177-0.live.vodafone.in', 'city': 'Dharmapuri', 'region': 'Tamil Nadu', 'country': 'IN', 'loc': '12.1277,78.1579', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '625520', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '12.1277', 'longitude': '78.1579'}
+
+
+{'ip': '42.107.180.0', 'hostname': '42-107-180-0.live.vodafone.in', 'city': 'Dharmapuri', 'region': 'Tamil Nadu', 'country': 'IN', 'loc': '12.1277,78.1579', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '625520', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '12.1277', 'longitude': '78.1579'}
+
+
+{'ip': '42.107.192.0', 'hostname': '42-107-192-0.live.vodafone.in', 'city': 'Malappuram', 'region': 'Kerala', 'country': 'IN', 'loc': '11.0420,76.0815', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '676517', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '11.0420', 'longitude': '76.0815'}
+
+
+{'ip': '42.107.192.0', 'hostname': '42-107-192-0.live.vodafone.in', 'city': 'Malappuram', 'region': 'Kerala', 'country': 'IN', 'loc': '11.0420,76.0815', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '676517', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '11.0420', 'longitude': '76.0815'}
+
+
+{'ip': '42.107.196.0', 'hostname': '42-107-196-0.live.vodafone.in', 'city': 'Malappuram', 'region': 'Kerala', 'country': 'IN', 'loc': '11.0420,76.0815', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '676517', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '11.0420', 'longitude': '76.0815'}
+
+
+{'ip': '42.107.200.0', 'hostname': '42-107-200-0.live.vodafone.in', 'city': 'Thiruvananthapuram', 'region': 'Kerala', 'country': 'IN', 'loc': '8.4855,76.9492', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '695020', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '8.4855', 'longitude': '76.9492'}
+
+
+{'ip': '42.107.202.0', 'hostname': '42-107-202-0.live.vodafone.in', 'city': 'Thiruvananthapuram', 'region': 'Kerala', 'country': 'IN', 'loc': '8.4855,76.9492', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '695020', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '8.4855', 'longitude': '76.9492'}
+
+
+{'ip': '42.107.204.0', 'hostname': '42-107-204-0.live.vodafone.in', 'city': 'Thiruvananthapuram', 'region': 'Kerala', 'country': 'IN', 'loc': '8.4855,76.9492', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '695020', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '8.4855', 'longitude': '76.9492'}
+
+
+{'ip': '42.107.206.0', 'hostname': '42-107-206-0.live.vodafone.in', 'city': 'Thiruvananthapuram', 'region': 'Kerala', 'country': 'IN', 'loc': '8.4855,76.9492', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '695020', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '8.4855', 'longitude': '76.9492'}
+
+
+{'ip': '42.107.208.0', 'hostname': '42-107-208-0.live.vodafone.in', 'city': 'Pune', 'region': 'Maharashtra', 'country': 'IN', 'loc': '18.5196,73.8554', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '411005', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '18.5196', 'longitude': '73.8554'}
+
+
+{'ip': '42.107.208.0', 'hostname': '42-107-208-0.live.vodafone.in', 'city': 'Pune', 'region': 'Maharashtra', 'country': 'IN', 'loc': '18.5196,73.8554', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '411005', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '18.5196', 'longitude': '73.8554'}
+
+
+{'ip': '42.107.212.0', 'hostname': '42-107-212-0.live.vodafone.in', 'city': 'Pune', 'region': 'Maharashtra', 'country': 'IN', 'loc': '18.5196,73.8554', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '411005', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '18.5196', 'longitude': '73.8554'}
+
+
+{'ip': '42.107.216.0', 'hostname': '42-107-216-0.live.vodafone.in', 'city': 'Thiruvananthapuram', 'region': 'Kerala', 'country': 'IN', 'loc': '8.4855,76.9492', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '695020', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '8.4855', 'longitude': '76.9492'}
+
+
+{'ip': '42.107.218.0', 'hostname': '42-107-218-0.live.vodafone.in', 'city': 'Thiruvananthapuram', 'region': 'Kerala', 'country': 'IN', 'loc': '8.4855,76.9492', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '695020', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '8.4855', 'longitude': '76.9492'}
+
+
+{'ip': '42.107.220.0', 'hostname': '42-107-220-0.live.vodafone.in', 'city': 'Thiruvananthapuram', 'region': 'Kerala', 'country': 'IN', 'loc': '8.4855,76.9492', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '695020', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '8.4855', 'longitude': '76.9492'}
+
+
+{'ip': '42.107.222.0', 'hostname': '42-107-222-0.live.vodafone.in', 'city': 'Thiruvananthapuram', 'region': 'Kerala', 'country': 'IN', 'loc': '8.4855,76.9492', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '695020', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '8.4855', 'longitude': '76.9492'}
+
+
+{'ip': '42.107.224.0', 'hostname': '42-107-224-0.live.vodafone.in', 'city': 'Jaipur', 'region': 'Rajasthan', 'country': 'IN', 'loc': '26.9196,75.7878', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '302001', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '26.9196', 'longitude': '75.7878'}
+
+
+{'ip': '42.107.224.0', 'hostname': '42-107-224-0.live.vodafone.in', 'city': 'Jaipur', 'region': 'Rajasthan', 'country': 'IN', 'loc': '26.9196,75.7878', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '302001', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '26.9196', 'longitude': '75.7878'}
+
+
+{'ip': '42.107.232.0', 'hostname': '42-107-232-0.live.vodafone.in', 'city': 'Jaipur', 'region': 'Rajasthan', 'country': 'IN', 'loc': '26.9196,75.7878', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '302001', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '26.9196', 'longitude': '75.7878'}
+
+
+{'ip': '42.107.236.0', 'hostname': '42-107-236-0.live.vodafone.in', 'city': 'Jaipur', 'region': 'Rajasthan', 'country': 'IN', 'loc': '26.9196,75.7878', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '302001', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '26.9196', 'longitude': '75.7878'}
+
+
+{'ip': '42.107.240.0', 'hostname': '42-107-240-0.live.vodafone.in', 'city': 'Jaipur', 'region': 'Rajasthan', 'country': 'IN', 'loc': '26.9196,75.7878', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '302001', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '26.9196', 'longitude': '75.7878'}
+
+
+{'ip': '42.107.240.0', 'hostname': '42-107-240-0.live.vodafone.in', 'city': 'Jaipur', 'region': 'Rajasthan', 'country': 'IN', 'loc': '26.9196,75.7878', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '302001', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '26.9196', 'longitude': '75.7878'}
+
+
+{'ip': '42.107.244.0', 'hostname': '42-107-244-0.live.vodafone.in', 'city': 'Jaipur', 'region': 'Rajasthan', 'country': 'IN', 'loc': '26.9196,75.7878', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '302001', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '26.9196', 'longitude': '75.7878'}
+
+
+{'ip': '42.107.248.0', 'hostname': '42-107-248-0.live.vodafone.in', 'city': 'Jaipur', 'region': 'Rajasthan', 'country': 'IN', 'loc': '26.9196,75.7878', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '302001', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '26.9196', 'longitude': '75.7878'}
+
+
+{'ip': '42.107.252.0', 'hostname': '42-107-252-0.live.vodafone.in', 'city': 'Jaipur', 'region': 'Rajasthan', 'country': 'IN', 'loc': '26.9196,75.7878', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '302001', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '26.9196', 'longitude': '75.7878'}
+
+
+{'ip': '42.107.64.0', 'hostname': '42-107-64-0.live.vodafone.in', 'city': 'Pune', 'region': 'Maharashtra', 'country': 'IN', 'loc': '18.5196,73.8554', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '411005', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '18.5196', 'longitude': '73.8554'}
+
+
+{'ip': '42.107.68.0', 'hostname': '42-107-68-0.live.vodafone.in', 'city': 'Pune', 'region': 'Maharashtra', 'country': 'IN', 'loc': '18.5196,73.8554', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '411005', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '18.5196', 'longitude': '73.8554'}
+
+
+{'ip': '42.107.72.0', 'hostname': '42-107-72-0.live.vodafone.in', 'city': 'Pune', 'region': 'Maharashtra', 'country': 'IN', 'loc': '18.5196,73.8554', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '411005', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '18.5196', 'longitude': '73.8554'}
+
+
+{'ip': '42.107.76.0', 'hostname': '42-107-76-0.live.vodafone.in', 'city': 'Pune', 'region': 'Maharashtra', 'country': 'IN', 'loc': '18.5196,73.8554', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '411005', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '18.5196', 'longitude': '73.8554'}
+
+
+{'ip': '42.107.80.0', 'hostname': '42-107-80-0.live.vodafone.in', 'city': 'Pune', 'region': 'Maharashtra', 'country': 'IN', 'loc': '18.5196,73.8554', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '411005', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '18.5196', 'longitude': '73.8554'}
+
+
+{'ip': '42.107.84.0', 'hostname': '42-107-84-0.live.vodafone.in', 'city': 'Pune', 'region': 'Maharashtra', 'country': 'IN', 'loc': '18.5196,73.8554', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '411005', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '18.5196', 'longitude': '73.8554'}
+
+
+{'ip': '42.107.88.0', 'hostname': '42-107-88-0.live.vodafone.in', 'city': 'Pune', 'region': 'Maharashtra', 'country': 'IN', 'loc': '18.5196,73.8554', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '411005', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '18.5196', 'longitude': '73.8554'}
+
+
+{'ip': '42.107.92.0', 'hostname': '42-107-92-0.live.vodafone.in', 'city': 'Pune', 'region': 'Maharashtra', 'country': 'IN', 'loc': '18.5196,73.8554', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '411005', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '18.5196', 'longitude': '73.8554'}
+
+
+{'ip': '42.107.94.0', 'hostname': '42-107-94-0.live.vodafone.in', 'city': 'Pune', 'region': 'Maharashtra', 'country': 'IN', 'loc': '18.5196,73.8554', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '411005', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '18.5196', 'longitude': '73.8554'}
+
+
+{'ip': '42.108.0.0', 'hostname': '42-108-0-0.live.vodafone.in', 'city': 'New Delhi', 'region': 'Delhi', 'country': 'IN', 'loc': '28.6358,77.2245', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '110001', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '28.6358', 'longitude': '77.2245'}
+
+
+{'ip': '42.108.0.0', 'hostname': '42-108-0-0.live.vodafone.in', 'city': 'New Delhi', 'region': 'Delhi', 'country': 'IN', 'loc': '28.6358,77.2245', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '110001', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '28.6358', 'longitude': '77.2245'}
+
+
+{'ip': '42.108.10.0', 'hostname': '42-108-10-0.live.vodafone.in', 'city': 'Agra', 'region': 'Uttar Pradesh', 'country': 'IN', 'loc': '27.1833,78.0167', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '282001', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '27.1833', 'longitude': '78.0167'}
+
+
+{'ip': '42.108.12.0', 'hostname': '42-108-12-0.live.vodafone.in', 'city': 'Meerut', 'region': 'Uttar Pradesh', 'country': 'IN', 'loc': '28.9800,77.7064', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '250002', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '28.9800', 'longitude': '77.7064'}
+
+
+{'ip': '42.108.14.0', 'hostname': '42-108-14-0.live.vodafone.in', 'city': 'Meerut', 'region': 'Uttar Pradesh', 'country': 'IN', 'loc': '28.9800,77.7064', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '250002', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '28.9800', 'longitude': '77.7064'}
+
+
+{'ip': '42.108.160.0', 'hostname': '42-108-160-0.live.vodafone.in', 'city': 'Delhi', 'region': 'Delhi', 'country': 'IN', 'loc': '28.6519,77.2315', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '110001', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '28.6519', 'longitude': '77.2315'}
+
+
+{'ip': '42.108.160.0', 'hostname': '42-108-160-0.live.vodafone.in', 'city': 'Delhi', 'region': 'Delhi', 'country': 'IN', 'loc': '28.6519,77.2315', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '110001', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '28.6519', 'longitude': '77.2315'}
+
+
+{'ip': '42.108.16.0', 'hostname': '42-108-16-0.live.vodafone.in', 'city': 'New Delhi', 'region': 'Delhi', 'country': 'IN', 'loc': '28.6358,77.2245', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '110001', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '28.6358', 'longitude': '77.2245'}
+
+
+{'ip': '42.108.16.0', 'hostname': '42-108-16-0.live.vodafone.in', 'city': 'New Delhi', 'region': 'Delhi', 'country': 'IN', 'loc': '28.6358,77.2245', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '110001', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '28.6358', 'longitude': '77.2245'}
+
+
+{'ip': '42.108.164.0', 'hostname': '42-108-164-0.live.vodafone.in', 'city': 'Delhi', 'region': 'Delhi', 'country': 'IN', 'loc': '28.6519,77.2315', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '110001', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '28.6519', 'longitude': '77.2315'}
+
+
+{'ip': '42.108.168.0', 'hostname': '42-108-168-0.live.vodafone.in', 'city': 'Delhi', 'region': 'Delhi', 'country': 'IN', 'loc': '28.6519,77.2315', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '110001', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '28.6519', 'longitude': '77.2315'}
+
+
+{'ip': '42.108.170.0', 'hostname': '42-108-170-0.live.vodafone.in', 'city': 'Delhi', 'region': 'Delhi', 'country': 'IN', 'loc': '28.6519,77.2315', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '110001', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '28.6519', 'longitude': '77.2315'}
+
+
+{'ip': '42.108.172.0', 'hostname': '42-108-172-0.live.vodafone.in', 'city': 'Delhi', 'region': 'Delhi', 'country': 'IN', 'loc': '28.6519,77.2315', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '110001', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '28.6519', 'longitude': '77.2315'}
+
+
+{'ip': '42.108.174.0', 'hostname': '42-108-174-0.live.vodafone.in', 'city': 'Delhi', 'region': 'Delhi', 'country': 'IN', 'loc': '28.6519,77.2315', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '110001', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '28.6519', 'longitude': '77.2315'}
+
+
+{'ip': '42.108.176.0', 'hostname': '42-108-176-0.live.vodafone.in', 'city': 'Delhi', 'region': 'Delhi', 'country': 'IN', 'loc': '28.6519,77.2315', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '110001', 'timezone': 'Asia/Kolkata', 'readme': 'https://ipinfo.io/missingauth', 'country_name': 'India', 'latitude': '28.6519', 'longitude': '77.2315'}
+
+
+{'ip': '42.108.176.0', 'hostname': '42-108-176-0.live.vodafone.in', 'city': 'Delhi', 'region': 'Delhi', 'country': 'IN', 'loc': '28.6519,77.2315', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '110001', 'timezone': 'Asia/Kolkata', 'readme': 'https://ipinfo.io/missingauth', 'country_name': 'India', 'latitude': '28.6519', 'longitude': '77.2315'}
+
+
+{'ip': '42.108.180.0', 'hostname': '42-108-180-0.live.vodafone.in', 'city': 'Delhi', 'region': 'Delhi', 'country': 'IN', 'loc': '28.6519,77.2315', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '110001', 'timezone': 'Asia/Kolkata', 'readme': 'https://ipinfo.io/missingauth', 'country_name': 'India', 'latitude': '28.6519', 'longitude': '77.2315'}
+
+
+{'ip': '42.108.184.0', 'hostname': '42-108-184-0.live.vodafone.in', 'city': 'Delhi', 'region': 'Delhi', 'country': 'IN', 'loc': '28.6519,77.2315', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '110001', 'timezone': 'Asia/Kolkata', 'readme': 'https://ipinfo.io/missingauth', 'country_name': 'India', 'latitude': '28.6519', 'longitude': '77.2315'}
+
+
+{'ip': '42.108.186.0', 'hostname': '42-108-186-0.live.vodafone.in', 'city': 'Delhi', 'region': 'Delhi', 'country': 'IN', 'loc': '28.6519,77.2315', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '110001', 'timezone': 'Asia/Kolkata', 'readme': 'https://ipinfo.io/missingauth', 'country_name': 'India', 'latitude': '28.6519', 'longitude': '77.2315'}
+
+
+{'ip': '42.108.188.0', 'hostname': '42-108-188-0.live.vodafone.in', 'city': 'Delhi', 'region': 'Delhi', 'country': 'IN', 'loc': '28.6519,77.2315', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '110001', 'timezone': 'Asia/Kolkata', 'readme': 'https://ipinfo.io/missingauth', 'country_name': 'India', 'latitude': '28.6519', 'longitude': '77.2315'}
+
+
+{'ip': '42.108.190.0', 'hostname': '42-108-190-0.live.vodafone.in', 'city': 'Delhi', 'region': 'Delhi', 'country': 'IN', 'loc': '28.6519,77.2315', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '110001', 'timezone': 'Asia/Kolkata', 'readme': 'https://ipinfo.io/missingauth', 'country_name': 'India', 'latitude': '28.6519', 'longitude': '77.2315'}
+
+
+{'ip': '42.108.192.0', 'hostname': '42-108-192-0.live.vodafone.in', 'city': 'Surat', 'region': 'Gujarat', 'country': 'IN', 'loc': '21.1959,72.8302', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '395005', 'timezone': 'Asia/Kolkata', 'readme': 'https://ipinfo.io/missingauth', 'country_name': 'India', 'latitude': '21.1959', 'longitude': '72.8302'}
+
+
+{'ip': '42.108.192.0', 'hostname': '42-108-192-0.live.vodafone.in', 'city': 'Surat', 'region': 'Gujarat', 'country': 'IN', 'loc': '21.1959,72.8302', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '395005', 'timezone': 'Asia/Kolkata', 'readme': 'https://ipinfo.io/missingauth', 'country_name': 'India', 'latitude': '21.1959', 'longitude': '72.8302'}
+
+
+{'ip': '42.108.196.0', 'hostname': '42-108-196-0.live.vodafone.in', 'city': 'Surat', 'region': 'Gujarat', 'country': 'IN', 'loc': '21.1959,72.8302', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '395005', 'timezone': 'Asia/Kolkata', 'readme': 'https://ipinfo.io/missingauth', 'country_name': 'India', 'latitude': '21.1959', 'longitude': '72.8302'}
+
+
+{'ip': '42.108.200.0', 'hostname': '42-108-200-0.live.vodafone.in', 'city': 'Surat', 'region': 'Gujarat', 'country': 'IN', 'loc': '21.1959,72.8302', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '395005', 'timezone': 'Asia/Kolkata', 'readme': 'https://ipinfo.io/missingauth', 'country_name': 'India', 'latitude': '21.1959', 'longitude': '72.8302'}
+
+
+{'ip': '42.108.20.0', 'hostname': '42-108-20-0.live.vodafone.in', 'city': 'Meerut', 'region': 'Uttar Pradesh', 'country': 'IN', 'loc': '28.9800,77.7064', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '250002', 'timezone': 'Asia/Kolkata', 'readme': 'https://ipinfo.io/missingauth', 'country_name': 'India', 'latitude': '28.9800', 'longitude': '77.7064'}
+
+
+{'ip': '42.108.202.0', 'hostname': '42-108-202-0.live.vodafone.in', 'city': 'Surat', 'region': 'Gujarat', 'country': 'IN', 'loc': '21.1959,72.8302', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '395005', 'timezone': 'Asia/Kolkata', 'readme': 'https://ipinfo.io/missingauth', 'country_name': 'India', 'latitude': '21.1959', 'longitude': '72.8302'}
+
+
+{'ip': '42.108.204.0', 'hostname': '42-108-204-0.live.vodafone.in', 'city': 'Surat', 'region': 'Gujarat', 'country': 'IN', 'loc': '21.1959,72.8302', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '395005', 'timezone': 'Asia/Kolkata', 'readme': 'https://ipinfo.io/missingauth', 'country_name': 'India', 'latitude': '21.1959', 'longitude': '72.8302'}
+
+
+{'ip': '42.108.206.0', 'hostname': '42-108-206-0.live.vodafone.in', 'city': 'Surat', 'region': 'Gujarat', 'country': 'IN', 'loc': '21.1959,72.8302', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '395005', 'timezone': 'Asia/Kolkata', 'readme': 'https://ipinfo.io/missingauth', 'country_name': 'India', 'latitude': '21.1959', 'longitude': '72.8302'}
+
+
+{'ip': '42.108.208.0', 'hostname': '42-108-208-0.live.vodafone.in', 'city': 'Surat', 'region': 'Gujarat', 'country': 'IN', 'loc': '21.1959,72.8302', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '395005', 'timezone': 'Asia/Kolkata', 'readme': 'https://ipinfo.io/missingauth', 'country_name': 'India', 'latitude': '21.1959', 'longitude': '72.8302'}
+
+
+{'ip': '42.108.208.0', 'hostname': '42-108-208-0.live.vodafone.in', 'city': 'Surat', 'region': 'Gujarat', 'country': 'IN', 'loc': '21.1959,72.8302', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '395005', 'timezone': 'Asia/Kolkata', 'readme': 'https://ipinfo.io/missingauth', 'country_name': 'India', 'latitude': '21.1959', 'longitude': '72.8302'}
+
+
+{'ip': '42.108.212.0', 'hostname': '42-108-212-0.live.vodafone.in', 'city': 'Surat', 'region': 'Gujarat', 'country': 'IN', 'loc': '21.1959,72.8302', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '395005', 'timezone': 'Asia/Kolkata', 'readme': 'https://ipinfo.io/missingauth', 'country_name': 'India', 'latitude': '21.1959', 'longitude': '72.8302'}
+
+
+{'ip': '42.108.216.0', 'hostname': '42-108-216-0.live.vodafone.in', 'city': 'Surat', 'region': 'Gujarat', 'country': 'IN', 'loc': '21.1959,72.8302', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '395005', 'timezone': 'Asia/Kolkata', 'readme': 'https://ipinfo.io/missingauth', 'country_name': 'India', 'latitude': '21.1959', 'longitude': '72.8302'}
+
+
+{'ip': '42.108.218.0', 'hostname': '42-108-218-0.live.vodafone.in', 'city': 'Surat', 'region': 'Gujarat', 'country': 'IN', 'loc': '21.1959,72.8302', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '395005', 'timezone': 'Asia/Kolkata', 'readme': 'https://ipinfo.io/missingauth', 'country_name': 'India', 'latitude': '21.1959', 'longitude': '72.8302'}
+
+
+{'ip': '42.108.220.0', 'hostname': '42-108-220-0.live.vodafone.in', 'city': 'Surat', 'region': 'Gujarat', 'country': 'IN', 'loc': '21.1959,72.8302', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '395005', 'timezone': 'Asia/Kolkata', 'readme': 'https://ipinfo.io/missingauth', 'country_name': 'India', 'latitude': '21.1959', 'longitude': '72.8302'}
+
+
+{'ip': '42.108.222.0', 'hostname': '42-108-222-0.live.vodafone.in', 'city': 'Surat', 'region': 'Gujarat', 'country': 'IN', 'loc': '21.1959,72.8302', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '395005', 'timezone': 'Asia/Kolkata', 'readme': 'https://ipinfo.io/missingauth', 'country_name': 'India', 'latitude': '21.1959', 'longitude': '72.8302'}
+
+
+{'ip': '42.108.224.0', 'hostname': '42-108-224-0.live.vodafone.in', 'city': 'Pune', 'region': 'Maharashtra', 'country': 'IN', 'loc': '18.5196,73.8554', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '411005', 'timezone': 'Asia/Kolkata', 'readme': 'https://ipinfo.io/missingauth', 'country_name': 'India', 'latitude': '18.5196', 'longitude': '73.8554'}
+
+
+{'ip': '42.108.228.0', 'hostname': '42-108-228-0.live.vodafone.in', 'city': 'Pune', 'region': 'Maharashtra', 'country': 'IN', 'loc': '18.5196,73.8554', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '411005', 'timezone': 'Asia/Kolkata', 'readme': 'https://ipinfo.io/missingauth', 'country_name': 'India', 'latitude': '18.5196', 'longitude': '73.8554'}
+
+
+{'ip': '42.108.232.0', 'hostname': '42-108-232-0.live.vodafone.in', 'city': 'Pune', 'region': 'Maharashtra', 'country': 'IN', 'loc': '18.5196,73.8554', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '411005', 'timezone': 'Asia/Kolkata', 'readme': 'https://ipinfo.io/missingauth', 'country_name': 'India', 'latitude': '18.5196', 'longitude': '73.8554'}
+
+
+{'ip': '42.108.236.0', 'hostname': '42-108-236-0.live.vodafone.in', 'city': 'Pune', 'region': 'Maharashtra', 'country': 'IN', 'loc': '18.5196,73.8554', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '411005', 'timezone': 'Asia/Kolkata', 'readme': 'https://ipinfo.io/missingauth', 'country_name': 'India', 'latitude': '18.5196', 'longitude': '73.8554'}
+
+
+{'ip': '42.108.240.0', 'hostname': '42-108-240-0.live.vodafone.in', 'city': 'Pune', 'region': 'Maharashtra', 'country': 'IN', 'loc': '18.5196,73.8554', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '411005', 'timezone': 'Asia/Kolkata', 'readme': 'https://ipinfo.io/missingauth', 'country_name': 'India', 'latitude': '18.5196', 'longitude': '73.8554'}
+
+
+{'ip': '42.108.24.0', 'hostname': '42-108-24-0.live.vodafone.in', 'city': 'Pune', 'region': 'Maharashtra', 'country': 'IN', 'loc': '18.5196,73.8554', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '411005', 'timezone': 'Asia/Kolkata', 'readme': 'https://ipinfo.io/missingauth', 'country_name': 'India', 'latitude': '18.5196', 'longitude': '73.8554'}
+
+
+{'ip': '42.108.244.0', 'hostname': '42-108-244-0.live.vodafone.in', 'city': 'Pune', 'region': 'Maharashtra', 'country': 'IN', 'loc': '18.5196,73.8554', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '411005', 'timezone': 'Asia/Kolkata', 'readme': 'https://ipinfo.io/missingauth', 'country_name': 'India', 'latitude': '18.5196', 'longitude': '73.8554'}
+
+
+{'ip': '42.108.248.0', 'hostname': '42-108-248-0.live.vodafone.in', 'city': 'Pune', 'region': 'Maharashtra', 'country': 'IN', 'loc': '18.5196,73.8554', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '411005', 'timezone': 'Asia/Kolkata', 'readme': 'https://ipinfo.io/missingauth', 'country_name': 'India', 'latitude': '18.5196', 'longitude': '73.8554'}
+
+
+{'ip': '42.108.252.0', 'hostname': '42-108-252-0.live.vodafone.in', 'city': 'Pune', 'region': 'Maharashtra', 'country': 'IN', 'loc': '18.5196,73.8554', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '411005', 'timezone': 'Asia/Kolkata', 'readme': 'https://ipinfo.io/missingauth', 'country_name': 'India', 'latitude': '18.5196', 'longitude': '73.8554'}
+
+
+{'ip': '42.108.28.0', 'hostname': '42-108-28-0.live.vodafone.in', 'city': 'Meerut', 'region': 'Uttar Pradesh', 'country': 'IN', 'loc': '28.9800,77.7064', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '250002', 'timezone': 'Asia/Kolkata', 'readme': 'https://ipinfo.io/missingauth', 'country_name': 'India', 'latitude': '28.9800', 'longitude': '77.7064'}
+
+
+{'ip': '42.108.30.0', 'hostname': '42-108-30-0.live.vodafone.in', 'city': 'Meerut', 'region': 'Uttar Pradesh', 'country': 'IN', 'loc': '28.9800,77.7064', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '250002', 'timezone': 'Asia/Kolkata', 'readme': 'https://ipinfo.io/missingauth', 'country_name': 'India', 'latitude': '28.9800', 'longitude': '77.7064'}
+
+
+{'ip': '42.108.32.0', 'hostname': '42-108-32-0.live.vodafone.in', 'city': 'Guwahati', 'region': 'Assam', 'country': 'IN', 'loc': '26.1844,91.7458', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '781030', 'timezone': 'Asia/Kolkata', 'readme': 'https://ipinfo.io/missingauth', 'country_name': 'India', 'latitude': '26.1844', 'longitude': '91.7458'}
+
+
+{'ip': '42.108.36.0', 'hostname': '42-108-36-0.live.vodafone.in', 'city': 'Guwahati', 'region': 'Assam', 'country': 'IN', 'loc': '26.1844,91.7458', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '781030', 'timezone': 'Asia/Kolkata', 'readme': 'https://ipinfo.io/missingauth', 'country_name': 'India', 'latitude': '26.1844', 'longitude': '91.7458'}
+
+
+{'ip': '42.108.40.0', 'hostname': '42-108-40-0.live.vodafone.in', 'city': 'Guwahati', 'region': 'Assam', 'country': 'IN', 'loc': '26.1844,91.7458', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '781030', 'timezone': 'Asia/Kolkata', 'readme': 'https://ipinfo.io/missingauth', 'country_name': 'India', 'latitude': '26.1844', 'longitude': '91.7458'}
+
+
+{'ip': '42.108.4.0', 'hostname': '42-108-4-0.live.vodafone.in', 'city': 'Lucknow', 'region': 'Uttar Pradesh', 'country': 'IN', 'loc': '26.8393,80.9231', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '226004', 'timezone': 'Asia/Kolkata', 'readme': 'https://ipinfo.io/missingauth', 'country_name': 'India', 'latitude': '26.8393', 'longitude': '80.9231'}
+
+
+{'ip': '42.108.42.0', 'hostname': '42-108-42-0.live.vodafone.in', 'city': 'Guwahati', 'region': 'Assam', 'country': 'IN', 'loc': '26.1844,91.7458', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '781030', 'timezone': 'Asia/Kolkata', 'readme': 'https://ipinfo.io/missingauth', 'country_name': 'India', 'latitude': '26.1844', 'longitude': '91.7458'}
+
+
+{'ip': '42.108.44.0', 'hostname': '42-108-44-0.live.vodafone.in', 'city': 'Guwahati', 'region': 'Assam', 'country': 'IN', 'loc': '26.1844,91.7458', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '781030', 'timezone': 'Asia/Kolkata', 'readme': 'https://ipinfo.io/missingauth', 'country_name': 'India', 'latitude': '26.1844', 'longitude': '91.7458'}
+
+
+{'ip': '42.108.46.0', 'hostname': '42-108-46-0.live.vodafone.in', 'city': 'Guwahati', 'region': 'Assam', 'country': 'IN', 'loc': '26.1844,91.7458', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '781030', 'timezone': 'Asia/Kolkata', 'readme': 'https://ipinfo.io/missingauth', 'country_name': 'India', 'latitude': '26.1844', 'longitude': '91.7458'}
+
+
+{'ip': '42.108.48.0', 'hostname': '42-108-48-0.live.vodafone.in', 'city': 'Guwahati', 'region': 'Assam', 'country': 'IN', 'loc': '26.1844,91.7458', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '781030', 'timezone': 'Asia/Kolkata', 'readme': 'https://ipinfo.io/missingauth', 'country_name': 'India', 'latitude': '26.1844', 'longitude': '91.7458'}
+
+
+{'ip': '42.108.52.0', 'hostname': '42-108-52-0.live.vodafone.in', 'city': 'Guwahati', 'region': 'Assam', 'country': 'IN', 'loc': '26.1844,91.7458', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '781030', 'timezone': 'Asia/Kolkata', 'readme': 'https://ipinfo.io/missingauth', 'country_name': 'India', 'latitude': '26.1844', 'longitude': '91.7458'}
+
+
+{'ip': '42.108.56.0', 'hostname': '42-108-56-0.live.vodafone.in', 'city': 'Guwahati', 'region': 'Assam', 'country': 'IN', 'loc': '26.1844,91.7458', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '781030', 'timezone': 'Asia/Kolkata', 'readme': 'https://ipinfo.io/missingauth', 'country_name': 'India', 'latitude': '26.1844', 'longitude': '91.7458'}
+
+
+{'ip': '42.108.58.0', 'hostname': '42-108-58-0.live.vodafone.in', 'city': 'Guwahati', 'region': 'Assam', 'country': 'IN', 'loc': '26.1844,91.7458', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '781030', 'timezone': 'Asia/Kolkata', 'readme': 'https://ipinfo.io/missingauth', 'country_name': 'India', 'latitude': '26.1844', 'longitude': '91.7458'}
+
+
+{'ip': '42.108.60.0', 'hostname': '42-108-60-0.live.vodafone.in', 'city': 'Guwahati', 'region': 'Assam', 'country': 'IN', 'loc': '26.1844,91.7458', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '781030', 'timezone': 'Asia/Kolkata', 'readme': 'https://ipinfo.io/missingauth', 'country_name': 'India', 'latitude': '26.1844', 'longitude': '91.7458'}
+
+
+{'ip': '42.108.62.0', 'hostname': '42-108-62-0.live.vodafone.in', 'city': 'Guwahati', 'region': 'Assam', 'country': 'IN', 'loc': '26.1844,91.7458', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '781030', 'timezone': 'Asia/Kolkata', 'readme': 'https://ipinfo.io/missingauth', 'country_name': 'India', 'latitude': '26.1844', 'longitude': '91.7458'}
+
+
+{'ip': '42.108.8.0', 'hostname': '42-108-8-0.live.vodafone.in', 'city': 'Ghāziābād', 'region': 'Uttar Pradesh', 'country': 'IN', 'loc': '28.6654,77.4391', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '201002', 'timezone': 'Asia/Kolkata', 'readme': 'https://ipinfo.io/missingauth', 'country_name': 'India', 'latitude': '28.6654', 'longitude': '77.4391'}
+
+
+{'ip': '42.109.128.0', 'hostname': '42-109-128-0.live.vodafone.in', 'city': 'Kozhikode', 'region': 'Kerala', 'country': 'IN', 'loc': '11.2480,75.7804', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '673004', 'timezone': 'Asia/Kolkata', 'readme': 'https://ipinfo.io/missingauth', 'country_name': 'India', 'latitude': '11.2480', 'longitude': '75.7804'}
+
+
+{'ip': '42.109.128.0', 'hostname': '42-109-128-0.live.vodafone.in', 'city': 'Kozhikode', 'region': 'Kerala', 'country': 'IN', 'loc': '11.2480,75.7804', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '673004', 'timezone': 'Asia/Kolkata', 'readme': 'https://ipinfo.io/missingauth', 'country_name': 'India', 'latitude': '11.2480', 'longitude': '75.7804'}
+
+
+{'ip': '42.109.144.0', 'hostname': '42-109-144-0.live.vodafone.in', 'city': 'Idukki', 'region': 'Kerala', 'country': 'IN', 'loc': '9.8500,76.9667', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '685509', 'timezone': 'Asia/Kolkata', 'readme': 'https://ipinfo.io/missingauth', 'country_name': 'India', 'latitude': '9.8500', 'longitude': '76.9667'}
+
+
+{'ip': '42.109.148.0', 'hostname': '42-109-148-0.live.vodafone.in', 'city': 'Adūr', 'region': 'Kerala', 'country': 'IN', 'loc': '9.1560,76.7319', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '691551', 'timezone': 'Asia/Kolkata', 'readme': 'https://ipinfo.io/missingauth', 'country_name': 'India', 'latitude': '9.1560', 'longitude': '76.7319'}
+
+
+{'ip': '42.109.192.0', 'hostname': '42-109-192-0.live.vodafone.in', 'city': 'Gurgaon', 'region': 'Haryana', 'country': 'IN', 'loc': '28.4601,77.0263', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '122004', 'timezone': 'Asia/Kolkata', 'readme': 'https://ipinfo.io/missingauth', 'country_name': 'India', 'latitude': '28.4601', 'longitude': '77.0263'}
+
+
+{'ip': '42.109.196.0', 'hostname': '42-109-196-0.live.vodafone.in', 'city': 'Gurgaon', 'region': 'Haryana', 'country': 'IN', 'loc': '28.4601,77.0263', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '122004', 'timezone': 'Asia/Kolkata', 'readme': 'https://ipinfo.io/missingauth', 'country_name': 'India', 'latitude': '28.4601', 'longitude': '77.0263'}
+
+
+{'ip': '42.109.200.0', 'hostname': '42-109-200-0.live.vodafone.in', 'city': 'Gurgaon', 'region': 'Haryana', 'country': 'IN', 'loc': '28.4601,77.0263', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '122004', 'timezone': 'Asia/Kolkata', 'readme': 'https://ipinfo.io/missingauth', 'country_name': 'India', 'latitude': '28.4601', 'longitude': '77.0263'}
+
+
+{'ip': '42.109.204.0', 'hostname': '42-109-204-0.live.vodafone.in', 'city': 'Gurgaon', 'region': 'Haryana', 'country': 'IN', 'loc': '28.4601,77.0263', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '122004', 'timezone': 'Asia/Kolkata', 'readme': 'https://ipinfo.io/missingauth', 'country_name': 'India', 'latitude': '28.4601', 'longitude': '77.0263'}
+
+
+{'ip': '42.109.206.0', 'hostname': '42-109-206-0.live.vodafone.in', 'city': 'Gurgaon', 'region': 'Haryana', 'country': 'IN', 'loc': '28.4601,77.0263', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '122004', 'timezone': 'Asia/Kolkata', 'readme': 'https://ipinfo.io/missingauth', 'country_name': 'India', 'latitude': '28.4601', 'longitude': '77.0263'}
+
+
+{'ip': '42.109.208.0', 'hostname': '42-109-208-0.live.vodafone.in', 'city': 'Pānīpat', 'region': 'Haryana', 'country': 'IN', 'loc': '29.3875,76.9682', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '132103', 'timezone': 'Asia/Kolkata', 'readme': 'https://ipinfo.io/missingauth', 'country_name': 'India', 'latitude': '29.3875', 'longitude': '76.9682'}
+
+
+{'ip': '42.109.212.0', 'hostname': '42-109-212-0.live.vodafone.in', 'city': 'Pānīpat', 'region': 'Haryana', 'country': 'IN', 'loc': '29.3875,76.9682', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '132103', 'timezone': 'Asia/Kolkata', 'readme': 'https://ipinfo.io/missingauth', 'country_name': 'India', 'latitude': '29.3875', 'longitude': '76.9682'}
+
+
+{'ip': '42.109.216.0', 'hostname': '42-109-216-0.live.vodafone.in', 'city': 'Gurgaon', 'region': 'Haryana', 'country': 'IN', 'loc': '28.4601,77.0263', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '122004', 'timezone': 'Asia/Kolkata', 'readme': 'https://ipinfo.io/missingauth', 'country_name': 'India', 'latitude': '28.4601', 'longitude': '77.0263'}
+
+
+{'ip': '42.109.220.0', 'hostname': '42-109-220-0.live.vodafone.in', 'city': 'Rohtak', 'region': 'Haryana', 'country': 'IN', 'loc': '28.8945,76.5892', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '124001', 'timezone': 'Asia/Kolkata', 'readme': 'https://ipinfo.io/missingauth', 'country_name': 'India', 'latitude': '28.8945', 'longitude': '76.5892'}
+
+
+{'ip': '42.109.222.0', 'hostname': '42-109-222-0.live.vodafone.in', 'city': 'Pānīpat', 'region': 'Haryana', 'country': 'IN', 'loc': '29.3875,76.9682', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '132103', 'timezone': 'Asia/Kolkata', 'readme': 'https://ipinfo.io/missingauth', 'country_name': 'India', 'latitude': '29.3875', 'longitude': '76.9682'}
+
+
+{'ip': '42.109.224.0', 'hostname': '42-109-224-0.live.vodafone.in', 'city': 'Ludhiāna', 'region': 'Punjab', 'country': 'IN', 'loc': '30.9120,75.8538', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '141120', 'timezone': 'Asia/Kolkata', 'readme': 'https://ipinfo.io/missingauth', 'country_name': 'India', 'latitude': '30.9120', 'longitude': '75.8538'}
+
+
+{'ip': '42.109.228.0', 'hostname': '42-109-228-0.live.vodafone.in', 'city': 'Ludhiāna', 'region': 'Punjab', 'country': 'IN', 'loc': '30.9120,75.8538', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '141120', 'timezone': 'Asia/Kolkata', 'readme': 'https://ipinfo.io/missingauth', 'country_name': 'India', 'latitude': '30.9120', 'longitude': '75.8538'}
+
+
+{'ip': '42.109.232.0', 'hostname': '42-109-232-0.live.vodafone.in', 'city': 'Ludhiāna', 'region': 'Punjab', 'country': 'IN', 'loc': '30.9120,75.8538', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '141120', 'timezone': 'Asia/Kolkata', 'readme': 'https://ipinfo.io/missingauth', 'country_name': 'India', 'latitude': '30.9120', 'longitude': '75.8538'}
+
+
+{'ip': '42.109.236.0', 'hostname': '42-109-236-0.live.vodafone.in', 'city': 'Chandīgarh', 'region': 'Chandigarh', 'country': 'IN', 'loc': '30.7363,76.7884', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '160043', 'timezone': 'Asia/Kolkata', 'readme': 'https://ipinfo.io/missingauth', 'country_name': 'India', 'latitude': '30.7363', 'longitude': '76.7884'}
+
+
+{'ip': '42.109.238.0', 'hostname': '42-109-238-0.live.vodafone.in', 'city': 'Ludhiāna', 'region': 'Punjab', 'country': 'IN', 'loc': '30.9120,75.8538', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '141120', 'timezone': 'Asia/Kolkata', 'readme': 'https://ipinfo.io/missingauth', 'country_name': 'India', 'latitude': '30.9120', 'longitude': '75.8538'}
+
+
+{'ip': '42.109.240.0', 'hostname': '42-109-240-0.live.vodafone.in', 'city': 'Ludhiāna', 'region': 'Punjab', 'country': 'IN', 'loc': '30.9120,75.8538', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '141120', 'timezone': 'Asia/Kolkata', 'readme': 'https://ipinfo.io/missingauth', 'country_name': 'India', 'latitude': '30.9120', 'longitude': '75.8538'}
+
+
+{'ip': '42.109.244.0', 'hostname': '42-109-244-0.live.vodafone.in', 'city': 'Ludhiāna', 'region': 'Punjab', 'country': 'IN', 'loc': '30.9120,75.8538', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '141120', 'timezone': 'Asia/Kolkata', 'readme': 'https://ipinfo.io/missingauth', 'country_name': 'India', 'latitude': '30.9120', 'longitude': '75.8538'}
+
+
+{'ip': '42.109.248.0', 'hostname': '42-109-248-0.live.vodafone.in', 'city': 'Chandīgarh', 'region': 'Chandigarh', 'country': 'IN', 'loc': '30.7363,76.7884', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '160043', 'timezone': 'Asia/Kolkata', 'readme': 'https://ipinfo.io/missingauth', 'country_name': 'India', 'latitude': '30.7363', 'longitude': '76.7884'}
+
+
+{'ip': '42.109.250.0', 'hostname': '42-109-250-0.live.vodafone.in', 'city': 'Chandīgarh', 'region': 'Chandigarh', 'country': 'IN', 'loc': '30.7363,76.7884', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '160043', 'timezone': 'Asia/Kolkata', 'readme': 'https://ipinfo.io/missingauth', 'country_name': 'India', 'latitude': '30.7363', 'longitude': '76.7884'}
+
+
+{'ip': '42.109.252.0', 'hostname': '42-109-252-0.live.vodafone.in', 'city': 'Ludhiāna', 'region': 'Punjab', 'country': 'IN', 'loc': '30.9120,75.8538', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '141120', 'timezone': 'Asia/Kolkata', 'readme': 'https://ipinfo.io/missingauth', 'country_name': 'India', 'latitude': '30.9120', 'longitude': '75.8538'}
+
+
+{'ip': '42.110.0.0', 'hostname': '42-110-0-0.live.vodafone.in', 'city': 'Mumbai', 'region': 'Maharashtra', 'country': 'IN', 'loc': '19.0728,72.8826', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '400070', 'timezone': 'Asia/Kolkata', 'readme': 'https://ipinfo.io/missingauth', 'country_name': 'India', 'latitude': '19.0728', 'longitude': '72.8826'}
+
+
+{'ip': '42.110.128.0', 'hostname': '42-110-128-0.live.vodafone.in', 'city': 'Kolkata', 'region': 'West Bengal', 'country': 'IN', 'loc': '22.5626,88.3630', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '700006', 'timezone': 'Asia/Kolkata', 'readme': 'https://ipinfo.io/missingauth', 'country_name': 'India', 'latitude': '22.5626', 'longitude': '88.3630'}
+
+
+{'ip': '42.110.128.0', 'hostname': '42-110-128-0.live.vodafone.in', 'city': 'Kolkata', 'region': 'West Bengal', 'country': 'IN', 'loc': '22.5626,88.3630', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '700006', 'timezone': 'Asia/Kolkata', 'readme': 'https://ipinfo.io/missingauth', 'country_name': 'India', 'latitude': '22.5626', 'longitude': '88.3630'}
+
+
+{'ip': '42.110.132.0', 'hostname': '42-110-132-0.live.vodafone.in', 'city': 'Kolkata', 'region': 'West Bengal', 'country': 'IN', 'loc': '22.5626,88.3630', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '700006', 'timezone': 'Asia/Kolkata', 'readme': 'https://ipinfo.io/missingauth', 'country_name': 'India', 'latitude': '22.5626', 'longitude': '88.3630'}
+
+
+{'ip': '42.110.136.0', 'hostname': '42-110-136-0.live.vodafone.in', 'city': 'Kolkata', 'region': 'West Bengal', 'country': 'IN', 'loc': '22.5626,88.3630', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '700006', 'timezone': 'Asia/Kolkata', 'readme': 'https://ipinfo.io/missingauth', 'country_name': 'India', 'latitude': '22.5626', 'longitude': '88.3630'}
+
+
+{'ip': '42.110.140.0', 'hostname': '42-110-140-0.live.vodafone.in', 'city': 'Kolkata', 'region': 'West Bengal', 'country': 'IN', 'loc': '22.5626,88.3630', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '700006', 'timezone': 'Asia/Kolkata', 'readme': 'https://ipinfo.io/missingauth', 'country_name': 'India', 'latitude': '22.5626', 'longitude': '88.3630'}
+
+
+{'ip': '42.110.144.0', 'hostname': '42-110-144-0.live.vodafone.in', 'city': 'Kolkata', 'region': 'West Bengal', 'country': 'IN', 'loc': '22.5626,88.3630', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '700006', 'timezone': 'Asia/Kolkata', 'readme': 'https://ipinfo.io/missingauth', 'country_name': 'India', 'latitude': '22.5626', 'longitude': '88.3630'}
+
+
+{'ip': '42.110.148.0', 'hostname': '42-110-148-0.live.vodafone.in', 'city': 'Kolkata', 'region': 'West Bengal', 'country': 'IN', 'loc': '22.5626,88.3630', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '700006', 'timezone': 'Asia/Kolkata', 'readme': 'https://ipinfo.io/missingauth', 'country_name': 'India', 'latitude': '22.5626', 'longitude': '88.3630'}
+
+
+{'ip': '42.110.152.0', 'hostname': '42-110-152-0.live.vodafone.in', 'city': 'Kolkata', 'region': 'West Bengal', 'country': 'IN', 'loc': '22.5626,88.3630', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '700006', 'timezone': 'Asia/Kolkata', 'readme': 'https://ipinfo.io/missingauth', 'country_name': 'India', 'latitude': '22.5626', 'longitude': '88.3630'}
+
+
+{'ip': '42.110.154.0', 'hostname': '42-110-154-0.live.vodafone.in', 'city': 'Kolkata', 'region': 'West Bengal', 'country': 'IN', 'loc': '22.5626,88.3630', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '700006', 'timezone': 'Asia/Kolkata', 'readme': 'https://ipinfo.io/missingauth', 'country_name': 'India', 'latitude': '22.5626', 'longitude': '88.3630'}
+
+
+{'ip': '42.110.156.0', 'hostname': '42-110-156-0.live.vodafone.in', 'city': 'Kolkata', 'region': 'West Bengal', 'country': 'IN', 'loc': '22.5626,88.3630', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '700006', 'timezone': 'Asia/Kolkata', 'readme': 'https://ipinfo.io/missingauth', 'country_name': 'India', 'latitude': '22.5626', 'longitude': '88.3630'}
+
+
+{'ip': '42.110.158.0', 'hostname': '42-110-158-0.live.vodafone.in', 'city': 'Kolkata', 'region': 'West Bengal', 'country': 'IN', 'loc': '22.5626,88.3630', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '700006', 'timezone': 'Asia/Kolkata', 'readme': 'https://ipinfo.io/missingauth', 'country_name': 'India', 'latitude': '22.5626', 'longitude': '88.3630'}
+
+
+{'ip': '42.110.160.0', 'hostname': '42-110-160-0.live.vodafone.in', 'city': 'Kolkata', 'region': 'West Bengal', 'country': 'IN', 'loc': '22.5626,88.3630', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '700006', 'timezone': 'Asia/Kolkata', 'readme': 'https://ipinfo.io/missingauth', 'country_name': 'India', 'latitude': '22.5626', 'longitude': '88.3630'}
+
+
+{'ip': '42.110.160.0', 'hostname': '42-110-160-0.live.vodafone.in', 'city': 'Kolkata', 'region': 'West Bengal', 'country': 'IN', 'loc': '22.5626,88.3630', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '700006', 'timezone': 'Asia/Kolkata', 'readme': 'https://ipinfo.io/missingauth', 'country_name': 'India', 'latitude': '22.5626', 'longitude': '88.3630'}
+
+
+{'ip': '42.110.161.0', 'hostname': '42-110-161-0.live.vodafone.in', 'city': 'Kolkata', 'region': 'West Bengal', 'country': 'IN', 'loc': '22.5626,88.3630', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '700006', 'timezone': 'Asia/Kolkata', 'readme': 'https://ipinfo.io/missingauth', 'country_name': 'India', 'latitude': '22.5626', 'longitude': '88.3630'}
+
+
+{'ip': '42.110.162.0', 'hostname': '42-110-162-0.live.vodafone.in', 'city': 'Kolkata', 'region': 'West Bengal', 'country': 'IN', 'loc': '22.5626,88.3630', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '700006', 'timezone': 'Asia/Kolkata', 'readme': 'https://ipinfo.io/missingauth', 'country_name': 'India', 'latitude': '22.5626', 'longitude': '88.3630'}
+
+
+{'ip': '42.110.163.0', 'hostname': '42-110-163-0.live.vodafone.in', 'city': 'Kolkata', 'region': 'West Bengal', 'country': 'IN', 'loc': '22.5626,88.3630', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '700006', 'timezone': 'Asia/Kolkata', 'readme': 'https://ipinfo.io/missingauth', 'country_name': 'India', 'latitude': '22.5626', 'longitude': '88.3630'}
+
+
+{'ip': '42.110.164.0', 'hostname': '42-110-164-0.live.vodafone.in', 'city': 'Kolkata', 'region': 'West Bengal', 'country': 'IN', 'loc': '22.5626,88.3630', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '700006', 'timezone': 'Asia/Kolkata', 'readme': 'https://ipinfo.io/missingauth', 'country_name': 'India', 'latitude': '22.5626', 'longitude': '88.3630'}
+
+
+{'ip': '42.110.165.0', 'hostname': '42-110-165-0.live.vodafone.in', 'city': 'Kolkata', 'region': 'West Bengal', 'country': 'IN', 'loc': '22.5626,88.3630', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '700006', 'timezone': 'Asia/Kolkata', 'readme': 'https://ipinfo.io/missingauth', 'country_name': 'India', 'latitude': '22.5626', 'longitude': '88.3630'}
+
+
+{'ip': '42.110.176.0', 'hostname': '42-110-176-0.live.vodafone.in', 'city': 'Kolkata', 'region': 'West Bengal', 'country': 'IN', 'loc': '22.5626,88.3630', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '700006', 'timezone': 'Asia/Kolkata', 'readme': 'https://ipinfo.io/missingauth', 'country_name': 'India', 'latitude': '22.5626', 'longitude': '88.3630'}
+
+
+{'ip': '42.110.178.0', 'hostname': '42-110-178-0.live.vodafone.in', 'city': 'Kolkata', 'region': 'West Bengal', 'country': 'IN', 'loc': '22.5626,88.3630', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '700006', 'timezone': 'Asia/Kolkata', 'readme': 'https://ipinfo.io/missingauth', 'country_name': 'India', 'latitude': '22.5626', 'longitude': '88.3630'}
+
+
+{'ip': '42.110.180.0', 'hostname': '42-110-180-0.live.vodafone.in', 'city': 'Kolkata', 'region': 'West Bengal', 'country': 'IN', 'loc': '22.5626,88.3630', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '700006', 'timezone': 'Asia/Kolkata', 'readme': 'https://ipinfo.io/missingauth', 'country_name': 'India', 'latitude': '22.5626', 'longitude': '88.3630'}
+
+
+{'ip': '42.110.182.0', 'hostname': '42-110-182-0.live.vodafone.in', 'city': 'Kolkata', 'region': 'West Bengal', 'country': 'IN', 'loc': '22.5626,88.3630', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '700006', 'timezone': 'Asia/Kolkata', 'readme': 'https://ipinfo.io/missingauth', 'country_name': 'India', 'latitude': '22.5626', 'longitude': '88.3630'}
+
+
+{'ip': '42.110.192.0', 'hostname': '42-110-192-0.live.vodafone.in', 'city': 'Kharagpur', 'region': 'West Bengal', 'country': 'IN', 'loc': '22.3397,87.3250', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '721301', 'timezone': 'Asia/Kolkata', 'readme': 'https://ipinfo.io/missingauth', 'country_name': 'India', 'latitude': '22.3397', 'longitude': '87.3250'}
+
+
+{'ip': '42.110.224.0', 'hostname': '42-110-224-0.live.vodafone.in', 'city': 'Kolkata', 'region': 'West Bengal', 'country': 'IN', 'loc': '22.5626,88.3630', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '700006', 'timezone': 'Asia/Kolkata', 'readme': 'https://ipinfo.io/missingauth', 'country_name': 'India', 'latitude': '22.5626', 'longitude': '88.3630'}
+
+
+{'ip': '42.111.0.0', 'hostname': '42-111-0-0.live.vodafone.in', 'city': 'Delhi', 'region': 'Delhi', 'country': 'IN', 'loc': '28.6519,77.2315', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '110001', 'timezone': 'Asia/Kolkata', 'readme': 'https://ipinfo.io/missingauth', 'country_name': 'India', 'latitude': '28.6519', 'longitude': '77.2315'}
+
+
+{'ip': '42.111.100.0', 'hostname': '42-111-100-0.live.vodafone.in', 'city': 'Ahmedabad', 'region': 'Gujarat', 'country': 'IN', 'loc': '23.0258,72.5873', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '380001', 'timezone': 'Asia/Kolkata', 'readme': 'https://ipinfo.io/missingauth', 'country_name': 'India', 'latitude': '23.0258', 'longitude': '72.5873'}
+
+
+{'ip': '42.111.102.0', 'hostname': '42-111-102-0.live.vodafone.in', 'city': 'Ahmedabad', 'region': 'Gujarat', 'country': 'IN', 'loc': '23.0258,72.5873', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '380001', 'timezone': 'Asia/Kolkata', 'readme': 'https://ipinfo.io/missingauth', 'country_name': 'India', 'latitude': '23.0258', 'longitude': '72.5873'}
+
+
+{'ip': '42.111.104.0', 'hostname': '42-111-104-0.live.vodafone.in', 'city': 'Ahmedabad', 'region': 'Gujarat', 'country': 'IN', 'loc': '23.0258,72.5873', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '380001', 'timezone': 'Asia/Kolkata', 'readme': 'https://ipinfo.io/missingauth', 'country_name': 'India', 'latitude': '23.0258', 'longitude': '72.5873'}
+
+
+{'ip': '42.111.106.0', 'hostname': '42-111-106-0.live.vodafone.in', 'city': 'Ahmedabad', 'region': 'Gujarat', 'country': 'IN', 'loc': '23.0258,72.5873', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '380001', 'timezone': 'Asia/Kolkata', 'readme': 'https://ipinfo.io/missingauth', 'country_name': 'India', 'latitude': '23.0258', 'longitude': '72.5873'}
+
+
+{'ip': '42.111.108.0', 'hostname': '42-111-108-0.live.vodafone.in', 'city': 'Ahmedabad', 'region': 'Gujarat', 'country': 'IN', 'loc': '23.0258,72.5873', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '380001', 'timezone': 'Asia/Kolkata', 'readme': 'https://ipinfo.io/missingauth', 'country_name': 'India', 'latitude': '23.0258', 'longitude': '72.5873'}
+
+
+{'ip': '42.111.110.0', 'hostname': '42-111-110-0.live.vodafone.in', 'city': 'Ahmedabad', 'region': 'Gujarat', 'country': 'IN', 'loc': '23.0258,72.5873', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '380001', 'timezone': 'Asia/Kolkata', 'readme': 'https://ipinfo.io/missingauth', 'country_name': 'India', 'latitude': '23.0258', 'longitude': '72.5873'}
+
+
+{'ip': '42.111.112.0', 'hostname': '42-111-112-0.live.vodafone.in', 'city': 'Ahmedabad', 'region': 'Gujarat', 'country': 'IN', 'loc': '23.0258,72.5873', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '380001', 'timezone': 'Asia/Kolkata', 'readme': 'https://ipinfo.io/missingauth', 'country_name': 'India', 'latitude': '23.0258', 'longitude': '72.5873'}
+
+
+{'ip': '42.111.114.0', 'hostname': '42-111-114-0.live.vodafone.in', 'city': 'Ahmedabad', 'region': 'Gujarat', 'country': 'IN', 'loc': '23.0258,72.5873', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '380001', 'timezone': 'Asia/Kolkata', 'readme': 'https://ipinfo.io/missingauth', 'country_name': 'India', 'latitude': '23.0258', 'longitude': '72.5873'}
+
+
+{'ip': '42.111.116.0', 'hostname': '42-111-116-0.live.vodafone.in', 'city': 'Ahmedabad', 'region': 'Gujarat', 'country': 'IN', 'loc': '23.0258,72.5873', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '380001', 'timezone': 'Asia/Kolkata', 'readme': 'https://ipinfo.io/missingauth', 'country_name': 'India', 'latitude': '23.0258', 'longitude': '72.5873'}
+
+
+{'ip': '42.111.118.0', 'hostname': '42-111-118-0.live.vodafone.in', 'city': 'Ahmedabad', 'region': 'Gujarat', 'country': 'IN', 'loc': '23.0258,72.5873', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '380001', 'timezone': 'Asia/Kolkata', 'readme': 'https://ipinfo.io/missingauth', 'country_name': 'India', 'latitude': '23.0258', 'longitude': '72.5873'}
+
+
+{'ip': '42.111.120.0', 'hostname': '42-111-120-0.live.vodafone.in', 'city': 'Ahmedabad', 'region': 'Gujarat', 'country': 'IN', 'loc': '23.0258,72.5873', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '380001', 'timezone': 'Asia/Kolkata', 'readme': 'https://ipinfo.io/missingauth', 'country_name': 'India', 'latitude': '23.0258', 'longitude': '72.5873'}
+
+
+{'ip': '42.111.122.0', 'hostname': '42-111-122-0.live.vodafone.in', 'city': 'Ahmedabad', 'region': 'Gujarat', 'country': 'IN', 'loc': '23.0258,72.5873', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '380001', 'timezone': 'Asia/Kolkata', 'readme': 'https://ipinfo.io/missingauth', 'country_name': 'India', 'latitude': '23.0258', 'longitude': '72.5873'}
+
+
+{'ip': '42.111.124.0', 'hostname': '42-111-124-0.live.vodafone.in', 'city': 'Ahmedabad', 'region': 'Gujarat', 'country': 'IN', 'loc': '23.0258,72.5873', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '380001', 'timezone': 'Asia/Kolkata', 'readme': 'https://ipinfo.io/missingauth', 'country_name': 'India', 'latitude': '23.0258', 'longitude': '72.5873'}
+
+
+{'ip': '42.111.128.0', 'hostname': '42-111-128-0.live.vodafone.in', 'city': 'Chennai', 'region': 'Tamil Nadu', 'country': 'IN', 'loc': '13.0878,80.2785', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '600001', 'timezone': 'Asia/Kolkata', 'readme': 'https://ipinfo.io/missingauth', 'country_name': 'India', 'latitude': '13.0878', 'longitude': '80.2785'}
+
+
+{'ip': '42.111.128.0', 'hostname': '42-111-128-0.live.vodafone.in', 'city': 'Chennai', 'region': 'Tamil Nadu', 'country': 'IN', 'loc': '13.0878,80.2785', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '600001', 'timezone': 'Asia/Kolkata', 'readme': 'https://ipinfo.io/missingauth', 'country_name': 'India', 'latitude': '13.0878', 'longitude': '80.2785'}
+
+
+{'ip': '42.111.132.0', 'hostname': '42-111-132-0.live.vodafone.in', 'city': 'Chennai', 'region': 'Tamil Nadu', 'country': 'IN', 'loc': '13.0878,80.2785', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '600001', 'timezone': 'Asia/Kolkata', 'readme': 'https://ipinfo.io/missingauth', 'country_name': 'India', 'latitude': '13.0878', 'longitude': '80.2785'}
+
+
+{'ip': '42.111.136.0', 'hostname': '42-111-136-0.live.vodafone.in', 'city': 'Chennai', 'region': 'Tamil Nadu', 'country': 'IN', 'loc': '13.0878,80.2785', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '600001', 'timezone': 'Asia/Kolkata', 'readme': 'https://ipinfo.io/missingauth', 'country_name': 'India', 'latitude': '13.0878', 'longitude': '80.2785'}
+
+
+{'ip': '42.111.140.0', 'hostname': '42-111-140-0.live.vodafone.in', 'city': 'Chennai', 'region': 'Tamil Nadu', 'country': 'IN', 'loc': '13.0878,80.2785', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '600001', 'timezone': 'Asia/Kolkata', 'readme': 'https://ipinfo.io/missingauth', 'country_name': 'India', 'latitude': '13.0878', 'longitude': '80.2785'}
+
+
+{'ip': '42.111.144.0', 'hostname': '42-111-144-0.live.vodafone.in', 'city': 'Chennai', 'region': 'Tamil Nadu', 'country': 'IN', 'loc': '13.0878,80.2785', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '600001', 'timezone': 'Asia/Kolkata', 'readme': 'https://ipinfo.io/missingauth', 'country_name': 'India', 'latitude': '13.0878', 'longitude': '80.2785'}
+
+
+{'ip': '42.111.148.0', 'hostname': '42-111-148-0.live.vodafone.in', 'city': 'Chennai', 'region': 'Tamil Nadu', 'country': 'IN', 'loc': '13.0878,80.2785', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '600001', 'timezone': 'Asia/Kolkata', 'readme': 'https://ipinfo.io/missingauth', 'country_name': 'India', 'latitude': '13.0878', 'longitude': '80.2785'}
+
+
+{'ip': '42.111.152.0', 'hostname': '42-111-152-0.live.vodafone.in', 'city': 'Chennai', 'region': 'Tamil Nadu', 'country': 'IN', 'loc': '13.0878,80.2785', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '600001', 'timezone': 'Asia/Kolkata', 'readme': 'https://ipinfo.io/missingauth', 'country_name': 'India', 'latitude': '13.0878', 'longitude': '80.2785'}
+
+
+{'ip': '42.111.156.0', 'hostname': '42-111-156-0.live.vodafone.in', 'city': 'Chennai', 'region': 'Tamil Nadu', 'country': 'IN', 'loc': '13.0878,80.2785', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '600001', 'timezone': 'Asia/Kolkata', 'readme': 'https://ipinfo.io/missingauth', 'country_name': 'India', 'latitude': '13.0878', 'longitude': '80.2785'}
+
+
+{'ip': '42.111.160.0', 'hostname': '42-111-160-0.live.vodafone.in', 'city': 'Chennai', 'region': 'Tamil Nadu', 'country': 'IN', 'loc': '13.0878,80.2785', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '600001', 'timezone': 'Asia/Kolkata', 'readme': 'https://ipinfo.io/missingauth', 'country_name': 'India', 'latitude': '13.0878', 'longitude': '80.2785'}
+
+
+{'ip': '42.111.16.0', 'hostname': '42-111-16-0.live.vodafone.in', 'city': 'Delhi', 'region': 'Delhi', 'country': 'IN', 'loc': '28.6519,77.2315', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '110001', 'timezone': 'Asia/Kolkata', 'readme': 'https://ipinfo.io/missingauth', 'country_name': 'India', 'latitude': '28.6519', 'longitude': '77.2315'}
+
+
+{'ip': '42.111.164.0', 'hostname': '42-111-164-0.live.vodafone.in', 'city': 'Chennai', 'region': 'Tamil Nadu', 'country': 'IN', 'loc': '13.0878,80.2785', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '600001', 'timezone': 'Asia/Kolkata', 'readme': 'https://ipinfo.io/missingauth', 'country_name': 'India', 'latitude': '13.0878', 'longitude': '80.2785'}
+
+
+{'ip': '42.111.192.0', 'hostname': '42-111-192-0.live.vodafone.in', 'city': 'Vadodara', 'region': 'Gujarat', 'country': 'IN', 'loc': '22.2994,73.2081', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '382355', 'timezone': 'Asia/Kolkata', 'readme': 'https://ipinfo.io/missingauth', 'country_name': 'India', 'latitude': '22.2994', 'longitude': '73.2081'}
+
+
+{'ip': '42.111.196.0', 'hostname': '42-111-196-0.live.vodafone.in', 'city': 'Vadodara', 'region': 'Gujarat', 'country': 'IN', 'loc': '22.2994,73.2081', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '382355', 'timezone': 'Asia/Kolkata', 'readme': 'https://ipinfo.io/missingauth', 'country_name': 'India', 'latitude': '22.2994', 'longitude': '73.2081'}
+
+
+{'ip': '42.111.200.0', 'hostname': '42-111-200-0.live.vodafone.in', 'city': 'Vadodara', 'region': 'Gujarat', 'country': 'IN', 'loc': '22.2994,73.2081', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '382355', 'timezone': 'Asia/Kolkata', 'readme': 'https://ipinfo.io/missingauth', 'country_name': 'India', 'latitude': '22.2994', 'longitude': '73.2081'}
+
+
+{'ip': '42.111.20.0', 'hostname': '42-111-20-0.live.vodafone.in', 'city': 'Delhi', 'region': 'Delhi', 'country': 'IN', 'loc': '28.6519,77.2315', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '110001', 'timezone': 'Asia/Kolkata', 'readme': 'https://ipinfo.io/missingauth', 'country_name': 'India', 'latitude': '28.6519', 'longitude': '77.2315'}
+
+
+{'ip': '42.111.204.0', 'hostname': '42-111-204-0.live.vodafone.in', 'city': 'Vadodara', 'region': 'Gujarat', 'country': 'IN', 'loc': '22.2994,73.2081', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '382355', 'timezone': 'Asia/Kolkata', 'readme': 'https://ipinfo.io/missingauth', 'country_name': 'India', 'latitude': '22.2994', 'longitude': '73.2081'}
+
+
+{'ip': '42.111.208.0', 'hostname': '42-111-208-0.live.vodafone.in', 'city': 'Vadodara', 'region': 'Gujarat', 'country': 'IN', 'loc': '22.2994,73.2081', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '382355', 'timezone': 'Asia/Kolkata', 'readme': 'https://ipinfo.io/missingauth', 'country_name': 'India', 'latitude': '22.2994', 'longitude': '73.2081'}
+
+
+{'ip': '42.111.212.0', 'hostname': '42-111-212-0.live.vodafone.in', 'city': 'Vadodara', 'region': 'Gujarat', 'country': 'IN', 'loc': '22.2994,73.2081', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '382355', 'timezone': 'Asia/Kolkata', 'readme': 'https://ipinfo.io/missingauth', 'country_name': 'India', 'latitude': '22.2994', 'longitude': '73.2081'}
+
+
+{'ip': '42.111.216.0', 'hostname': '42-111-216-0.live.vodafone.in', 'city': 'Vadodara', 'region': 'Gujarat', 'country': 'IN', 'loc': '22.2994,73.2081', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '382355', 'timezone': 'Asia/Kolkata', 'readme': 'https://ipinfo.io/missingauth', 'country_name': 'India', 'latitude': '22.2994', 'longitude': '73.2081'}
+
+
+{'ip': '42.111.220.0', 'hostname': '42-111-220-0.live.vodafone.in', 'city': 'Vadodara', 'region': 'Gujarat', 'country': 'IN', 'loc': '22.2994,73.2081', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '382355', 'timezone': 'Asia/Kolkata', 'readme': 'https://ipinfo.io/missingauth', 'country_name': 'India', 'latitude': '22.2994', 'longitude': '73.2081'}
+
+
+{'ip': '42.111.224.0', 'hostname': '42-111-224-0.live.vodafone.in', 'city': 'Kozhikode', 'region': 'Kerala', 'country': 'IN', 'loc': '11.2480,75.7804', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '673004', 'timezone': 'Asia/Kolkata', 'readme': 'https://ipinfo.io/missingauth', 'country_name': 'India', 'latitude': '11.2480', 'longitude': '75.7804'}
+
+
+{'ip': '42.111.228.0', 'hostname': '42-111-228-0.live.vodafone.in', 'city': 'Kozhikode', 'region': 'Kerala', 'country': 'IN', 'loc': '11.2480,75.7804', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '673004', 'timezone': 'Asia/Kolkata', 'readme': 'https://ipinfo.io/missingauth', 'country_name': 'India', 'latitude': '11.2480', 'longitude': '75.7804'}
+
+
+{'ip': '42.111.232.0', 'hostname': '42-111-232-0.live.vodafone.in', 'city': 'Kozhikode', 'region': 'Kerala', 'country': 'IN', 'loc': '11.2480,75.7804', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '673004', 'timezone': 'Asia/Kolkata', 'readme': 'https://ipinfo.io/missingauth', 'country_name': 'India', 'latitude': '11.2480', 'longitude': '75.7804'}
+
+
+{'ip': '42.111.236.0', 'hostname': '42-111-236-0.live.vodafone.in', 'city': 'Kozhikode', 'region': 'Kerala', 'country': 'IN', 'loc': '11.2480,75.7804', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '673004', 'timezone': 'Asia/Kolkata', 'readme': 'https://ipinfo.io/missingauth', 'country_name': 'India', 'latitude': '11.2480', 'longitude': '75.7804'}
+
+
+{'ip': '42.111.240.0', 'hostname': '42-111-240-0.live.vodafone.in', 'city': 'Kozhikode', 'region': 'Kerala', 'country': 'IN', 'loc': '11.2480,75.7804', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '673004', 'timezone': 'Asia/Kolkata', 'readme': 'https://ipinfo.io/missingauth', 'country_name': 'India', 'latitude': '11.2480', 'longitude': '75.7804'}
+
+
+{'ip': '42.111.244.0', 'hostname': '42-111-244-0.live.vodafone.in', 'city': 'Kozhikode', 'region': 'Kerala', 'country': 'IN', 'loc': '11.2480,75.7804', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '673004', 'timezone': 'Asia/Kolkata', 'readme': 'https://ipinfo.io/missingauth', 'country_name': 'India', 'latitude': '11.2480', 'longitude': '75.7804'}
+
+
+{'ip': '42.111.248.0', 'hostname': '42-111-248-0.live.vodafone.in', 'city': 'Kozhikode', 'region': 'Kerala', 'country': 'IN', 'loc': '11.2480,75.7804', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '673004', 'timezone': 'Asia/Kolkata', 'readme': 'https://ipinfo.io/missingauth', 'country_name': 'India', 'latitude': '11.2480', 'longitude': '75.7804'}
+
+
+{'ip': '42.111.252.0', 'hostname': '42-111-252-0.live.vodafone.in', 'city': 'Kozhikode', 'region': 'Kerala', 'country': 'IN', 'loc': '11.2480,75.7804', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '673004', 'timezone': 'Asia/Kolkata', 'readme': 'https://ipinfo.io/missingauth', 'country_name': 'India', 'latitude': '11.2480', 'longitude': '75.7804'}
+
+
+{'ip': '42.111.64.0', 'hostname': '42-111-64-0.live.vodafone.in', 'city': 'Delhi', 'region': 'Delhi', 'country': 'IN', 'loc': '28.6519,77.2315', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '110001', 'timezone': 'Asia/Kolkata', 'readme': 'https://ipinfo.io/missingauth', 'country_name': 'India', 'latitude': '28.6519', 'longitude': '77.2315'}
+
+
+{'ip': '42.111.68.0', 'hostname': '42-111-68-0.live.vodafone.in', 'city': 'Delhi', 'region': 'Delhi', 'country': 'IN', 'loc': '28.6519,77.2315', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '110001', 'timezone': 'Asia/Kolkata', 'readme': 'https://ipinfo.io/missingauth', 'country_name': 'India', 'latitude': '28.6519', 'longitude': '77.2315'}
+
+
+{'ip': '42.111.72.0', 'hostname': '42-111-72-0.live.vodafone.in', 'city': 'Delhi', 'region': 'Delhi', 'country': 'IN', 'loc': '28.6519,77.2315', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '110001', 'timezone': 'Asia/Kolkata', 'readme': 'https://ipinfo.io/missingauth', 'country_name': 'India', 'latitude': '28.6519', 'longitude': '77.2315'}
+
+
+{'ip': '42.111.76.0', 'hostname': '42-111-76-0.live.vodafone.in', 'city': 'Delhi', 'region': 'Delhi', 'country': 'IN', 'loc': '28.6519,77.2315', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '110001', 'timezone': 'Asia/Kolkata', 'readme': 'https://ipinfo.io/missingauth', 'country_name': 'India', 'latitude': '28.6519', 'longitude': '77.2315'}
+
+
+{'ip': '42.111.80.0', 'hostname': '42-111-80-0.live.vodafone.in', 'city': 'Delhi', 'region': 'Delhi', 'country': 'IN', 'loc': '28.6519,77.2315', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '110001', 'timezone': 'Asia/Kolkata', 'readme': 'https://ipinfo.io/missingauth', 'country_name': 'India', 'latitude': '28.6519', 'longitude': '77.2315'}
+
+
+{'ip': '42.111.80.0', 'hostname': '42-111-80-0.live.vodafone.in', 'city': 'Delhi', 'region': 'Delhi', 'country': 'IN', 'loc': '28.6519,77.2315', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '110001', 'timezone': 'Asia/Kolkata', 'readme': 'https://ipinfo.io/missingauth', 'country_name': 'India', 'latitude': '28.6519', 'longitude': '77.2315'}
+
+
+{'ip': '42.111.8.0', 'hostname': '42-111-8-0.live.vodafone.in', 'city': 'Delhi', 'region': 'Delhi', 'country': 'IN', 'loc': '28.6519,77.2315', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '110001', 'timezone': 'Asia/Kolkata', 'readme': 'https://ipinfo.io/missingauth', 'country_name': 'India', 'latitude': '28.6519', 'longitude': '77.2315'}
+
+
+{'ip': '42.111.84.0', 'hostname': '42-111-84-0.live.vodafone.in', 'city': 'Delhi', 'region': 'Delhi', 'country': 'IN', 'loc': '28.6519,77.2315', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '110001', 'timezone': 'Asia/Kolkata', 'readme': 'https://ipinfo.io/missingauth', 'country_name': 'India', 'latitude': '28.6519', 'longitude': '77.2315'}
+
+
+{'ip': '42.111.88.0', 'hostname': '42-111-88-0.live.vodafone.in', 'city': 'Delhi', 'region': 'Delhi', 'country': 'IN', 'loc': '28.6519,77.2315', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '110001', 'timezone': 'Asia/Kolkata', 'readme': 'https://ipinfo.io/missingauth', 'country_name': 'India', 'latitude': '28.6519', 'longitude': '77.2315'}
+
+
+{'ip': '42.111.92.0', 'hostname': '42-111-92-0.live.vodafone.in', 'city': 'Delhi', 'region': 'Delhi', 'country': 'IN', 'loc': '28.6519,77.2315', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '110001', 'timezone': 'Asia/Kolkata', 'readme': 'https://ipinfo.io/missingauth', 'country_name': 'India', 'latitude': '28.6519', 'longitude': '77.2315'}
+
+
+{'ip': '42.111.96.0', 'hostname': '42-111-96-0.live.vodafone.in', 'city': 'Ahmedabad', 'region': 'Gujarat', 'country': 'IN', 'loc': '23.0258,72.5873', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '380001', 'timezone': 'Asia/Kolkata', 'readme': 'https://ipinfo.io/missingauth', 'country_name': 'India', 'latitude': '23.0258', 'longitude': '72.5873'}
+
+
+{'ip': '42.111.98.0', 'hostname': '42-111-98-0.live.vodafone.in', 'city': 'Ahmedabad', 'region': 'Gujarat', 'country': 'IN', 'loc': '23.0258,72.5873', 'org': 'AS38266 Vodafone India Ltd.', 'postal': '380001', 'timezone': 'Asia/Kolkata', 'readme': 'https://ipinfo.io/missingauth', 'country_name': 'India', 'latitude': '23.0258', 'longitude': '72.5873'}
+
+
