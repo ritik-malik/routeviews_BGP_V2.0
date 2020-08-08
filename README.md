@@ -5,4 +5,12 @@ Backup of the routeviews scripts and utilities
 Automation to download desired datasets from a particular range of dates, from [routeviews](http://archive.routeviews.org/)<br>
 Then sort them according to the given set of IPs or AS
 
+#### Task
+1. Sort the required IP from Indian telecom dataset<br>
+2. Verify them using sort_ip.py<br>
+3. Run routeview on selected dates<br>
+4. Make the required graph<br>
+<br>
+
+#### UPDATE output folder
 Still in testing...
