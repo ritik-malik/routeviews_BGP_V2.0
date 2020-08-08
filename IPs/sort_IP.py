@@ -1,7 +1,7 @@
 # use opvn to bypass ipinfo.exceptions.RequestQuotaExceededError
 
 import ipinfo
-access_token = '7348ddae8e6a89'
+access_token = '7338dsa1e6a21'
 handler = ipinfo.getHandler(access_token)
 handler = ipinfo.getHandler(request_options={'timeout': 100})
 
