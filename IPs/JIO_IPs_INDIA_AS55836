@@ -1,0 +1,573 @@
+{'ip': '103.63.128.0', 'city': 'Airoli', 'region': 'Maharashtra', 'country': 'IN', 'loc': '19.1167,72.9833', 'org': 'AS55836 Reliance Jio Infocomm Limited', 'postal': '400701', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '19.1167', 'longitude': '72.9833'}
+
+
+{'ip': '104.101.16.0', 'hostname': 'a104-101-16-0.deploy.static.akamaitechnologies.com', 'city': 'Cambridge', 'region': 'Massachusetts', 'country': 'US', 'loc': '42.3620,-71.0830', 'org': 'AS55836 Reliance Jio Infocomm Limited', 'postal': '02142', 'timezone': 'America/New_York', 'country_name': 'United States', 'latitude': '42.3620', 'longitude': '-71.0830'}
+
+
+{'ip': '104.123.148.0', 'hostname': 'a104-123-148-0.deploy.static.akamaitechnologies.com', 'city': 'Cambridge', 'region': 'Massachusetts', 'country': 'US', 'loc': '42.3620,-71.0830', 'org': 'AS55836 Reliance Jio Infocomm Limited', 'postal': '02142', 'timezone': 'America/New_York', 'country_name': 'United States', 'latitude': '42.3620', 'longitude': '-71.0830'}
+
+
+{'ip': '104.65.64.0', 'hostname': 'a104-65-64-0.deploy.static.akamaitechnologies.com', 'city': 'Cambridge', 'region': 'Massachusetts', 'country': 'US', 'loc': '42.3620,-71.0830', 'org': 'AS55836 Reliance Jio Infocomm Limited', 'postal': '02142', 'timezone': 'America/New_York', 'country_name': 'United States', 'latitude': '42.3620', 'longitude': '-71.0830'}
+
+
+{'ip': '104.85.128.0', 'hostname': 'a104-85-128-0.deploy.static.akamaitechnologies.com', 'city': 'Cambridge', 'region': 'Massachusetts', 'country': 'US', 'loc': '42.3620,-71.0830', 'org': 'AS55836 Reliance Jio Infocomm Limited', 'postal': '02142', 'timezone': 'America/New_York', 'country_name': 'United States', 'latitude': '42.3620', 'longitude': '-71.0830'}
+
+
+{'ip': '104.85.96.0', 'hostname': 'a104-85-96-0.deploy.static.akamaitechnologies.com', 'city': 'Cambridge', 'region': 'Massachusetts', 'country': 'US', 'loc': '42.3620,-71.0830', 'org': 'AS55836 Reliance Jio Infocomm Limited', 'postal': '02142', 'timezone': 'America/New_York', 'country_name': 'United States', 'latitude': '42.3620', 'longitude': '-71.0830'}
+
+
+{'ip': '115.240.0.0', 'hostname': '115.240.0.0.static.jio.com', 'city': 'Kolkata', 'region': 'West Bengal', 'country': 'IN', 'loc': '22.5626,88.3630', 'org': 'AS55836 Reliance Jio Infocomm Limited', 'postal': '700006', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '22.5626', 'longitude': '88.3630'}
+
+
+{'ip': '115.240.0.0', 'hostname': '115.240.0.0.static.jio.com', 'city': 'Kolkata', 'region': 'West Bengal', 'country': 'IN', 'loc': '22.5626,88.3630', 'org': 'AS55836 Reliance Jio Infocomm Limited', 'postal': '700006', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '22.5626', 'longitude': '88.3630'}
+
+
+{'ip': '115.242.0.0', 'city': 'Mumbai', 'region': 'Maharashtra', 'country': 'IN', 'loc': '19.0728,72.8826', 'org': 'AS55836 Reliance Jio Infocomm Limited', 'postal': '400070', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '19.0728', 'longitude': '72.8826'}
+
+
+{'ip': '122.10.150.0', 'city': 'Diamond Bar', 'region': 'California', 'country': 'US', 'loc': '34.0286,-117.8103', 'org': 'AS55836 Reliance Jio Infocomm Limited', 'postal': '91765', 'timezone': 'America/Los_Angeles', 'country_name': 'United States', 'latitude': '34.0286', 'longitude': '-117.8103'}
+
+
+{'ip': '122.10.151.0', 'city': 'Diamond Bar', 'region': 'California', 'country': 'US', 'loc': '34.0286,-117.8103', 'org': 'AS55836 Reliance Jio Infocomm Limited', 'postal': '91765', 'timezone': 'America/Los_Angeles', 'country_name': 'United States', 'latitude': '34.0286', 'longitude': '-117.8103'}
+
+
+{'ip': '132.154.0.0', 'city': 'Morādābād', 'region': 'Uttar Pradesh', 'country': 'IN', 'loc': '28.8389,78.7768', 'org': 'AS55836 Reliance Jio Infocomm Limited', 'postal': '244001', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '28.8389', 'longitude': '78.7768'}
+
+
+{'ip': '136.232.0.0', 'hostname': '136.232.0.0.static.jio.com', 'city': 'Lucknow', 'region': 'Uttar Pradesh', 'country': 'IN', 'loc': '26.8393,80.9231', 'org': 'AS55836 Reliance Jio Infocomm Limited', 'postal': '226004', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '26.8393', 'longitude': '80.9231'}
+
+
+{'ip': '137.97.0.0', 'city': 'Bengaluru', 'region': 'Karnataka', 'country': 'IN', 'loc': '12.9719,77.5937', 'org': 'AS55836 Reliance Jio Infocomm Limited', 'postal': '560002', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '12.9719', 'longitude': '77.5937'}
+
+
+{'ip': '139.167.0.0', 'city': 'Bareilly', 'region': 'Uttar Pradesh', 'country': 'IN', 'loc': '28.3668,79.4317', 'org': 'AS55836 Reliance Jio Infocomm Limited', 'postal': '243003', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '28.3668', 'longitude': '79.4317'}
+
+
+{'ip': '152.56.0.0', 'city': 'Mumbai', 'region': 'Maharashtra', 'country': 'IN', 'loc': '19.0728,72.8826', 'org': 'AS55836 Reliance Jio Infocomm Limited', 'postal': '400070', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '19.0728', 'longitude': '72.8826'}
+
+
+{'ip': '157.32.0.0', 'city': 'Ahmedabad', 'region': 'Gujarat', 'country': 'IN', 'loc': '23.0258,72.5873', 'org': 'AS55836 Reliance Jio Infocomm Limited', 'postal': '380001', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '23.0258', 'longitude': '72.5873'}
+
+
+{'ip': '157.32.0.0', 'city': 'Ahmedabad', 'region': 'Gujarat', 'country': 'IN', 'loc': '23.0258,72.5873', 'org': 'AS55836 Reliance Jio Infocomm Limited', 'postal': '380001', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '23.0258', 'longitude': '72.5873'}
+
+
+{'ip': '157.32.128.0', 'city': 'Ahmedabad', 'region': 'Gujarat', 'country': 'IN', 'loc': '23.0258,72.5873', 'org': 'AS55836 Reliance Jio Infocomm Limited', 'postal': '380001', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '23.0258', 'longitude': '72.5873'}
+
+
+{'ip': '157.33.0.0', 'city': 'Pune', 'region': 'Maharashtra', 'country': 'IN', 'loc': '18.5196,73.8554', 'org': 'AS55836 Reliance Jio Infocomm Limited', 'postal': '411005', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '18.5196', 'longitude': '73.8554'}
+
+
+{'ip': '157.33.128.0', 'city': 'Pune', 'region': 'Maharashtra', 'country': 'IN', 'loc': '18.5196,73.8554', 'org': 'AS55836 Reliance Jio Infocomm Limited', 'postal': '411005', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '18.5196', 'longitude': '73.8554'}
+
+
+{'ip': '157.34.0.0', 'city': 'Bhopāl', 'region': 'Madhya Pradesh', 'country': 'IN', 'loc': '23.2547,77.4029', 'org': 'AS55836 Reliance Jio Infocomm Limited', 'postal': '464993', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '23.2547', 'longitude': '77.4029'}
+
+
+{'ip': '157.36.0.0', 'city': 'Sonīpat', 'region': 'Haryana', 'country': 'IN', 'loc': '28.9948,77.0194', 'org': 'AS55836 Reliance Jio Infocomm Limited', 'postal': '131001', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '28.9948', 'longitude': '77.0194'}
+
+
+{'ip': '157.37.0.0', 'city': 'Jaipur', 'region': 'Rajasthan', 'country': 'IN', 'loc': '26.9196,75.7878', 'org': 'AS55836 Reliance Jio Infocomm Limited', 'postal': '302001', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '26.9196', 'longitude': '75.7878'}
+
+
+{'ip': '157.38.0.0', 'city': 'Jaipur', 'region': 'Rajasthan', 'country': 'IN', 'loc': '26.9196,75.7878', 'org': 'AS55836 Reliance Jio Infocomm Limited', 'postal': '302001', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '26.9196', 'longitude': '75.7878'}
+
+
+{'ip': '157.39.0.0', 'city': 'Ludhiāna', 'region': 'Punjab', 'country': 'IN', 'loc': '30.9120,75.8538', 'org': 'AS55836 Reliance Jio Infocomm Limited', 'postal': '141120', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '30.9120', 'longitude': '75.8538'}
+
+
+{'ip': '157.40.0.0', 'city': 'Kolkata', 'region': 'West Bengal', 'country': 'IN', 'loc': '22.5626,88.3630', 'org': 'AS55836 Reliance Jio Infocomm Limited', 'postal': '700006', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '22.5626', 'longitude': '88.3630'}
+
+
+{'ip': '157.40.128.0', 'city': 'Imphāl', 'region': 'Manipur', 'country': 'IN', 'loc': '24.8081,93.9442', 'org': 'AS55836 Reliance Jio Infocomm Limited', 'postal': '795140', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '24.8081', 'longitude': '93.9442'}
+
+
+{'ip': '157.41.0.0', 'city': 'Bhubaneshwar', 'region': 'Odisha', 'country': 'IN', 'loc': '20.2724,85.8338', 'org': 'AS55836 Reliance Jio Infocomm Limited', 'postal': '752115', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '20.2724', 'longitude': '85.8338'}
+
+
+{'ip': '157.42.0.0', 'city': 'Patna', 'region': 'Bihar', 'country': 'IN', 'loc': '25.5941,85.1356', 'org': 'AS55836 Reliance Jio Infocomm Limited', 'postal': '800020', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '25.5941', 'longitude': '85.1356'}
+
+
+{'ip': '157.42.128.0', 'city': 'Patna', 'region': 'Bihar', 'country': 'IN', 'loc': '25.5941,85.1356', 'org': 'AS55836 Reliance Jio Infocomm Limited', 'postal': '800020', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '25.5941', 'longitude': '85.1356'}
+
+
+{'ip': '157.44.0.0', 'city': 'Hyderabad', 'region': 'Telangana', 'country': 'IN', 'loc': '17.3840,78.4564', 'org': 'AS55836 Reliance Jio Infocomm Limited', 'postal': '500001', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '17.3840', 'longitude': '78.4564'}
+
+
+{'ip': '157.45.0.0', 'city': 'Bengaluru', 'region': 'Karnataka', 'country': 'IN', 'loc': '12.9719,77.5937', 'org': 'AS55836 Reliance Jio Infocomm Limited', 'postal': '560002', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '12.9719', 'longitude': '77.5937'}
+
+
+{'ip': '157.48.0.0', 'city': 'Hyderabad', 'region': 'Telangana', 'country': 'IN', 'loc': '17.3840,78.4564', 'org': 'AS55836 Reliance Jio Infocomm Limited', 'postal': '500001', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '17.3840', 'longitude': '78.4564'}
+
+
+{'ip': '157.48.0.0', 'city': 'Hyderabad', 'region': 'Telangana', 'country': 'IN', 'loc': '17.3840,78.4564', 'org': 'AS55836 Reliance Jio Infocomm Limited', 'postal': '500001', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '17.3840', 'longitude': '78.4564'}
+
+
+{'ip': '157.49.0.0', 'city': 'Bengaluru', 'region': 'Karnataka', 'country': 'IN', 'loc': '12.9719,77.5937', 'org': 'AS55836 Reliance Jio Infocomm Limited', 'postal': '560002', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '12.9719', 'longitude': '77.5937'}
+
+
+{'ip': '157.50.0.0', 'city': 'Chennai', 'region': 'Tamil Nadu', 'country': 'IN', 'loc': '13.0878,80.2785', 'org': 'AS55836 Reliance Jio Infocomm Limited', 'postal': '600001', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '13.0878', 'longitude': '80.2785'}
+
+
+{'ip': '157.51.0.0', 'city': 'Imphāl', 'region': 'Manipur', 'country': 'IN', 'loc': '24.8081,93.9442', 'org': 'AS55836 Reliance Jio Infocomm Limited', 'postal': '795140', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '24.8081', 'longitude': '93.9442'}
+
+
+{'ip': '157.51.128.0', 'city': 'Chennai', 'region': 'Tamil Nadu', 'country': 'IN', 'loc': '13.0878,80.2785', 'org': 'AS55836 Reliance Jio Infocomm Limited', 'postal': '600001', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '13.0878', 'longitude': '80.2785'}
+
+
+{'ip': '169.149.0.0', 'city': 'Srinagar', 'region': 'Jammu and Kashmir', 'country': 'IN', 'loc': '34.0857,74.8055', 'org': 'AS55836 Reliance Jio Infocomm Limited', 'postal': '190002', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '34.0857', 'longitude': '74.8055'}
+
+
+{'ip': '169.149.0.0', 'city': 'Srinagar', 'region': 'Jammu and Kashmir', 'country': 'IN', 'loc': '34.0857,74.8055', 'org': 'AS55836 Reliance Jio Infocomm Limited', 'postal': '190002', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '34.0857', 'longitude': '74.8055'}
+
+
+{'ip': '169.149.126.0', 'city': 'Srinagar', 'region': 'Jammu and Kashmir', 'country': 'IN', 'loc': '34.0857,74.8055', 'org': 'AS55836 Reliance Jio Infocomm Limited', 'postal': '190002', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '34.0857', 'longitude': '74.8055'}
+
+
+{'ip': '169.149.127.0', 'city': 'Srinagar', 'region': 'Jammu and Kashmir', 'country': 'IN', 'loc': '34.0857,74.8055', 'org': 'AS55836 Reliance Jio Infocomm Limited', 'postal': '190002', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '34.0857', 'longitude': '74.8055'}
+
+
+{'ip': '169.149.128.0', 'city': 'Pune', 'region': 'Maharashtra', 'country': 'IN', 'loc': '18.5196,73.8554', 'org': 'AS55836 Reliance Jio Infocomm Limited', 'postal': '411005', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '18.5196', 'longitude': '73.8554'}
+
+
+{'ip': '184.84.176.0', 'hostname': 'a184-84-176-0.deploy.static.akamaitechnologies.com', 'city': 'Cambridge', 'region': 'Massachusetts', 'country': 'US', 'loc': '42.3620,-71.0830', 'org': 'AS55836 Reliance Jio Infocomm Limited', 'postal': '02142', 'timezone': 'America/New_York', 'country_name': 'United States', 'latitude': '42.3620', 'longitude': '-71.0830'}
+
+
+{'ip': '184.84.221.0', 'hostname': 'a184-84-221-0.deploy.static.akamaitechnologies.com', 'city': 'Cambridge', 'region': 'Massachusetts', 'country': 'US', 'loc': '42.3620,-71.0830', 'org': 'AS55836 Reliance Jio Infocomm Limited', 'postal': '02142', 'timezone': 'America/New_York', 'country_name': 'United States', 'latitude': '42.3620', 'longitude': '-71.0830'}
+
+
+{'ip': '184.84.232.0', 'hostname': 'a184-84-232-0.deploy.static.akamaitechnologies.com', 'city': 'Cambridge', 'region': 'Massachusetts', 'country': 'US', 'loc': '42.3620,-71.0830', 'org': 'AS55836 Reliance Jio Infocomm Limited', 'postal': '02142', 'timezone': 'America/New_York', 'country_name': 'United States', 'latitude': '42.3620', 'longitude': '-71.0830'}
+
+
+{'ip': '184.84.233.0', 'hostname': 'a184-84-233-0.deploy.static.akamaitechnologies.com', 'city': 'Cambridge', 'region': 'Massachusetts', 'country': 'US', 'loc': '42.3620,-71.0830', 'org': 'AS55836 Reliance Jio Infocomm Limited', 'postal': '02142', 'timezone': 'America/New_York', 'country_name': 'United States', 'latitude': '42.3620', 'longitude': '-71.0830'}
+
+
+{'ip': '184.84.248.0', 'hostname': 'a184-84-248-0.deploy.static.akamaitechnologies.com', 'city': 'Cambridge', 'region': 'Massachusetts', 'country': 'US', 'loc': '42.3620,-71.0830', 'org': 'AS55836 Reliance Jio Infocomm Limited', 'postal': '02142', 'timezone': 'America/New_York', 'country_name': 'United States', 'latitude': '42.3620', 'longitude': '-71.0830'}
+
+
+{'ip': '184.85.220.0', 'hostname': 'a184-85-220-0.deploy.static.akamaitechnologies.com', 'city': 'Cambridge', 'region': 'Massachusetts', 'country': 'US', 'loc': '42.3620,-71.0830', 'org': 'AS55836 Reliance Jio Infocomm Limited', 'postal': '02142', 'timezone': 'America/New_York', 'country_name': 'United States', 'latitude': '42.3620', 'longitude': '-71.0830'}
+
+
+{'ip': '184.86.248.0', 'hostname': 'a184-86-248-0.deploy.static.akamaitechnologies.com', 'city': 'Cambridge', 'region': 'Massachusetts', 'country': 'US', 'loc': '42.3620,-71.0830', 'org': 'AS55836 Reliance Jio Infocomm Limited', 'postal': '02142', 'timezone': 'America/New_York', 'country_name': 'United States', 'latitude': '42.3620', 'longitude': '-71.0830'}
+
+
+{'ip': '205.253.0.0', 'city': 'Jammu', 'region': 'Jammu and Kashmir', 'country': 'IN', 'loc': '32.7357,74.8691', 'org': 'AS55836 Reliance Jio Infocomm Limited', 'postal': '180002', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '32.7357', 'longitude': '74.8691'}
+
+
+{'ip': '205.253.0.0', 'city': 'Jammu', 'region': 'Jammu and Kashmir', 'country': 'IN', 'loc': '32.7357,74.8691', 'org': 'AS55836 Reliance Jio Infocomm Limited', 'postal': '180002', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '32.7357', 'longitude': '74.8691'}
+
+
+{'ip': '205.253.128.0', 'city': 'Jammu', 'region': 'Jammu and Kashmir', 'country': 'IN', 'loc': '32.7357,74.8691', 'org': 'AS55836 Reliance Jio Infocomm Limited', 'postal': '180002', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '32.7357', 'longitude': '74.8691'}
+
+
+{'ip': '23.193.56.0', 'hostname': 'a23-193-56-0.deploy.static.akamaitechnologies.com', 'city': 'Cambridge', 'region': 'Massachusetts', 'country': 'US', 'loc': '42.3620,-71.0830', 'org': 'AS55836 Reliance Jio Infocomm Limited', 'postal': '02142', 'timezone': 'America/New_York', 'country_name': 'United States', 'latitude': '42.3620', 'longitude': '-71.0830'}
+
+
+{'ip': '23.200.216.0', 'hostname': 'a23-200-216-0.deploy.static.akamaitechnologies.com', 'city': 'Cambridge', 'region': 'Massachusetts', 'country': 'US', 'loc': '42.3620,-71.0830', 'org': 'AS55836 Reliance Jio Infocomm Limited', 'postal': '02142', 'timezone': 'America/New_York', 'country_name': 'United States', 'latitude': '42.3620', 'longitude': '-71.0830'}
+
+
+{'ip': '23.207.217.0', 'hostname': 'a23-207-217-0.deploy.static.akamaitechnologies.com', 'city': 'Amsterdam', 'region': 'North Holland', 'country': 'NL', 'loc': '52.3465,4.9301', 'org': 'AS55836 Reliance Jio Infocomm Limited', 'postal': '1097', 'timezone': 'Europe/Amsterdam', 'country_name': 'Netherlands', 'latitude': '52.3465', 'longitude': '4.9301'}
+
+
+{'ip': '23.210.68.0', 'hostname': 'a23-210-68-0.deploy.static.akamaitechnologies.com', 'city': 'Cambridge', 'region': 'Massachusetts', 'country': 'US', 'loc': '42.3620,-71.0830', 'org': 'AS55836 Reliance Jio Infocomm Limited', 'postal': '02142', 'timezone': 'America/New_York', 'country_name': 'United States', 'latitude': '42.3620', 'longitude': '-71.0830'}
+
+
+{'ip': '23.213.12.0', 'hostname': 'a23-213-12-0.deploy.static.akamaitechnologies.com', 'city': 'Cambridge', 'region': 'Massachusetts', 'country': 'US', 'loc': '42.3620,-71.0830', 'org': 'AS55836 Reliance Jio Infocomm Limited', 'postal': '02142', 'timezone': 'America/New_York', 'country_name': 'United States', 'latitude': '42.3620', 'longitude': '-71.0830'}
+
+
+{'ip': '23.213.64.0', 'hostname': 'a23-213-64-0.deploy.static.akamaitechnologies.com', 'city': 'Cambridge', 'region': 'Massachusetts', 'country': 'US', 'loc': '42.3620,-71.0830', 'org': 'AS55836 Reliance Jio Infocomm Limited', 'postal': '02142', 'timezone': 'America/New_York', 'country_name': 'United States', 'latitude': '42.3620', 'longitude': '-71.0830'}
+
+
+{'ip': '23.214.224.0', 'hostname': 'a23-214-224-0.deploy.static.akamaitechnologies.com', 'city': 'Cambridge', 'region': 'Massachusetts', 'country': 'US', 'loc': '42.3620,-71.0830', 'org': 'AS55836 Reliance Jio Infocomm Limited', 'postal': '02142', 'timezone': 'America/New_York', 'country_name': 'United States', 'latitude': '42.3620', 'longitude': '-71.0830'}
+
+
+{'ip': '23.33.176.0', 'hostname': 'a23-33-176-0.deploy.static.akamaitechnologies.com', 'city': 'Cambridge', 'region': 'Massachusetts', 'country': 'US', 'loc': '42.3620,-71.0830', 'org': 'AS55836 Reliance Jio Infocomm Limited', 'postal': '02142', 'timezone': 'America/New_York', 'country_name': 'United States', 'latitude': '42.3620', 'longitude': '-71.0830'}
+
+
+{'ip': '23.33.236.0', 'hostname': 'a23-33-236-0.deploy.static.akamaitechnologies.com', 'city': 'Cambridge', 'region': 'Massachusetts', 'country': 'US', 'loc': '42.3620,-71.0830', 'org': 'AS55836 Reliance Jio Infocomm Limited', 'postal': '02142', 'timezone': 'America/New_York', 'country_name': 'United States', 'latitude': '42.3620', 'longitude': '-71.0830'}
+
+
+{'ip': '23.36.64.0', 'hostname': 'a23-36-64-0.deploy.static.akamaitechnologies.com', 'city': 'Cambridge', 'region': 'Massachusetts', 'country': 'US', 'loc': '42.3620,-71.0830', 'org': 'AS55836 Reliance Jio Infocomm Limited', 'postal': '02142', 'timezone': 'America/New_York', 'country_name': 'United States', 'latitude': '42.3620', 'longitude': '-71.0830'}
+
+
+{'ip': '23.40.66.0', 'hostname': 'a23-40-66-0.deploy.static.akamaitechnologies.com', 'city': 'Cambridge', 'region': 'Massachusetts', 'country': 'US', 'loc': '42.3620,-71.0830', 'org': 'AS55836 Reliance Jio Infocomm Limited', 'postal': '02142', 'timezone': 'America/New_York', 'country_name': 'United States', 'latitude': '42.3620', 'longitude': '-71.0830'}
+
+
+{'ip': '23.41.28.0', 'hostname': 'a23-41-28-0.deploy.static.akamaitechnologies.com', 'city': 'Cambridge', 'region': 'Massachusetts', 'country': 'US', 'loc': '42.3620,-71.0830', 'org': 'AS55836 Reliance Jio Infocomm Limited', 'postal': '02142', 'timezone': 'America/New_York', 'country_name': 'United States', 'latitude': '42.3620', 'longitude': '-71.0830'}
+
+
+{'ip': '23.45.174.0', 'hostname': 'a23-45-174-0.deploy.static.akamaitechnologies.com', 'city': 'Cambridge', 'region': 'Massachusetts', 'country': 'US', 'loc': '42.3620,-71.0830', 'org': 'AS55836 Reliance Jio Infocomm Limited', 'postal': '02142', 'timezone': 'America/New_York', 'country_name': 'United States', 'latitude': '42.3620', 'longitude': '-71.0830'}
+
+
+{'ip': '23.45.47.0', 'hostname': 'a23-45-47-0.deploy.static.akamaitechnologies.com', 'city': 'Cambridge', 'region': 'Massachusetts', 'country': 'US', 'loc': '42.3620,-71.0830', 'org': 'AS55836 Reliance Jio Infocomm Limited', 'postal': '02142', 'timezone': 'America/New_York', 'country_name': 'United States', 'latitude': '42.3620', 'longitude': '-71.0830'}
+
+
+{'ip': '23.49.63.0', 'hostname': 'a23-49-63-0.deploy.static.akamaitechnologies.com', 'city': 'Cambridge', 'region': 'Massachusetts', 'country': 'US', 'loc': '42.3620,-71.0830', 'org': 'AS55836 Reliance Jio Infocomm Limited', 'postal': '02142', 'timezone': 'America/New_York', 'country_name': 'United States', 'latitude': '42.3620', 'longitude': '-71.0830'}
+
+
+{'ip': '23.54.24.0', 'hostname': 'a23-54-24-0.deploy.static.akamaitechnologies.com', 'city': 'Cambridge', 'region': 'Massachusetts', 'country': 'US', 'loc': '42.3620,-71.0830', 'org': 'AS55836 Reliance Jio Infocomm Limited', 'postal': '02142', 'timezone': 'America/New_York', 'country_name': 'United States', 'latitude': '42.3620', 'longitude': '-71.0830'}
+
+
+{'ip': '23.54.26.0', 'hostname': 'a23-54-26-0.deploy.static.akamaitechnologies.com', 'city': 'Cambridge', 'region': 'Massachusetts', 'country': 'US', 'loc': '42.3620,-71.0830', 'org': 'AS55836 Reliance Jio Infocomm Limited', 'postal': '02142', 'timezone': 'America/New_York', 'country_name': 'United States', 'latitude': '42.3620', 'longitude': '-71.0830'}
+
+
+{'ip': '23.54.28.0', 'hostname': 'a23-54-28-0.deploy.static.akamaitechnologies.com', 'city': 'Cambridge', 'region': 'Massachusetts', 'country': 'US', 'loc': '42.3620,-71.0830', 'org': 'AS55836 Reliance Jio Infocomm Limited', 'postal': '02142', 'timezone': 'America/New_York', 'country_name': 'United States', 'latitude': '42.3620', 'longitude': '-71.0830'}
+
+
+{'ip': '23.64.140.0', 'hostname': 'a23-64-140-0.deploy.static.akamaitechnologies.com', 'city': 'Cambridge', 'region': 'Massachusetts', 'country': 'US', 'loc': '42.3620,-71.0830', 'org': 'AS55836 Reliance Jio Infocomm Limited', 'postal': '02142', 'timezone': 'America/New_York', 'country_name': 'United States', 'latitude': '42.3620', 'longitude': '-71.0830'}
+
+
+{'ip': '45.123.16.0', 'city': 'Airoli', 'region': 'Maharashtra', 'country': 'IN', 'loc': '19.1167,72.9833', 'org': 'AS55836 Reliance Jio Infocomm Limited', 'postal': '400701', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '19.1167', 'longitude': '72.9833'}
+
+
+{'ip': '47.11.0.0', 'city': 'Kharagpur', 'region': 'West Bengal', 'country': 'IN', 'loc': '22.3397,87.3250', 'org': 'AS55836 Reliance Jio Infocomm Limited', 'postal': '721301', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '22.3397', 'longitude': '87.3250'}
+
+
+{'ip': '47.15.0.0', 'city': 'Kolkata', 'region': 'West Bengal', 'country': 'IN', 'loc': '22.5626,88.3630', 'org': 'AS55836 Reliance Jio Infocomm Limited', 'postal': '700006', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '22.5626', 'longitude': '88.3630'}
+
+
+{'ip': '47.247.0.0', 'city': 'Indore', 'region': 'Madhya Pradesh', 'country': 'IN', 'loc': '22.7179,75.8333', 'org': 'AS55836 Reliance Jio Infocomm Limited', 'postal': '452002', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '22.7179', 'longitude': '75.8333'}
+
+
+{'ip': '47.29.0.0', 'city': 'Patna', 'region': 'Bihar', 'country': 'IN', 'loc': '25.5941,85.1356', 'org': 'AS55836 Reliance Jio Infocomm Limited', 'postal': '800020', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '25.5941', 'longitude': '85.1356'}
+
+
+{'ip': '47.29.0.0', 'city': 'Patna', 'region': 'Bihar', 'country': 'IN', 'loc': '25.5941,85.1356', 'org': 'AS55836 Reliance Jio Infocomm Limited', 'postal': '800020', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '25.5941', 'longitude': '85.1356'}
+
+
+{'ip': '47.29.128.0', 'city': 'Guwahati', 'region': 'Assam', 'country': 'IN', 'loc': '26.1844,91.7458', 'org': 'AS55836 Reliance Jio Infocomm Limited', 'postal': '781030', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '26.1844', 'longitude': '91.7458'}
+
+
+{'ip': '47.30.0.0', 'city': 'Delhi', 'region': 'Delhi', 'country': 'IN', 'loc': '28.6519,77.2315', 'org': 'AS55836 Reliance Jio Infocomm Limited', 'postal': '110001', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '28.6519', 'longitude': '77.2315'}
+
+
+{'ip': '47.30.0.0', 'city': 'Delhi', 'region': 'Delhi', 'country': 'IN', 'loc': '28.6519,77.2315', 'org': 'AS55836 Reliance Jio Infocomm Limited', 'postal': '110001', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '28.6519', 'longitude': '77.2315'}
+
+
+{'ip': '47.31.0.0', 'city': 'Delhi', 'region': 'Delhi', 'country': 'IN', 'loc': '28.6519,77.2315', 'org': 'AS55836 Reliance Jio Infocomm Limited', 'postal': '110001', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '28.6519', 'longitude': '77.2315'}
+
+
+{'ip': '47.8.0.0', 'city': 'Lucknow', 'region': 'Uttar Pradesh', 'country': 'IN', 'loc': '26.8393,80.9231', 'org': 'AS55836 Reliance Jio Infocomm Limited', 'postal': '226004', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '26.8393', 'longitude': '80.9231'}
+
+
+{'ip': '47.8.0.0', 'city': 'Lucknow', 'region': 'Uttar Pradesh', 'country': 'IN', 'loc': '26.8393,80.9231', 'org': 'AS55836 Reliance Jio Infocomm Limited', 'postal': '226004', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '26.8393', 'longitude': '80.9231'}
+
+
+{'ip': '47.9.0.0', 'city': 'Lucknow', 'region': 'Uttar Pradesh', 'country': 'IN', 'loc': '26.8393,80.9231', 'org': 'AS55836 Reliance Jio Infocomm Limited', 'postal': '226004', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '26.8393', 'longitude': '80.9231'}
+
+
+{'ip': '49.32.0.0', 'city': 'Mumbai', 'region': 'Maharashtra', 'country': 'IN', 'loc': '19.0728,72.8826', 'org': 'AS55836 Reliance Jio Infocomm Limited', 'postal': '400070', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '19.0728', 'longitude': '72.8826'}
+
+
+{'ip': '49.32.0.0', 'city': 'Mumbai', 'region': 'Maharashtra', 'country': 'IN', 'loc': '19.0728,72.8826', 'org': 'AS55836 Reliance Jio Infocomm Limited', 'postal': '400070', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '19.0728', 'longitude': '72.8826'}
+
+
+{'ip': '49.32.224.0', 'city': 'Mumbai', 'region': 'Maharashtra', 'country': 'IN', 'loc': '19.0728,72.8826', 'org': 'AS55836 Reliance Jio Infocomm Limited', 'postal': '400070', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '19.0728', 'longitude': '72.8826'}
+
+
+{'ip': '49.33.0.0', 'city': 'Pune', 'region': 'Maharashtra', 'country': 'IN', 'loc': '18.5196,73.8554', 'org': 'AS55836 Reliance Jio Infocomm Limited', 'postal': '411005', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '18.5196', 'longitude': '73.8554'}
+
+
+{'ip': '49.34.0.0', 'city': 'Ahmedabad', 'region': 'Gujarat', 'country': 'IN', 'loc': '23.0258,72.5873', 'org': 'AS55836 Reliance Jio Infocomm Limited', 'postal': '380001', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '23.0258', 'longitude': '72.5873'}
+
+
+{'ip': '49.35.0.0', 'city': 'Pune', 'region': 'Maharashtra', 'country': 'IN', 'loc': '18.5196,73.8554', 'org': 'AS55836 Reliance Jio Infocomm Limited', 'postal': '411005', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '18.5196', 'longitude': '73.8554'}
+
+
+{'ip': '49.36.0.0', 'city': 'Mumbai', 'region': 'Maharashtra', 'country': 'IN', 'loc': '19.0728,72.8826', 'org': 'AS55836 Reliance Jio Infocomm Limited', 'postal': '400070', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '19.0728', 'longitude': '72.8826'}
+
+
+{'ip': '49.36.0.0', 'city': 'Mumbai', 'region': 'Maharashtra', 'country': 'IN', 'loc': '19.0728,72.8826', 'org': 'AS55836 Reliance Jio Infocomm Limited', 'postal': '400070', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '19.0728', 'longitude': '72.8826'}
+
+
+{'ip': '49.36.0.0', 'city': 'Mumbai', 'region': 'Maharashtra', 'country': 'IN', 'loc': '19.0728,72.8826', 'org': 'AS55836 Reliance Jio Infocomm Limited', 'postal': '400070', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '19.0728', 'longitude': '72.8826'}
+
+
+{'ip': '49.36.0.0', 'city': 'Mumbai', 'region': 'Maharashtra', 'country': 'IN', 'loc': '19.0728,72.8826', 'org': 'AS55836 Reliance Jio Infocomm Limited', 'postal': '400070', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '19.0728', 'longitude': '72.8826'}
+
+
+{'ip': '49.36.1.0', 'city': 'Mumbai', 'region': 'Maharashtra', 'country': 'IN', 'loc': '19.0728,72.8826', 'org': 'AS55836 Reliance Jio Infocomm Limited', 'postal': '400070', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '19.0728', 'longitude': '72.8826'}
+
+
+{'ip': '49.36.128.0', 'city': 'Noida', 'region': 'Uttar Pradesh', 'country': 'IN', 'loc': '28.5800,77.3300', 'org': 'AS55836 Reliance Jio Infocomm Limited', 'postal': '201005', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '28.5800', 'longitude': '77.3300'}
+
+
+{'ip': '49.36.128.0', 'city': 'Noida', 'region': 'Uttar Pradesh', 'country': 'IN', 'loc': '28.5800,77.3300', 'org': 'AS55836 Reliance Jio Infocomm Limited', 'postal': '201005', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '28.5800', 'longitude': '77.3300'}
+
+
+{'ip': '49.36.160.0', 'city': 'Airoli', 'region': 'Maharashtra', 'country': 'IN', 'loc': '19.1167,72.9833', 'org': 'AS55836 Reliance Jio Infocomm Limited', 'postal': '400701', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '19.1167', 'longitude': '72.9833'}
+
+
+{'ip': '49.36.252.0', 'city': 'Airoli', 'region': 'Maharashtra', 'country': 'IN', 'loc': '19.1167,72.9833', 'org': 'AS55836 Reliance Jio Infocomm Limited', 'postal': '400701', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '19.1167', 'longitude': '72.9833'}
+
+
+{'ip': '49.36.255.0', 'city': 'Airoli', 'region': 'Maharashtra', 'country': 'IN', 'loc': '19.1167,72.9833', 'org': 'AS55836 Reliance Jio Infocomm Limited', 'postal': '400701', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '19.1167', 'longitude': '72.9833'}
+
+
+{'ip': '49.36.32.0', 'city': 'Indore', 'region': 'Madhya Pradesh', 'country': 'IN', 'loc': '22.7179,75.8333', 'org': 'AS55836 Reliance Jio Infocomm Limited', 'postal': '452002', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '22.7179', 'longitude': '75.8333'}
+
+
+{'ip': '49.36.8.0', 'city': 'Mumbai', 'region': 'Maharashtra', 'country': 'IN', 'loc': '19.0728,72.8826', 'org': 'AS55836 Reliance Jio Infocomm Limited', 'postal': '400070', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '19.0728', 'longitude': '72.8826'}
+
+
+{'ip': '49.37.0.0', 'city': 'Kolkata', 'region': 'West Bengal', 'country': 'IN', 'loc': '22.5626,88.3630', 'org': 'AS55836 Reliance Jio Infocomm Limited', 'postal': '700006', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '22.5626', 'longitude': '88.3630'}
+
+
+{'ip': '49.37.0.0', 'city': 'Kolkata', 'region': 'West Bengal', 'country': 'IN', 'loc': '22.5626,88.3630', 'org': 'AS55836 Reliance Jio Infocomm Limited', 'postal': '700006', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '22.5626', 'longitude': '88.3630'}
+
+
+{'ip': '49.37.128.0', 'city': 'Hyderabad', 'region': 'Telangana', 'country': 'IN', 'loc': '17.3840,78.4564', 'org': 'AS55836 Reliance Jio Infocomm Limited', 'postal': '500001', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '17.3840', 'longitude': '78.4564'}
+
+
+{'ip': '49.37.128.0', 'city': 'Hyderabad', 'region': 'Telangana', 'country': 'IN', 'loc': '17.3840,78.4564', 'org': 'AS55836 Reliance Jio Infocomm Limited', 'postal': '500001', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '17.3840', 'longitude': '78.4564'}
+
+
+{'ip': '49.37.160.0', 'city': 'Hyderabad', 'region': 'Telangana', 'country': 'IN', 'loc': '17.3840,78.4564', 'org': 'AS55836 Reliance Jio Infocomm Limited', 'postal': '500001', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '17.3840', 'longitude': '78.4564'}
+
+
+{'ip': '49.37.192.0', 'city': 'Bengaluru', 'region': 'Karnataka', 'country': 'IN', 'loc': '12.9719,77.5937', 'org': 'AS55836 Reliance Jio Infocomm Limited', 'postal': '560002', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '12.9719', 'longitude': '77.5937'}
+
+
+{'ip': '49.38.0.0', 'city': 'Pune', 'region': 'Maharashtra', 'country': 'IN', 'loc': '18.5196,73.8554', 'org': 'AS55836 Reliance Jio Infocomm Limited', 'postal': '411005', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '18.5196', 'longitude': '73.8554'}
+
+
+{'ip': '49.38.12.0', 'city': 'Airoli', 'region': 'Maharashtra', 'country': 'IN', 'loc': '19.1167,72.9833', 'org': 'AS55836 Reliance Jio Infocomm Limited', 'postal': '400701', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '19.1167', 'longitude': '72.9833'}
+
+
+{'ip': '49.38.16.0', 'city': 'Airoli', 'region': 'Maharashtra', 'country': 'IN', 'loc': '19.1167,72.9833', 'org': 'AS55836 Reliance Jio Infocomm Limited', 'postal': '400701', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '19.1167', 'longitude': '72.9833'}
+
+
+{'ip': '49.38.2.0', 'city': 'Airoli', 'region': 'Maharashtra', 'country': 'IN', 'loc': '19.1167,72.9833', 'org': 'AS55836 Reliance Jio Infocomm Limited', 'postal': '400701', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '19.1167', 'longitude': '72.9833'}
+
+
+{'ip': '49.38.24.0', 'city': 'Airoli', 'region': 'Maharashtra', 'country': 'IN', 'loc': '19.1167,72.9833', 'org': 'AS55836 Reliance Jio Infocomm Limited', 'postal': '400701', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '19.1167', 'longitude': '72.9833'}
+
+
+{'ip': '49.38.32.0', 'city': 'Airoli', 'region': 'Maharashtra', 'country': 'IN', 'loc': '19.1167,72.9833', 'org': 'AS55836 Reliance Jio Infocomm Limited', 'postal': '400701', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '19.1167', 'longitude': '72.9833'}
+
+
+{'ip': '49.38.4.0', 'city': 'Airoli', 'region': 'Maharashtra', 'country': 'IN', 'loc': '19.1167,72.9833', 'org': 'AS55836 Reliance Jio Infocomm Limited', 'postal': '400701', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '19.1167', 'longitude': '72.9833'}
+
+
+{'ip': '49.38.48.0', 'city': 'Airoli', 'region': 'Maharashtra', 'country': 'IN', 'loc': '19.1167,72.9833', 'org': 'AS55836 Reliance Jio Infocomm Limited', 'postal': '400701', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '19.1167', 'longitude': '72.9833'}
+
+
+{'ip': '49.38.6.0', 'city': 'Airoli', 'region': 'Maharashtra', 'country': 'IN', 'loc': '19.1167,72.9833', 'org': 'AS55836 Reliance Jio Infocomm Limited', 'postal': '400701', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '19.1167', 'longitude': '72.9833'}
+
+
+{'ip': '49.38.8.0', 'city': 'Airoli', 'region': 'Maharashtra', 'country': 'IN', 'loc': '19.1167,72.9833', 'org': 'AS55836 Reliance Jio Infocomm Limited', 'postal': '400701', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '19.1167', 'longitude': '72.9833'}
+
+
+{'ip': '49.40.0.0', 'city': 'Airoli', 'region': 'Maharashtra', 'country': 'IN', 'loc': '19.1167,72.9833', 'org': 'AS55836 Reliance Jio Infocomm Limited', 'postal': '400701', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '19.1167', 'longitude': '72.9833'}
+
+
+{'ip': '49.40.0.0', 'city': 'Airoli', 'region': 'Maharashtra', 'country': 'IN', 'loc': '19.1167,72.9833', 'org': 'AS55836 Reliance Jio Infocomm Limited', 'postal': '400701', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '19.1167', 'longitude': '72.9833'}
+
+
+{'ip': '49.40.1.0', 'city': 'Airoli', 'region': 'Maharashtra', 'country': 'IN', 'loc': '19.1167,72.9833', 'org': 'AS55836 Reliance Jio Infocomm Limited', 'postal': '400701', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '19.1167', 'longitude': '72.9833'}
+
+
+{'ip': '49.40.12.0', 'city': 'Airoli', 'region': 'Maharashtra', 'country': 'IN', 'loc': '19.1167,72.9833', 'org': 'AS55836 Reliance Jio Infocomm Limited', 'postal': '400701', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '19.1167', 'longitude': '72.9833'}
+
+
+{'ip': '49.40.14.0', 'city': 'Bengaluru', 'region': 'Karnataka', 'country': 'IN', 'loc': '12.9719,77.5937', 'org': 'AS55836 Reliance Jio Infocomm Limited', 'postal': '560002', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '12.9719', 'longitude': '77.5937'}
+
+
+{'ip': '49.40.16.0', 'city': 'Airoli', 'region': 'Maharashtra', 'country': 'IN', 'loc': '19.1167,72.9833', 'org': 'AS55836 Reliance Jio Infocomm Limited', 'postal': '400701', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '19.1167', 'longitude': '72.9833'}
+
+
+{'ip': '49.40.24.0', 'city': 'Airoli', 'region': 'Maharashtra', 'country': 'IN', 'loc': '19.1167,72.9833', 'org': 'AS55836 Reliance Jio Infocomm Limited', 'postal': '400701', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '19.1167', 'longitude': '72.9833'}
+
+
+{'ip': '49.40.25.0', 'city': 'Airoli', 'region': 'Maharashtra', 'country': 'IN', 'loc': '19.1167,72.9833', 'org': 'AS55836 Reliance Jio Infocomm Limited', 'postal': '400701', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '19.1167', 'longitude': '72.9833'}
+
+
+{'ip': '49.40.32.0', 'city': 'Airoli', 'region': 'Maharashtra', 'country': 'IN', 'loc': '19.1167,72.9833', 'org': 'AS55836 Reliance Jio Infocomm Limited', 'postal': '400701', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '19.1167', 'longitude': '72.9833'}
+
+
+{'ip': '49.40.33.0', 'city': 'Airoli', 'region': 'Maharashtra', 'country': 'IN', 'loc': '19.1167,72.9833', 'org': 'AS55836 Reliance Jio Infocomm Limited', 'postal': '400701', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '19.1167', 'longitude': '72.9833'}
+
+
+{'ip': '49.40.35.0', 'city': 'Airoli', 'region': 'Maharashtra', 'country': 'IN', 'loc': '19.1167,72.9833', 'org': 'AS55836 Reliance Jio Infocomm Limited', 'postal': '400701', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '19.1167', 'longitude': '72.9833'}
+
+
+{'ip': '49.40.36.0', 'city': 'Airoli', 'region': 'Maharashtra', 'country': 'IN', 'loc': '19.1167,72.9833', 'org': 'AS55836 Reliance Jio Infocomm Limited', 'postal': '400701', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '19.1167', 'longitude': '72.9833'}
+
+
+{'ip': '49.40.5.0', 'city': 'Airoli', 'region': 'Maharashtra', 'country': 'IN', 'loc': '19.1167,72.9833', 'org': 'AS55836 Reliance Jio Infocomm Limited', 'postal': '400701', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '19.1167', 'longitude': '72.9833'}
+
+
+{'ip': '49.40.60.0', 'city': 'Airoli', 'region': 'Maharashtra', 'country': 'IN', 'loc': '19.1167,72.9833', 'org': 'AS55836 Reliance Jio Infocomm Limited', 'postal': '400701', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '19.1167', 'longitude': '72.9833'}
+
+
+{'ip': '49.44.100.0', 'city': 'Pune', 'region': 'Maharashtra', 'country': 'IN', 'loc': '18.5196,73.8554', 'org': 'AS55836 Reliance Jio Infocomm Limited', 'postal': '411005', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '18.5196', 'longitude': '73.8554'}
+
+
+{'ip': '49.44.104.0', 'city': 'Pune', 'region': 'Maharashtra', 'country': 'IN', 'loc': '18.5196,73.8554', 'org': 'AS55836 Reliance Jio Infocomm Limited', 'postal': '411005', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '18.5196', 'longitude': '73.8554'}
+
+
+{'ip': '49.44.112.0', 'city': 'Pune', 'region': 'Maharashtra', 'country': 'IN', 'loc': '18.5196,73.8554', 'org': 'AS55836 Reliance Jio Infocomm Limited', 'postal': '411005', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '18.5196', 'longitude': '73.8554'}
+
+
+{'ip': '49.44.112.0', 'city': 'Pune', 'region': 'Maharashtra', 'country': 'IN', 'loc': '18.5196,73.8554', 'org': 'AS55836 Reliance Jio Infocomm Limited', 'postal': '411005', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '18.5196', 'longitude': '73.8554'}
+
+
+{'ip': '49.44.113.0', 'city': 'Pune', 'region': 'Maharashtra', 'country': 'IN', 'loc': '18.5196,73.8554', 'org': 'AS55836 Reliance Jio Infocomm Limited', 'postal': '411005', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '18.5196', 'longitude': '73.8554'}
+
+
+{'ip': '49.44.114.0', 'city': 'Pune', 'region': 'Maharashtra', 'country': 'IN', 'loc': '18.5196,73.8554', 'org': 'AS55836 Reliance Jio Infocomm Limited', 'postal': '411005', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '18.5196', 'longitude': '73.8554'}
+
+
+{'ip': '49.44.115.0', 'city': 'Pune', 'region': 'Maharashtra', 'country': 'IN', 'loc': '18.5196,73.8554', 'org': 'AS55836 Reliance Jio Infocomm Limited', 'postal': '411005', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '18.5196', 'longitude': '73.8554'}
+
+
+{'ip': '49.44.116.0', 'city': 'Pune', 'region': 'Maharashtra', 'country': 'IN', 'loc': '18.5196,73.8554', 'org': 'AS55836 Reliance Jio Infocomm Limited', 'postal': '411005', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '18.5196', 'longitude': '73.8554'}
+
+
+{'ip': '49.44.117.0', 'city': 'Pune', 'region': 'Maharashtra', 'country': 'IN', 'loc': '18.5196,73.8554', 'org': 'AS55836 Reliance Jio Infocomm Limited', 'postal': '411005', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '18.5196', 'longitude': '73.8554'}
+
+
+{'ip': '49.44.120.0', 'city': 'Pune', 'region': 'Maharashtra', 'country': 'IN', 'loc': '18.5196,73.8554', 'org': 'AS55836 Reliance Jio Infocomm Limited', 'postal': '411005', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '18.5196', 'longitude': '73.8554'}
+
+
+{'ip': '49.44.120.0', 'city': 'Pune', 'region': 'Maharashtra', 'country': 'IN', 'loc': '18.5196,73.8554', 'org': 'AS55836 Reliance Jio Infocomm Limited', 'postal': '411005', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '18.5196', 'longitude': '73.8554'}
+
+
+{'ip': '49.44.128.0', 'city': 'Airoli', 'region': 'Maharashtra', 'country': 'IN', 'loc': '19.1167,72.9833', 'org': 'AS55836 Reliance Jio Infocomm Limited', 'postal': '400701', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '19.1167', 'longitude': '72.9833'}
+
+
+{'ip': '49.44.130.0', 'city': 'Airoli', 'region': 'Maharashtra', 'country': 'IN', 'loc': '19.1167,72.9833', 'org': 'AS55836 Reliance Jio Infocomm Limited', 'postal': '400701', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '19.1167', 'longitude': '72.9833'}
+
+
+{'ip': '49.44.131.0', 'city': 'Airoli', 'region': 'Maharashtra', 'country': 'IN', 'loc': '19.1167,72.9833', 'org': 'AS55836 Reliance Jio Infocomm Limited', 'postal': '400701', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '19.1167', 'longitude': '72.9833'}
+
+
+{'ip': '49.44.132.0', 'city': 'Airoli', 'region': 'Maharashtra', 'country': 'IN', 'loc': '19.1167,72.9833', 'org': 'AS55836 Reliance Jio Infocomm Limited', 'postal': '400701', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '19.1167', 'longitude': '72.9833'}
+
+
+{'ip': '49.44.132.0', 'city': 'Airoli', 'region': 'Maharashtra', 'country': 'IN', 'loc': '19.1167,72.9833', 'org': 'AS55836 Reliance Jio Infocomm Limited', 'postal': '400701', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '19.1167', 'longitude': '72.9833'}
+
+
+{'ip': '49.44.138.0', 'city': 'Airoli', 'region': 'Maharashtra', 'country': 'IN', 'loc': '19.1167,72.9833', 'org': 'AS55836 Reliance Jio Infocomm Limited', 'postal': '400701', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '19.1167', 'longitude': '72.9833'}
+
+
+{'ip': '49.44.144.0', 'city': 'Airoli', 'region': 'Maharashtra', 'country': 'IN', 'loc': '19.1167,72.9833', 'org': 'AS55836 Reliance Jio Infocomm Limited', 'postal': '400701', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '19.1167', 'longitude': '72.9833'}
+
+
+{'ip': '49.44.144.0', 'city': 'Airoli', 'region': 'Maharashtra', 'country': 'IN', 'loc': '19.1167,72.9833', 'org': 'AS55836 Reliance Jio Infocomm Limited', 'postal': '400701', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '19.1167', 'longitude': '72.9833'}
+
+
+{'ip': '49.44.148.0', 'city': 'Airoli', 'region': 'Maharashtra', 'country': 'IN', 'loc': '19.1167,72.9833', 'org': 'AS55836 Reliance Jio Infocomm Limited', 'postal': '400701', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '19.1167', 'longitude': '72.9833'}
+
+
+{'ip': '49.44.152.0', 'city': 'Airoli', 'region': 'Maharashtra', 'country': 'IN', 'loc': '19.1167,72.9833', 'org': 'AS55836 Reliance Jio Infocomm Limited', 'postal': '400701', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '19.1167', 'longitude': '72.9833'}
+
+
+{'ip': '49.44.160.0', 'city': 'Airoli', 'region': 'Maharashtra', 'country': 'IN', 'loc': '19.1167,72.9833', 'org': 'AS55836 Reliance Jio Infocomm Limited', 'postal': '400701', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '19.1167', 'longitude': '72.9833'}
+
+
+{'ip': '49.44.160.0', 'city': 'Airoli', 'region': 'Maharashtra', 'country': 'IN', 'loc': '19.1167,72.9833', 'org': 'AS55836 Reliance Jio Infocomm Limited', 'postal': '400701', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '19.1167', 'longitude': '72.9833'}
+
+
+{'ip': '49.44.164.0', 'city': 'Airoli', 'region': 'Maharashtra', 'country': 'IN', 'loc': '19.1167,72.9833', 'org': 'AS55836 Reliance Jio Infocomm Limited', 'postal': '400701', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '19.1167', 'longitude': '72.9833'}
+
+
+{'ip': '49.44.168.0', 'city': 'Airoli', 'region': 'Maharashtra', 'country': 'IN', 'loc': '19.1167,72.9833', 'org': 'AS55836 Reliance Jio Infocomm Limited', 'postal': '400701', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '19.1167', 'longitude': '72.9833'}
+
+
+{'ip': '49.44.172.0', 'city': 'Airoli', 'region': 'Maharashtra', 'country': 'IN', 'loc': '19.1167,72.9833', 'org': 'AS55836 Reliance Jio Infocomm Limited', 'postal': '400701', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '19.1167', 'longitude': '72.9833'}
+
+
+{'ip': '49.44.175.0', 'city': 'Airoli', 'region': 'Maharashtra', 'country': 'IN', 'loc': '19.1167,72.9833', 'org': 'AS55836 Reliance Jio Infocomm Limited', 'postal': '400701', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '19.1167', 'longitude': '72.9833'}
+
+
+{'ip': '49.44.176.0', 'city': 'Airoli', 'region': 'Maharashtra', 'country': 'IN', 'loc': '19.1167,72.9833', 'org': 'AS55836 Reliance Jio Infocomm Limited', 'postal': '400701', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '19.1167', 'longitude': '72.9833'}
+
+
+{'ip': '49.44.176.0', 'city': 'Airoli', 'region': 'Maharashtra', 'country': 'IN', 'loc': '19.1167,72.9833', 'org': 'AS55836 Reliance Jio Infocomm Limited', 'postal': '400701', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '19.1167', 'longitude': '72.9833'}
+
+
+{'ip': '49.44.192.0', 'city': 'Airoli', 'region': 'Maharashtra', 'country': 'IN', 'loc': '19.1167,72.9833', 'org': 'AS55836 Reliance Jio Infocomm Limited', 'postal': '400701', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '19.1167', 'longitude': '72.9833'}
+
+
+{'ip': '49.44.193.0', 'city': 'Airoli', 'region': 'Maharashtra', 'country': 'IN', 'loc': '19.1167,72.9833', 'org': 'AS55836 Reliance Jio Infocomm Limited', 'postal': '400701', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '19.1167', 'longitude': '72.9833'}
+
+
+{'ip': '49.44.194.0', 'city': 'Airoli', 'region': 'Maharashtra', 'country': 'IN', 'loc': '19.1167,72.9833', 'org': 'AS55836 Reliance Jio Infocomm Limited', 'postal': '400701', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '19.1167', 'longitude': '72.9833'}
+
+
+{'ip': '49.44.195.0', 'city': 'Airoli', 'region': 'Maharashtra', 'country': 'IN', 'loc': '19.1167,72.9833', 'org': 'AS55836 Reliance Jio Infocomm Limited', 'postal': '400701', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '19.1167', 'longitude': '72.9833'}
+
+
+{'ip': '49.44.204.0', 'city': 'Airoli', 'region': 'Maharashtra', 'country': 'IN', 'loc': '19.1167,72.9833', 'org': 'AS55836 Reliance Jio Infocomm Limited', 'postal': '400701', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '19.1167', 'longitude': '72.9833'}
+
+
+{'ip': '49.44.217.0', 'city': 'Airoli', 'region': 'Maharashtra', 'country': 'IN', 'loc': '19.1167,72.9833', 'org': 'AS55836 Reliance Jio Infocomm Limited', 'postal': '400701', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '19.1167', 'longitude': '72.9833'}
+
+
+{'ip': '49.44.48.0', 'city': 'Pune', 'region': 'Maharashtra', 'country': 'IN', 'loc': '18.5196,73.8554', 'org': 'AS55836 Reliance Jio Infocomm Limited', 'postal': '411005', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '18.5196', 'longitude': '73.8554'}
+
+
+{'ip': '49.44.48.0', 'city': 'Pune', 'region': 'Maharashtra', 'country': 'IN', 'loc': '18.5196,73.8554', 'org': 'AS55836 Reliance Jio Infocomm Limited', 'postal': '411005', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '18.5196', 'longitude': '73.8554'}
+
+
+{'ip': '49.44.50.0', 'city': 'Pune', 'region': 'Maharashtra', 'country': 'IN', 'loc': '18.5196,73.8554', 'org': 'AS55836 Reliance Jio Infocomm Limited', 'postal': '411005', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '18.5196', 'longitude': '73.8554'}
+
+
+{'ip': '49.44.52.0', 'city': 'Pune', 'region': 'Maharashtra', 'country': 'IN', 'loc': '18.5196,73.8554', 'org': 'AS55836 Reliance Jio Infocomm Limited', 'postal': '411005', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '18.5196', 'longitude': '73.8554'}
+
+
+{'ip': '49.44.59.0', 'city': 'Pune', 'region': 'Maharashtra', 'country': 'IN', 'loc': '18.5196,73.8554', 'org': 'AS55836 Reliance Jio Infocomm Limited', 'postal': '411005', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '18.5196', 'longitude': '73.8554'}
+
+
+{'ip': '49.44.61.0', 'city': 'Pune', 'region': 'Maharashtra', 'country': 'IN', 'loc': '18.5196,73.8554', 'org': 'AS55836 Reliance Jio Infocomm Limited', 'postal': '411005', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '18.5196', 'longitude': '73.8554'}
+
+
+{'ip': '49.44.62.0', 'city': 'Pune', 'region': 'Maharashtra', 'country': 'IN', 'loc': '18.5196,73.8554', 'org': 'AS55836 Reliance Jio Infocomm Limited', 'postal': '411005', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '18.5196', 'longitude': '73.8554'}
+
+
+{'ip': '49.44.62.0', 'city': 'Pune', 'region': 'Maharashtra', 'country': 'IN', 'loc': '18.5196,73.8554', 'org': 'AS55836 Reliance Jio Infocomm Limited', 'postal': '411005', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '18.5196', 'longitude': '73.8554'}
+
+
+{'ip': '49.44.63.0', 'city': 'Pune', 'region': 'Maharashtra', 'country': 'IN', 'loc': '18.5196,73.8554', 'org': 'AS55836 Reliance Jio Infocomm Limited', 'postal': '411005', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '18.5196', 'longitude': '73.8554'}
+
+
+{'ip': '49.44.64.0', 'city': 'Pune', 'region': 'Maharashtra', 'country': 'IN', 'loc': '18.5196,73.8554', 'org': 'AS55836 Reliance Jio Infocomm Limited', 'postal': '411005', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '18.5196', 'longitude': '73.8554'}
+
+
+{'ip': '49.44.77.0', 'city': 'Pune', 'region': 'Maharashtra', 'country': 'IN', 'loc': '18.5196,73.8554', 'org': 'AS55836 Reliance Jio Infocomm Limited', 'postal': '411005', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '18.5196', 'longitude': '73.8554'}
+
+
+{'ip': '49.44.88.0', 'city': 'Pune', 'region': 'Maharashtra', 'country': 'IN', 'loc': '18.5196,73.8554', 'org': 'AS55836 Reliance Jio Infocomm Limited', 'postal': '411005', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '18.5196', 'longitude': '73.8554'}
+
+
+{'ip': '49.44.89.0', 'city': 'Pune', 'region': 'Maharashtra', 'country': 'IN', 'loc': '18.5196,73.8554', 'org': 'AS55836 Reliance Jio Infocomm Limited', 'postal': '411005', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '18.5196', 'longitude': '73.8554'}
+
+
+{'ip': '49.44.91.0', 'city': 'Pune', 'region': 'Maharashtra', 'country': 'IN', 'loc': '18.5196,73.8554', 'org': 'AS55836 Reliance Jio Infocomm Limited', 'postal': '411005', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '18.5196', 'longitude': '73.8554'}
+
+
+{'ip': '49.44.92.0', 'city': 'Pune', 'region': 'Maharashtra', 'country': 'IN', 'loc': '18.5196,73.8554', 'org': 'AS55836 Reliance Jio Infocomm Limited', 'postal': '411005', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '18.5196', 'longitude': '73.8554'}
+
+
+{'ip': '49.44.94.0', 'city': 'Pune', 'region': 'Maharashtra', 'country': 'IN', 'loc': '18.5196,73.8554', 'org': 'AS55836 Reliance Jio Infocomm Limited', 'postal': '411005', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '18.5196', 'longitude': '73.8554'}
+
+
+{'ip': '49.44.95.0', 'city': 'Pune', 'region': 'Maharashtra', 'country': 'IN', 'loc': '18.5196,73.8554', 'org': 'AS55836 Reliance Jio Infocomm Limited', 'postal': '411005', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '18.5196', 'longitude': '73.8554'}
+
+
+{'ip': '49.44.96.0', 'city': 'Pune', 'region': 'Maharashtra', 'country': 'IN', 'loc': '18.5196,73.8554', 'org': 'AS55836 Reliance Jio Infocomm Limited', 'postal': '411005', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '18.5196', 'longitude': '73.8554'}
+
+
+{'ip': '49.45.0.0', 'city': 'Airoli', 'region': 'Maharashtra', 'country': 'IN', 'loc': '19.1167,72.9833', 'org': 'AS55836 Reliance Jio Infocomm Limited', 'postal': '400701', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '19.1167', 'longitude': '72.9833'}
+
+
+{'ip': '49.45.0.0', 'city': 'Airoli', 'region': 'Maharashtra', 'country': 'IN', 'loc': '19.1167,72.9833', 'org': 'AS55836 Reliance Jio Infocomm Limited', 'postal': '400701', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '19.1167', 'longitude': '72.9833'}
+
+
+{'ip': '49.45.128.0', 'city': 'Gurgaon', 'region': 'Haryana', 'country': 'IN', 'loc': '28.4601,77.0263', 'org': 'AS55836 Reliance Jio Infocomm Limited', 'postal': '122004', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '28.4601', 'longitude': '77.0263'}
+
+
+{'ip': '49.46.0.0', 'city': 'New Delhi', 'region': 'Delhi', 'country': 'IN', 'loc': '28.6358,77.2245', 'org': 'AS55836 Reliance Jio Infocomm Limited', 'postal': '110001', 'timezone': 'Asia/Kolkata', 'country_name': 'India', 'latitude': '28.6358', 'longitude': '77.2245'}
+
+
