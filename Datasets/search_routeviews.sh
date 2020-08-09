@@ -1,47 +1,41 @@
 #!/bin/bash
 
-#pattern="122\\.160\\.153"
+#pattern="122\.160\.153\."
 
-#for pattern in $(cat Airtel_Raj_for_VM)
-#do
-
-options=$(cat Airtel_Raj_for_VM | tr -s '\n' ' ')
-for pattern in $options
+list=$(cat verified_IP_UP | tr -s '\n' ' ')
+for pattern in ${list}
 do
 
-echo -n "$pattern =  " #>> results.txt
+echo -n "$pattern =  "
 
-
-for j in $(ls)
+for DATES in $(ls)
 do
-	if [ -d $j ]
+	if [ -d ${DATES} ]
 	then
-	cd $j
+	cd ${DATES}
 
-	out=0
+	total=0
 
-	for i in $(ls)
+	for DUMPS in $(ls)
 	do
 
-		if [ -f $i ]
+		if [ -f ${DUMPS} ]
 		then
 
-		result=$(grep "$pattern" "$i" | wc -l)
-		out=$(($out + $result))
+		result=$(grep "${pattern}" "${DUMPS}" | wc -l)
+		total=$((${total} + ${result}))
 		fi
 
 	done
 
-	echo -n "$out " #>> results.txt
+	echo -n "${total} "
 
 	cd ..
 	
 	fi
 done
 
-echo "" # >> results.txt
+echo ""
 
 done
-
-
 
