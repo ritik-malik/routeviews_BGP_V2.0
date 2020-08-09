@@ -12,5 +12,7 @@ Then sort them according to the given set of IPs or AS
 4. Make the required graph<br>
 <br>
 
-#### UPDATE output folder
+#### To do
+UPDATE output folder \[Done]<br>
+Script for graph
 Still in testing...
